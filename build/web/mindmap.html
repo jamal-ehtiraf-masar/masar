@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>الخطاطة الذهنية</title>
+<!--
+  عارض الخطاطات الذهنية على المتصفح: يفتح من التطبيق (زر "فتح في المتصفح").
+  يعرض الخطاطة بدقّتها الكاملة مع إمكانية الانتقال إلى الخطاطة التالية أو
+  السابقة (أزرار + لوحة المفاتيح)، ويستدعي الفهرس assets/assets/mindmaps/manifest.json
+  لمعرفة ترتيب الخطاطات.
+-->
+<style>
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; background: #08110f; color: #f3e9d2;
+               font-family: "Segoe UI", Tahoma, Arial, sans-serif; }
+  body { display: flex; flex-direction: column; overflow: hidden; }
+
+  #toolbar { flex: 0 0 auto; z-index: 10; display: flex; align-items: center; gap: 8px;
+             padding: 8px 12px; background: rgba(8, 31, 31, 0.97); border-bottom: 1px solid #2c6e6e;
+             flex-wrap: wrap; }
+  #toolbar button { background: #1f5f5f; color: #ffe9b0; border: 1px solid #3aa; border-radius: 8px;
+                    padding: 7px 13px; cursor: pointer; font-size: 14px; font-family: inherit;
+                    display: inline-flex; align-items: center; gap: 6px; }
+  #toolbar button:hover:not(:disabled) { background: #2b7a7a; }
+  #toolbar button:disabled { opacity: .35; cursor: default; }
+  #toolbar button.primary { background: #8a6a1f; border-color: #c9a44a; }
+  #toolbar button.primary:hover:not(:disabled) { background: #a37f27; }
+  .arrow { display: inline-block; direction: ltr; unicode-bidi: isolate; font-size: 17px; line-height: 1; }
+  #pageno { min-width: 74px; text-align: center; color: #ffe9b0; font-size: 14px;
+            direction: ltr; unicode-bidi: isolate; }
+  #title { flex: 1 1 180px; min-width: 0; color: #ffe9b0; font-size: 14px; font-weight: 700;
+           white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #source { flex: 0 1 220px; min-width: 0; color: #b9a97f; font-size: 12px;
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #logo { height: 30px; width: 30px; border-radius: 50%; object-fit: cover;
+          border: 1px solid #2c6e6e; box-shadow: 0 0 0 2px rgba(8, 31, 31, .8); }
+
+  #stage { flex: 1 1 auto; overflow: auto; min-height: 0; display: flex;
+           align-items: center; justify-content: center; padding: 14px; }
+  #stage.zoomed { align-items: flex-start; justify-content: flex-start; }
+  #img { display: block; border-radius: 8px; background: #0d1a18;
+         box-shadow: 0 8px 30px rgba(0, 0, 0, .6); cursor: zoom-in; }
+  #img.natural { cursor: zoom-out; }
+  #loading, #errbox { flex: 1 1 auto; display: flex; align-items: center; justify-content: center;
+                      color: #c9b885; font-size: 16px; text-align: center; padding: 20px; }
+  #errbox { display: none; color: #f6d6d1; font-size: 15px; line-height: 1.9; }
+  .hidden { display: none !important; }
+  @media (max-width: 620px) { #source, #title { flex-basis: 100%; } }
+</style>
+</head>
+<body>
+  <div id="toolbar">
+    <button id="prev" title="الخطاطة السابقة"><span class="arrow">→</span> السابقة</button>
+    <button id="next" title="الخطاطة التالية">التالية <span class="arrow">←</span></button>
+    <span id="pageno">— / —</span>
+    <button id="fit" title="ملاءمة العرض">ملاءمة</button>
+    <button id="natural" title="الحجم الحقيقي">١٠٠٪</button>
+    <button id="raw" title="فتح ملف الصورة">الصورة الأصلية</button>
+    <span id="title"></span>
+    <span id="source"></span>
+    <img id="logo" src="icons/app_logo1.jpg" alt="شعار التطبيق">
+  </div>
+  <div id="loading">جارٍ فتح الخطاطة...</div>
+  <div id="errbox"></div>
+  <div id="stage" class="hidden"><img id="img" alt="الخطاطة الذهنية"></div>
+
+  <script>
+  (function () {
+    var $ = function (id) { return document.getElementById(id); };
+    var params = new URLSearchParams(location.search);
+    var rawPath = params.get('f') || '';
+    var ASSET_DIR = 'assets/assets/mindmaps/';
+    var MANIFEST = ASSET_DIR + 'manifest.json';
+
+    var items = [];       // كل الخطاطات مرتّبة
+    var index = 0;        // فهرس الحالية
+    var zoomed = false;
+
+    function fileOf(path) {
+      var p = String(path || '').replace(/\\/g, '/');
+      var i = p.lastIndexOf('/');
+      return i < 0 ? p : p.slice(i + 1);
+    }
+
+    function showErr(msg) {
+      $('loading').style.display = 'none';
+      $('toolbar').style.visibility = 'hidden';
+      var b = $('errbox');
+      b.style.display = 'flex';
+      b.textContent = msg;
+    }
+
+    // يبني رابط الصفحة للخطاطة المطلوبة (يحافظ على العنوان في الرابط)
+    function urlFor(item) {
+      return 'mindmap.html?f=' + encodeURIComponent(item.file) +
+             (item.title ? '&t=' + encodeURIComponent(item.title) : '');
+    }
+
+    function updatePager() {
+      $('pageno').textContent = (index + 1) + ' / ' + items.length;
+      $('prev').disabled = index <= 0;
+      $('next').disabled = index >= items.length - 1;
+    }
+
+    function render() {
+      var it = items[index];
+      if (!it) return;
+      $('img').src = ASSET_DIR + fileOf(it.file);
+      $('img').alt = it.title || 'الخطاطة الذهنية';
+      $('title').textContent = it.title || '';
+      $('source').textContent = it.source || '';
+      document.title = it.title || 'الخطاطة الذهنية';
+      $('raw').onclick = function () {
+        window.open(ASSET_DIR + fileOf(it.file), '_blank');
+      };
+      updatePager();
+      if (zoomed) applyNatural(); else applyFit();
+    }
+
+    function go(delta) {
+      var next = index + delta;
+      if (next < 0 || next >= items.length) return;
+      index = next;
+      try {
+        history.replaceState(null, '', urlFor(items[index]));
+      } catch (e) { /* تجاهل */ }
+      render();
+    }
+
+    // ملاءمة العرض: الصورة بعرض الحاوية
+    function applyFit() {
+      zoomed = false;
+      var stage = $('stage');
+      stage.classList.remove('zoomed');
+      var img = $('img');
+      img.classList.remove('natural');
+      img.removeAttribute('width');
+      img.style.maxWidth = '100%';
+      img.style.maxHeight = '100%';
+      img.style.width = 'auto';
+      img.style.height = 'auto';
+    }
+
+    // الحجم الحقيقي: بكسل واحد = بكسل واحد (مع تمرير)
+    function applyNatural() {
+      zoomed = true;
+      var stage = $('stage');
+      stage.classList.add('zoomed');
+      var img = $('img');
+      img.classList.add('natural');
+      img.style.maxWidth = 'none';
+      img.style.maxHeight = 'none';
+      img.style.width = 'auto';
+      img.style.height = 'auto';
+    }
+
+    $('prev').onclick = function () { go(-1); };
+    $('next').onclick = function () { go(1); };
+    $('fit').onclick = applyFit;
+    $('natural').onclick = applyNatural;
+    $('img').onclick = function () { zoomed ? applyFit() : applyNatural(); };
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowRight') { e.preventDefault(); go(-1); }        // في RTL: اليمين = السابق
+      else if (e.key === 'ArrowLeft') { e.preventDefault(); go(1); }    // في RTL: اليسار = التالي
+      else if (e.key === 'Home') { e.preventDefault(); go(-items.length); }
+      else if (e.key === 'End') { e.preventDefault(); go(items.length); }
+      else if (e.key === '0') { applyFit(); }
+    });
+
+    // تحميل الفهرس ثم تحديد موضع الخطاطة المطلوبة
+    fetch(MANIFEST, { cache: 'no-cache' })
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        items = (data && data.items) || [];
+        var want = fileOf(rawPath);
+        var found = -1;
+        for (var i = 0; i < items.length; i++) {
+          if (fileOf(items[i].file) === want) { found = i; break; }
+        }
+        if (found < 0) {
+          // الملف المطلوب ليس في الفهرس: نعرضه وحده
+          items = [{ file: rawPath, title: params.get('t') || 'الخطاطة الذهنية', source: '' }];
+          found = 0;
+        }
+        index = found;
+        $('loading').style.display = 'none';
+        $('stage').classList.remove('hidden');
+        render();
+      })
+      .catch(function (err) {
+        showErr('تعذّر تحميل فهرس الخطاطات الذهنية.\n' + (err && err.message ? err.message : err));
+      });
+  })();
+  </script>
+</body>
+</html>

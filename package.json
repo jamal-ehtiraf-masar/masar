@@ -1,0 +1,15 @@
+{
+  "name": "masar-ehtiraf-server",
+  "version": "1.0.8",
+  "private": true,
+  "description": "مسار Ehtiraf — خادم Node (Render + Supabase Storage)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

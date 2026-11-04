@@ -1,0 +1,1063 @@
+{
+    "ديداكتيك الرياضيات": [
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/01.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/01.txt",
+            "name": "ديداكتيك الرياضيات - التعليم الابتدائي 2025",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/02.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/02.txt",
+            "name": "ديداكتيك الرياضيات - النسخة النهائية للمنهاج يوليو 2021",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/03.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/03.txt",
+            "name": "2 تخطيط رياضيات",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/04.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/04.txt",
+            "name": "الجيد في الرياضيات",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/05.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/05.txt",
+            "name": "تقديم بعض مفاهيم الرياضيات قطبان",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/06.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/06.txt",
+            "name": "ديداكتيك الرياضيات خالد حمام -عرض منقح",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/09.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/09.txt",
+            "name": "عرض الرياضيات",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/10.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/10.txt",
+            "name": "قياس الكتل2",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/11.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/11.txt",
+            "name": "مذاكرة في ديداكتيك الرياضيات بالمدرسة الابتدائية استعدادا لمباراة التفتيش",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/13.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/13.txt",
+            "name": "مصفوفة المدى و التتابع كاملة للرياضيات في السلك الابتدائي عبد الغني اسليماني",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/14.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/14.txt",
+            "name": "ملخص المنهاج الدراسي للتعليم الابتدائي للرياضيات",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/07.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/07.txt",
+            "name": "ديداكتيك الرياضيات خالد حمام",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/08.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/08.txt",
+            "name": "ديداكتيك الرياضيات في المدرسة المغربية -نورالدين عزمي",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك الرياضيات/12.pdf",
+            "txt": "assets/review_files/ديداكتيك الرياضيات/12.txt",
+            "name": "مصادر الخطأ خالد حمام",
+            "quiz": true
+        }
+    ],
+    "ديداكتيك اللغة الأمازيغية": [],
+    "ديداكتيك اللغة العربية": [
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/01.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/01.txt",
+            "name": "الصعوبات والتعثرات في اللغة العربية ومعالجتها",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/02.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/02.txt",
+            "name": "ديداكتيك اللغة العربية - التعليم الابتدائي 2025",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/03.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/03.txt",
+            "name": "ديداكتيك اللغة العربية - النسخة النهائية للمنهاج يوليو 2021",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/04.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/04.txt",
+            "name": "كتابي في العربي - السنة السادسة",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/05.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/05.txt",
+            "name": "منهجية الاستماع والتحدث",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/06.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/06.txt",
+            "name": "المستوى الأول العربية",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/07.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/07.txt",
+            "name": "المستوى الثالث عربية",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/08.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/08.txt",
+            "name": "المستوى الثاني عربية",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/09.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/09.txt",
+            "name": "المستوى الخامس عربية",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/10.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/10.txt",
+            "name": "المستوى الرابع عربية",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/11.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/11.txt",
+            "name": "دليل رقم6 إنتاج الوسائل التعليمية وتدبير الأنشطة الصفية في اللغة العربية(2)",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة العربية/12.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة العربية/12.txt",
+            "name": "ديدكتيك التعبير الكتابي بالمدرسة الابتدائية",
+            "quiz": true
+        }
+    ],
+    "ديداكتيك اللغة الفرنسية": [
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/01.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/01.txt",
+            "name": "Didactique du français - EL MUSTAPHA",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/02.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/02.txt",
+            "name": "Enseignement-apprentissage du FLE au primaire",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/03.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/03.txt",
+            "name": "Répartition des matières 2020-2021",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/04.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/04.txt",
+            "name": "1re AEP Guide Francais Final 2020",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/10.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/10.txt",
+            "name": "Didactique du français youssef najimi",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/12.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/12.txt",
+            "name": "GUIDE DE Français prat 6",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/14.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/14.txt",
+            "name": "Les rythmes scolaires et les rythmes de l enfant",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/15.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/15.txt",
+            "name": "Loasis des mots 3",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/18.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/18.txt",
+            "name": "Mon Livre de Francais 4-2019",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/19.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/19.txt",
+            "name": "Mon-Livre-de-franA§ais FranA§ais2AP",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/21.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/21.txt",
+            "name": "Parcours de francais 6",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/22.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/22.txt",
+            "name": "didactique du français",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/23.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/23.txt",
+            "name": "didactique français Hamdi 23 24 -",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/24.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/24.txt",
+            "name": "guide mes apprentissage",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/05.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/05.txt",
+            "name": "Démarche méthodologique - Activités",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/06.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/06.txt",
+            "name": "Albert Bandura - didactique du français",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/07.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/07.txt",
+            "name": "La sociolinguistique - didactique du français",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/08.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/08.txt",
+            "name": "Didactique du français (module)",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/09.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/09.txt",
+            "name": "Didactique du français (module 2)",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/11.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/11.txt",
+            "name": "Eléments de didactique du français",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/13.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/13.txt",
+            "name": "Evaluation en didactique du français",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/16.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/16.txt",
+            "name": "La motivation - didactique du français",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/17.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/17.txt",
+            "name": "Méthodologie - didactique du français",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك اللغة الفرنسية/20.pdf",
+            "txt": "assets/review_files/ديداكتيك اللغة الفرنسية/20.txt",
+            "name": "Les pédagogues - didactique du français",
+            "quiz": true
+        }
+    ],
+    "ديداكتيك النشاط العلمي": [
+        {
+            "pdf": "assets/review_files/ديداكتيك النشاط العلمي/01.pdf",
+            "txt": "assets/review_files/ديداكتيك النشاط العلمي/01.txt",
+            "name": "مفاهيم النشاط العلمي",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك النشاط العلمي/02.pdf",
+            "txt": "assets/review_files/ديداكتيك النشاط العلمي/02.txt",
+            "name": "نهج التقصي وأهمية الوسيلة التعليمية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك النشاط العلمي/03.pdf",
+            "txt": "assets/review_files/ديداكتيك النشاط العلمي/03.txt",
+            "name": "المستوى الثاني ن. علمي",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك النشاط العلمي/04.pdf",
+            "txt": "assets/review_files/ديداكتيك النشاط العلمي/04.txt",
+            "name": "المستوى الخامس ن. علمي",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك النشاط العلمي/05.pdf",
+            "txt": "assets/review_files/ديداكتيك النشاط العلمي/05.txt",
+            "name": "النهوج العلمية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك النشاط العلمي/06.pdf",
+            "txt": "assets/review_files/ديداكتيك النشاط العلمي/06.txt",
+            "name": "تجارب النشاط العلمي-1",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك النشاط العلمي/08.pdf",
+            "txt": "assets/review_files/ديداكتيك النشاط العلمي/08.txt",
+            "name": "ديدكتيك النشاط العلمي",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/ديداكتيك النشاط العلمي/07.pdf",
+            "txt": "assets/review_files/ديداكتيك النشاط العلمي/07.txt",
+            "name": "ديداكتيك النشاط العلمي - البختي",
+            "quiz": true
+        }
+    ],
+    "علوم التربية": [
+        {
+            "pdf": "assets/review_files/علوم التربية/05.pdf",
+            "txt": "assets/review_files/علوم التربية/05.txt",
+            "name": "التخطيط والتوثيق التربويان",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/06.pdf",
+            "txt": "assets/review_files/علوم التربية/06.txt",
+            "name": "التنشيط والتواصل - وضعيات تقويمية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/07.pdf",
+            "txt": "assets/review_files/علوم التربية/07.txt",
+            "name": "الدورة التكوينية يوليوز 2024",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/08.pdf",
+            "txt": "assets/review_files/علوم التربية/08.txt",
+            "name": "المساهمات المنهجية - هشام قطبان",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/09.pdf",
+            "txt": "assets/review_files/علوم التربية/09.txt",
+            "name": "المقاربات البيداغوجية - مدونة غيث التربوية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/01.pdf",
+            "txt": "assets/review_files/علوم التربية/01.txt",
+            "name": "المقاربات-التعليمية-والنماذج-العملية-للأنظمة-التعليمية-في-العالم",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/10.pdf",
+            "txt": "assets/review_files/علوم التربية/10.txt",
+            "name": "اليوم الثالث",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/11.pdf",
+            "txt": "assets/review_files/علوم التربية/11.txt",
+            "name": "اليوم الثاني",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/02.pdf",
+            "txt": "assets/review_files/علوم التربية/02.txt",
+            "name": "تلخيص نظريات التعلم والمقاربات",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/12.pdf",
+            "txt": "assets/review_files/علوم التربية/12.txt",
+            "name": "تنمية المهارات الحياتية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/13.pdf",
+            "txt": "assets/review_files/علوم التربية/13.txt",
+            "name": "دليل رقم 4 - تدبير الأنشطة الصفية ودعم التعلمات",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/14.pdf",
+            "txt": "assets/review_files/علوم التربية/14.txt",
+            "name": "دليل رقم 5 - استراتيجيات وممارسات في ضوء البيداغوجيا الفارقية",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/15.pdf",
+            "txt": "assets/review_files/علوم التربية/15.txt",
+            "name": "عدة التكوين بسلك الإدارة - 10 شتنبر 2022",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/16.pdf",
+            "txt": "assets/review_files/علوم التربية/16.txt",
+            "name": "عرض إطار التنزيل الإجرائي لخارطة الطريق",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/17.pdf",
+            "txt": "assets/review_files/علوم التربية/17.txt",
+            "name": "علوم التربية لجميع التخصصات 2025",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/18.pdf",
+            "txt": "assets/review_files/علوم التربية/18.txt",
+            "name": "ما قل ودل في التربية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/19.pdf",
+            "txt": "assets/review_files/علوم التربية/19.txt",
+            "name": "مجزوءة التقويم - النسخة النهائية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/20.pdf",
+            "txt": "assets/review_files/علوم التربية/20.txt",
+            "name": "مجزوءة مشروع المؤسسة المندمج رسمي",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/21.pdf",
+            "txt": "assets/review_files/علوم التربية/21.txt",
+            "name": "مستجدات التربية والتكوين",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/22.pdf",
+            "txt": "assets/review_files/علوم التربية/22.txt",
+            "name": "مطبوع مجزوءة التخطيط - النسخة النهائية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/23.pdf",
+            "txt": "assets/review_files/علوم التربية/23.txt",
+            "name": "مطبوع مجزوءة الديدكتيك - ostad.ma",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/24.pdf",
+            "txt": "assets/review_files/علوم التربية/24.txt",
+            "name": "مطبوع مجزوءة علوم التربية - ostad.ma",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/25.pdf",
+            "txt": "assets/review_files/علوم التربية/25.txt",
+            "name": "مقترحات خطة الاستعداد للامتحان المهني - هشام قطبان",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/03.pdf",
+            "txt": "assets/review_files/علوم التربية/03.txt",
+            "name": "نظريات التعلم وتطبيقاتها",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/26.pdf",
+            "txt": "assets/review_files/علوم التربية/26.txt",
+            "name": "TIMSS-PIRLS-PNEA-PISA التقييمات بمنظومة التعليم",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/27.pdf",
+            "txt": "assets/review_files/علوم التربية/27.txt",
+            "name": "مشروع المؤسسة المندمج - دليل 014x24",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/28.pdf",
+            "txt": "assets/review_files/علوم التربية/28.txt",
+            "name": "مشروع المؤسسة المندمج - دليل 087x21",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/29.pdf",
+            "txt": "assets/review_files/علوم التربية/29.txt",
+            "name": "1030 سؤال في علوم التربية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/30.pdf",
+            "txt": "assets/review_files/علوم التربية/30.txt",
+            "name": "154 تأمين الزمن المدرسي",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/31.pdf",
+            "txt": "assets/review_files/علوم التربية/31.txt",
+            "name": "212 سؤال وجواب على شكل QCM",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/32.pdf",
+            "txt": "assets/review_files/علوم التربية/32.txt",
+            "name": "مقالة علمية 23966-62853-1-PB",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/33.pdf",
+            "txt": "assets/review_files/علوم التربية/33.txt",
+            "name": "القياس النفسي والتربوي 3",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/34.pdf",
+            "txt": "assets/review_files/علوم التربية/34.txt",
+            "name": "مذكرة 11419-0810-2019",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/35.pdf",
+            "txt": "assets/review_files/علوم التربية/35.txt",
+            "name": "PROGRAMME GOUVERNEMENTAL - 2021-2026",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/36.pdf",
+            "txt": "assets/review_files/علوم التربية/36.txt",
+            "name": "Curriculum - المنهاج الدراسي",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/37.pdf",
+            "txt": "assets/review_files/علوم التربية/37.txt",
+            "name": "القرار 062.19 - التوجيه المدرسي",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/38.pdf",
+            "txt": "assets/review_files/علوم التربية/38.txt",
+            "name": "تحليل نص في السياسات العمومية التربوية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/39.pdf",
+            "txt": "assets/review_files/علوم التربية/39.txt",
+            "name": "المرسوم رقم 2.20.475 المتعلق بأداور ومهام جمعيات أمهات وآباء وأولياء التلاميذ",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/40.pdf",
+            "txt": "assets/review_files/علوم التربية/40.txt",
+            "name": "مستجدات التربية والتكوين - Orion PEI",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/41.pdf",
+            "txt": "assets/review_files/علوم التربية/41.txt",
+            "name": "إحداث وتنظيم التدرج المهني",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/42.pdf",
+            "txt": "assets/review_files/علوم التربية/42.txt",
+            "name": "ارساء المشروع الشخصي للمتعلم",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/43.pdf",
+            "txt": "assets/review_files/علوم التربية/43.txt",
+            "name": "استرلتيجية التكوين المستمر",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/44.pdf",
+            "txt": "assets/review_files/علوم التربية/44.txt",
+            "name": "الأستاذ الرئيس",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/45.pdf",
+            "txt": "assets/review_files/علوم التربية/45.txt",
+            "name": "الأستاذ الرئييس",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/46.pdf",
+            "txt": "assets/review_files/علوم التربية/46.txt",
+            "name": "الأسس والمرجعيات المؤطرة للسياسات العمومية في التربية والتكوين",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/47.pdf",
+            "txt": "assets/review_files/علوم التربية/47.txt",
+            "name": "الأندية التربوية",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/48.pdf",
+            "txt": "assets/review_files/علوم التربية/48.txt",
+            "name": "الارتقاء بالتوجيه المدرسي",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/49.pdf",
+            "txt": "assets/review_files/علوم التربية/49.txt",
+            "name": "البرنامج الاستعجالي 2012 - 2009",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/50.pdf",
+            "txt": "assets/review_files/علوم التربية/50.txt",
+            "name": "البرنامج الحكومي",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/51.pdf",
+            "txt": "assets/review_files/علوم التربية/51.txt",
+            "name": "البيداغوجيا الفارقية وتطبيقاتها التربوية في تدبير أسابيع التقويم والدعم والتوليف",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/52.pdf",
+            "txt": "assets/review_files/علوم التربية/52.txt",
+            "name": "البيداغوجيات الوظيفية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/53.pdf",
+            "txt": "assets/review_files/علوم التربية/53.txt",
+            "name": "التدابير ذات الأولوية مارس 2015",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/54.pdf",
+            "txt": "assets/review_files/علوم التربية/54.txt",
+            "name": "التربية الدامجة الجزء 1",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/55.pdf",
+            "txt": "assets/review_files/علوم التربية/55.txt",
+            "name": "التربية الدامجة الجزء 2",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/56.pdf",
+            "txt": "assets/review_files/علوم التربية/56.txt",
+            "name": "التربية الدامجة الجزء 3",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/57.pdf",
+            "txt": "assets/review_files/علوم التربية/57.txt",
+            "name": "التربية الدامجةAR",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/58.pdf",
+            "txt": "assets/review_files/علوم التربية/58.txt",
+            "name": "التشريع المدرسي و أخلاقيات المهنة",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/59.pdf",
+            "txt": "assets/review_files/علوم التربية/59.txt",
+            "name": "التشريع المدرسي وأخلاقيات المهنة tarbiawataalim.com",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/60.pdf",
+            "txt": "assets/review_files/علوم التربية/60.txt",
+            "name": "التشريع والقانون.",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/61.pdf",
+            "txt": "assets/review_files/علوم التربية/61.txt",
+            "name": "التقرير التحليلي للمجلس الأعلى للتعليم 2008",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/62.pdf",
+            "txt": "assets/review_files/علوم التربية/62.txt",
+            "name": "التقويم هشام قطبان",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/63.pdf",
+            "txt": "assets/review_files/علوم التربية/63.txt",
+            "name": "التواصل والتنشيط والوساطة",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/64.pdf",
+            "txt": "assets/review_files/علوم التربية/64.txt",
+            "name": "الحكامة والتدبير في النظام التربوي المغربي3",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/65.pdf",
+            "txt": "assets/review_files/علوم التربية/65.txt",
+            "name": "الرؤية الاستراتجية 2030 - 2015",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/66.pdf",
+            "txt": "assets/review_files/علوم التربية/66.txt",
+            "name": "الفرصة الثانية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/67.pdf",
+            "txt": "assets/review_files/علوم التربية/67.txt",
+            "name": "القانون الإطار من المادة 1 إلى 18",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/68.pdf",
+            "txt": "assets/review_files/علوم التربية/68.txt",
+            "name": "القانون الإطار من المادة 19 إلى 35",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/69.pdf",
+            "txt": "assets/review_files/علوم التربية/69.txt",
+            "name": "القانون الإطار من المادة 36 إلى 59",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/70.pdf",
+            "txt": "assets/review_files/علوم التربية/70.txt",
+            "name": "القانون الإطار من المادة 53 إلى 56",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/71.pdf",
+            "txt": "assets/review_files/علوم التربية/71.txt",
+            "name": "القياس والتقويم",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/72.pdf",
+            "txt": "assets/review_files/علوم التربية/72.txt",
+            "name": "المجال البيداغوجي والممارسة المهنية إعدادي 2012 - 2021",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/73.pdf",
+            "txt": "assets/review_files/علوم التربية/73.txt",
+            "name": "المجلس الاعلى",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/74.pdf",
+            "txt": "assets/review_files/علوم التربية/74.txt",
+            "name": "المهارات الحياتية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/75.pdf",
+            "txt": "assets/review_files/علوم التربية/75.txt",
+            "name": "الميثاق الوطني للتربية والتكوين",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/76.pdf",
+            "txt": "assets/review_files/علوم التربية/76.txt",
+            "name": "الميثاق",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/77.pdf",
+            "txt": "assets/review_files/علوم التربية/77.txt",
+            "name": "النظام الأساسي",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/78.pdf",
+            "txt": "assets/review_files/علوم التربية/78.txt",
+            "name": "النظام المدرسي في التعليم الأولي والابتدائي والثانوي",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/79.pdf",
+            "txt": "assets/review_files/علوم التربية/79.txt",
+            "name": "النمودج التنموي الجزء الأول",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/80.pdf",
+            "txt": "assets/review_files/علوم التربية/80.txt",
+            "name": "النمودج التنموي الجزء الثاني",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/81.pdf",
+            "txt": "assets/review_files/علوم التربية/81.txt",
+            "name": "النموذج التنموي الجديد",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/82.pdf",
+            "txt": "assets/review_files/علوم التربية/82.txt",
+            "name": "بيداخوجي",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/83.pdf",
+            "txt": "assets/review_files/علوم التربية/83.txt",
+            "name": "تصحيح (100) سؤال",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/84.pdf",
+            "txt": "assets/review_files/علوم التربية/84.txt",
+            "name": "جمعية دعم مدرسة النجاح",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/85.pdf",
+            "txt": "assets/review_files/علوم التربية/85.txt",
+            "name": "خارطة الطريق 12 إلتزام",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/86.pdf",
+            "txt": "assets/review_files/علوم التربية/86.txt",
+            "name": "خارطة الطريق",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/87.pdf",
+            "txt": "assets/review_files/علوم التربية/87.txt",
+            "name": "دليل الحياة المدرسية 2020",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/88.pdf",
+            "txt": "assets/review_files/علوم التربية/88.txt",
+            "name": "سيكولوجيا التربية",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/89.pdf",
+            "txt": "assets/review_files/علوم التربية/89.txt",
+            "name": "ظهير شريف رقم 1.00.201 - النظام الأساسي للتعليم الأولي",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/90.pdf",
+            "txt": "assets/review_files/علوم التربية/90.txt",
+            "name": "ظهير شريف رقم 1.14.100 - المجلس الأعلى للتربية",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/91.pdf",
+            "txt": "assets/review_files/علوم التربية/91.txt",
+            "name": "ظهير شريف رقم 1.63.071 - إلزامية التعليم الأساسي",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/92.pdf",
+            "txt": "assets/review_files/علوم التربية/92.txt",
+            "name": "ضوابط وأخلاقيات الممارسة السيكوبيداغوجية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/93.pdf",
+            "txt": "assets/review_files/علوم التربية/93.txt",
+            "name": "ظهير التعليم الأولي",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/94.pdf",
+            "txt": "assets/review_files/علوم التربية/94.txt",
+            "name": "عرض حول المؤسسة المندمج",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/95.pdf",
+            "txt": "assets/review_files/علوم التربية/95.txt",
+            "name": "عرض حول مشروع المؤسسة المندمج سلم بوها صمبا",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/96.pdf",
+            "txt": "assets/review_files/علوم التربية/96.txt",
+            "name": "عرض خارطة الطريق",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/97.pdf",
+            "txt": "assets/review_files/علوم التربية/97.txt",
+            "name": "فروع علم النفس",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/98.pdf",
+            "txt": "assets/review_files/علوم التربية/98.txt",
+            "name": "قراءة في القانون الاطار",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/99.pdf",
+            "txt": "assets/review_files/علوم التربية/99.txt",
+            "name": "كتاب تصحيح جميع الامتحانات لعلوم التربية منذ 2012 للنشر",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/100.pdf",
+            "txt": "assets/review_files/علوم التربية/100.txt",
+            "name": "مجالس المؤسسة",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/101.pdf",
+            "txt": "assets/review_files/علوم التربية/101.txt",
+            "name": "مذكرة المدارس الجماعاتية",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/102.pdf",
+            "txt": "assets/review_files/علوم التربية/102.txt",
+            "name": "مرسوم اللجنة الدائمة",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/103.pdf",
+            "txt": "assets/review_files/علوم التربية/103.txt",
+            "name": "مرسوم جمعية آباء و أولياء التلاميذ",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/104.pdf",
+            "txt": "assets/review_files/علوم التربية/104.txt",
+            "name": "مرسوم رقم 2.20.472 بتاريخ 24 غشت 2021 في شأن دروس الدعم التربوي",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/105.pdf",
+            "txt": "assets/review_files/علوم التربية/105.txt",
+            "name": "مشاريع القانون الإطار",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/106.pdf",
+            "txt": "assets/review_files/علوم التربية/106.txt",
+            "name": "مشكلة الكذب في سلوك الاطفال",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/107.pdf",
+            "txt": "assets/review_files/علوم التربية/107.txt",
+            "name": "مطوية حول المشروع الشخصي اكتوبر",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/108.pdf",
+            "txt": "assets/review_files/علوم التربية/108.txt",
+            "name": "مفتاحك للنجاح في الكفاءة المهنية ببساطة",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/109.pdf",
+            "txt": "assets/review_files/علوم التربية/109.txt",
+            "name": "ملخص القياس و التقويم",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/110.pdf",
+            "txt": "assets/review_files/علوم التربية/110.txt",
+            "name": "ملف كامل حول مستجدات التربية والتكوين لفائدة المقبلين على مباريات التعاقد2018",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/111.pdf",
+            "txt": "assets/review_files/علوم التربية/111.txt",
+            "name": "مهارة ضبط القسم",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/112.pdf",
+            "txt": "assets/review_files/علوم التربية/112.txt",
+            "name": "مهام أطر التوجيه والتخطيط التربوي",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/113.pdf",
+            "txt": "assets/review_files/علوم التربية/113.txt",
+            "name": "نظريات التعلم من إعداد توفيق لخصاص",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/114.pdf",
+            "txt": "assets/review_files/علوم التربية/114.txt",
+            "name": "نظريات التعلم و المستجدات",
+            "quiz": false
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/115.pdf",
+            "txt": "assets/review_files/علوم التربية/115.txt",
+            "name": "نظريات التعلم وتطبيقاتها التربوية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/116.pdf",
+            "txt": "assets/review_files/علوم التربية/116.txt",
+            "name": "نظريات التعلم",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/117.pdf",
+            "txt": "assets/review_files/علوم التربية/117.txt",
+            "name": "نظريات الشخصية",
+            "quiz": true
+        },
+        {
+            "pdf": "assets/review_files/علوم التربية/118.pdf",
+            "txt": "assets/review_files/علوم التربية/118.txt",
+            "name": "نموذج جمعية دعم مدرسة النجاح",
+            "quiz": true
+        }
+    ]
+}

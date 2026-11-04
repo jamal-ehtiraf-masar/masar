@@ -1,0 +1,1196 @@
+[
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on « évaluation diagnostique » en début d'apprentissage ou d'année scolaire ?",
+  "options": [
+   "Une évaluation visant à identifier les prérequis, les acquis antérieurs et les représentations des élèves pour ajuster l'enseignement",
+   "Une évaluation visant à identifier les prérequis, les acquis antérieurs et les représentations des élèves pour ajuster l'enseignement، وذلك وفق المقاربة السلوكية",
+   "Une évaluation visant à identifier les prérequis, les acquis antérieurs et les représentations des élèves pour ajuster l'enseignement، وذلك في إطار بيداغوجيا الأهداف",
+   "Une évaluation visant à identifier les prérequis, les acquis antérieurs et les représentations des élèves pour ajuster l'enseignement، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Une évaluation visant à identifier les prérequis, les acquis antérieurs et les représentations des élèves pour ajuster l'enseignement» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif principal de la « remédiation immédiate » en cours de séance ?",
+  "options": [
+   "Attendre la fin du trimestre pour sanctionner les erreurs lors de l'examen écrit",
+   "Refaire l'intégralité du programme annuel de français en double vitesse",
+   "Toutes les réponses précédentes sont fausses",
+   "Apporter une réponse directe à un blocage ou une incompréhension passagère pour dépasser l'obstacle، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle est la distinction fondamentale entre « prérequis » et « pré-acquis » lors d'un diagnostic ?",
+  "options": [
+   "Les prérequis sont indispensables pour aborder le nouvel apprentissage, tandis que les pré-acquis englobent l'ensemble des connaissances antérieures",
+   "Les prérequis sont indispensables pour aborder le nouvel apprentissage, tandis que les pré-acquis englobent l'ensemble des connaissances antérieures، وذلك وفق المقاربة السلوكية",
+   "Les prérequis sont indispensables pour aborder le nouvel apprentissage, tandis que les pré-acquis englobent l'ensemble des connaissances antérieures، وذلك في إطار بيداغوجيا الأهداف",
+   "Les prérequis sont indispensables pour aborder le nouvel apprentissage, tandis que les pré-acquis englobent l'ensemble des connaissances antérieures، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Les prérequis sont indispensables pour aborder le nouvel apprentissage, tandis que les pré-acquis englobent l'ensemble des connaissances antérieures» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle est la première étape indispensable dans la démarche de « diagnostic et remédiation » d'une erreur ?",
+  "options": [
+   "Le repérage et la description précise de l'erreur commise dans la production de l'élève",
+   "L'application immédiate d'une punition corporelle ou de lignes à copier cent fois",
+   "L'ignorance volontaire de l'erreur pour préserver l'estime de soi de l'enfant",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Le repérage et la description précise de l'erreur commise dans la production de l'élève» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une « évaluation sommative » (ou certificative) ?",
+  "options": [
+   "Un bilan des acquis réalisé au terme d'une période d'apprentissage pour sanctionner ou certifier un niveau",
+   "Un bilan des acquis réalisé au terme d'une période d'apprentissage pour sanctionner ou certifier un niveau، وذلك وفق المقاربة السلوكية",
+   "Un bilan des acquis réalisé au terme d'une période d'apprentissage pour sanctionner ou certifier un niveau، وذلك في إطار بيداغوجيا الأهداف",
+   "Un bilan des acquis réalisé au terme d'une période d'apprentissage pour sanctionner ou certifier un niveau، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Un bilan des acquis réalisé au terme d'une période d'apprentissage pour sanctionner ou certifier un niveau» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Pourquoi qualifie-t-on l'erreur de « levier d'apprentissage » dans la pédagogie moderne ?",
+  "options": [
+   "Parce qu'elle permet de baisser automatiquement la moyenne de la classe sans effort",
+   "Parce qu'elle indique que l'élève refuse catégoriquement d'assister aux cours",
+   "Toutes les réponses précédentes sont fausses",
+   "Parce qu'elle révèle le fonctionnement cognitif de l'élève et permet d'adapter l'intervention pédagogique، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on « remédiation différée » (ou programmée) ?",
+  "options": [
+   "Un dispositif planifié (ex: en semaine 5 ou lors des heures de soutien) pour traiter des lacunes installées ou des difficultés ciblées",
+   "Un dispositif planifié (ex: en semaine 5 ou lors des heures de soutien) pour traiter des lacunes installées ou des difficultés ciblées، وذلك وفق المقاربة السلوكية",
+   "Un dispositif planifié (ex: en semaine 5 ou lors des heures de soutien) pour traiter des lacunes installées ou des difficultés ciblées، وذلك في إطار بيداغوجيا الأهداف",
+   "Un dispositif planifié (ex: en semaine 5 ou lors des heures de soutien) pour traiter des lacunes installées ou des difficultés ciblées، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Un dispositif planifié (ex: en semaine 5 ou lors des heures de soutien) pour traiter des lacunes installées ou des difficultés ciblées» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le rôle de la semaine 5 (semaine d'évaluation, de soutien et de consolidation) dans chaque Unité Didactique au Maroc ?",
+  "options": [
+   "Evaluer les acquis, identifier les difficultés et mettre en œuvre des activités de soutien et de remédiation ciblées",
+   "Evaluer les acquis, identifier les difficultés et mettre en œuvre des activités de soutien et de remédiation ciblées، وذلك وفق المقاربة السلوكية",
+   "Evaluer les acquis, identifier les difficultés et mettre en œuvre des activités de soutien et de remédiation ciblées، وذلك في إطار بيداغوجيا الأهداف",
+   "Evaluer les acquis, identifier les difficultés et mettre en œuvre des activités de soutien et de remédiation ciblées، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Evaluer les acquis, identifier les difficultés et mettre en œuvre des activités de soutien et de remédiation ciblées» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'un « groupe de besoin » constitué lors des séances de remédiation ?",
+  "options": [
+   "Un regroupement temporaire d'élèves présentant les mêmes difficultés spécifiques pour leur apporter une aide adaptée",
+   "Un regroupement temporaire d'élèves présentant les mêmes difficultés spécifiques pour leur apporter une aide adaptée، وذلك وفق المقاربة السلوكية",
+   "Un regroupement temporaire d'élèves présentant les mêmes difficultés spécifiques pour leur apporter une aide adaptée، وذلك في إطار بيداغوجيا الأهداف",
+   "Un regroupement temporaire d'élèves présentant les mêmes difficultés spécifiques pour leur apporter une aide adaptée، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Un regroupement temporaire d'élèves présentant les mêmes difficultés spécifiques pour leur apporter une aide adaptée» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant procède-t-il pour identifier la source d'une erreur d'accord en grammaire ?",
+  "options": [
+   "En analysant si l'erreur provient d'un problème de repérage du sujet, d'inattention ou d'une règle mal conceptualisée",
+   "En analysant si l'erreur provient d'un problème de repérage du sujet, d'inattention ou d'une règle mal conceptualisée، وذلك وفق المقاربة السلوكية",
+   "En analysant si l'erreur provient d'un problème de repérage du sujet, d'inattention ou d'une règle mal conceptualisée، وذلك في إطار بيداغوجيا الأهداف",
+   "En analysant si l'erreur provient d'un problème de repérage du sujet, d'inattention ou d'une règle mal conceptualisée، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En analysant si l'erreur provient d'un problème de repérage du sujet, d'inattention ou d'une règle mal conceptualisée» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'effet pervers de l'évaluation si elle est mal gérée en classe ?",
+  "options": [
+   "Stigmatiser l'élève, renforcer le sentiment d'échec, provoquer l'anxiété et mener au décrochage scolaire",
+   "Stigmatiser l'élève, renforcer le sentiment d'échec, provoquer l'anxiété et mener au décrochage scolaire، وذلك وفق المقاربة السلوكية",
+   "Stigmatiser l'élève, renforcer le sentiment d'échec, provoquer l'anxiété et mener au décrochage scolaire، وذلك في إطار بيداغوجيا الأهداف",
+   "Stigmatiser l'élève, renforcer le sentiment d'échec, provoquer l'anxiété et mener au décrochage scolaire، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Stigmatiser l'élève, renforcer le sentiment d'échec, provoquer l'anxiété et mener au décrochage scolaire» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une « grille critériée » d'évaluation ?",
+  "options": [
+   "Une grille de mots croisés proposée comme jeu de détente en fin de semaine",
+   "Un registre administratif recensant les absences injustifiées des enseignants",
+   "Toutes les réponses précédentes sont fausses",
+   "Un outil d'évaluation comportant des indicateurs précis et mesurables pour objectiver la notation، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le statut de l'« auto-évaluation » pour l'apprenant ?",
+  "options": [
+   "Une liberté totale de s'attribuer la note maximale sans justifier son travail",
+   "Une tâche administrative inutile réservée uniquement à l'inspecteur",
+   "Toutes les réponses précédentes sont fausses",
+   "Un moyen de développer sa métacognition en prenant conscience de ses réussites et de ses erreurs، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on « remédiation institutionnelle » ou soutien officiel ?",
+  "options": [
+   "Les créneaux horaires officiels inscrits dans l'emploi du temps pour le renforcement et le soutien pédagogique",
+   "Les créneaux horaires officiels inscrits dans l'emploi du temps pour le renforcement et le soutien pédagogique، وذلك وفق المقاربة السلوكية",
+   "Les créneaux horaires officiels inscrits dans l'emploi du temps pour le renforcement et le soutien pédagogique، وذلك في إطار بيداغوجيا الأهداف",
+   "Les créneaux horaires officiels inscrits dans l'emploi du temps pour le renforcement et le soutien pédagogique، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Les créneaux horaires officiels inscrits dans l'emploi du temps pour le renforcement et le soutien pédagogique» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'évaluation formative se distingue-t-elle de l'évaluation sommative ?",
+  "options": [
+   "La formative régule les apprentissages en cours de route, tandis que la sommative dresse un bilan certificatif final",
+   "La formative régule les apprentissages en cours de route, tandis que la sommative dresse un bilan certificatif final، وذلك وفق المقاربة السلوكية",
+   "La formative régule les apprentissages en cours de route, tandis que la sommative dresse un bilan certificatif final، وذلك في إطار بيداغوجيا الأهداف",
+   "La formative régule les apprentissages en cours de route, tandis que la sommative dresse un bilan certificatif final، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «La formative régule les apprentissages en cours de route, tandis que la sommative dresse un bilan certificatif final» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une « situation-problème d'évaluation » ?",
+  "options": [
+   "Une tâche complexe inédite exigeant la mobilisation combinée de plusieurs ressources acquises pour être résolue",
+   "Une tâche complexe inédite exigeant la mobilisation combinée de plusieurs ressources acquises pour être résolue، وذلك وفق المقاربة السلوكية",
+   "Une tâche complexe inédite exigeant la mobilisation combinée de plusieurs ressources acquises pour être résolue، وذلك في إطار بيداغوجيا الأهداف",
+   "Une tâche complexe inédite exigeant la mobilisation combinée de plusieurs ressources acquises pour être résolue، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Une tâche complexe inédite exigeant la mobilisation combinée de plusieurs ressources acquises pour être résolue» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif des tests de « conscience phonologique » lors du diagnostic en 1AEP/2AEP ?",
+  "options": [
+   "Vérifier la capacité de l'élève à chanter des chansons folkloriques en chœur",
+   "Mesurer la taille de la mâchoire et la posture physique de l'enfant",
+   "Toutes les réponses précédentes sont fausses",
+   "Repérer si l'élève sait identifier, segmenter et manipuler les syllabes et les phonèmes auditivement، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on « effet de Halo » en situation d'évaluation corrective ?",
+  "options": [
+   "La tendance du correcteur à être influencé par l'impression générale (propreté, réputation) pour noter la copie",
+   "La tendance du correcteur à être influencé par l'impression générale (propreté, réputation) pour noter la copie، وذلك وفق المقاربة السلوكية",
+   "La tendance du correcteur à être influencé par l'impression générale (propreté, réputation) pour noter la copie، وذلك في إطار بيداغوجيا الأهداف",
+   "La tendance du correcteur à être influencé par l'impression générale (propreté, réputation) pour noter la copie، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «La tendance du correcteur à être influencé par l'impression générale (propreté, réputation) pour noter la copie» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment s'articule la co-évaluation entre élèves lors des phases de correction ?",
+  "options": [
+   "Les élèves corrigent ou évaluent les travaux des autres en s'appuyant sur des critères explicites partagés",
+   "Les élèves s'attribuent mutuellement des notes arbitraires selon leurs affinités personnelles",
+   "Les élèves s'interdisent strictement de regarder le travail de leurs camarades",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Les élèves corrigent ou évaluent les travaux des autres en s'appuyant sur des critères explicites partagés» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'impact de la remédiation formative sur l'estime de soi de l'élève en difficulté ?",
+  "options": [
+   "Restaurer la confiance en valorisant les progrès et en dédramatisant l'erreur comme outil de travail",
+   "Restaurer la confiance en valorisant les progrès et en dédramatisant l'erreur comme outil de travail، وذلك وفق المقاربة السلوكية",
+   "Restaurer la confiance en valorisant les progrès et en dédramatisant l'erreur comme outil de travail، وذلك في إطار بيداغوجيا الأهداف",
+   "Restaurer la confiance en valorisant les progrès et en dédramatisant l'erreur comme outil de travail، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Restaurer la confiance en valorisant les progrès et en dédramatisant l'erreur comme outil de travail» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En résumé, que garantit un dispositif rigoureux « Évaluation – Diagnostic – Remédiation » ?",
+  "options": [
+   "L'optimisation des parcours d'apprentissage, la réduction de l'échec scolaire et la maîtrise des compétences",
+   "L'optimisation des parcours d'apprentissage, la réduction de l'échec scolaire et la maîtrise des compétences، وذلك وفق المقاربة السلوكية",
+   "L'optimisation des parcours d'apprentissage, la réduction de l'échec scolaire et la maîtrise des compétences، وذلك في إطار بيداغوجيا الأهداف",
+   "L'optimisation des parcours d'apprentissage, la réduction de l'échec scolaire et la maîtrise des compétences، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «L'optimisation des parcours d'apprentissage, la réduction de l'échec scolaire et la maîtrise des compétences» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En 1AEP, quel type de diagnostic mène-t-on principalement lors de la première semaine de rentrée ?",
+  "options": [
+   "Un contrôle écrit de grammaire textuelle complexe et de conjugaison du subjonctif",
+   "Une interrogation écrite sur les propositions subordonnées relatives",
+   "Toutes les réponses précédentes sont fausses",
+   "Un diagnostic de la communication orale, de la motricité fine (graphisme) et des pré-requis sensoriels، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle stratégie de remédiation adopter face à un élève de CE1 (3AEP) qui présente un blocage en combinatoire (déchiffrage) ?",
+  "options": [
+   "Reprendre les entraînements ciblés sur le principe alphabétique, les correspondances graphème-phonème et les syllabes",
+   "Reprendre les entraînements ciblés sur le principe alphabétique, les correspondances graphème-phonème et les syllabes، وذلك وفق المقاربة السلوكية",
+   "Reprendre les entraînements ciblés sur le principe alphabétique, les correspondances graphème-phonème et les syllabes، وذلك في إطار بيداغوجيا الأهداف",
+   "Reprendre les entraînements ciblés sur le principe alphabétique, les correspondances graphème-phonème et les syllabes، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Reprendre les entraînements ciblés sur le principe alphabétique, les correspondances graphème-phonème et les syllabes» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En 4AEP (CM1), lors de l'évaluation diagnostique en grammaire, quelle lacune est fréquemment constatée chez les élèves ?",
+  "options": [
+   "La confusion entre la nature d'un mot (classe) et sa fonction dans la phrase",
+   "L'incapacité à dessiner des figures géométriques complexes à l'encre rouge",
+   "Le refus d'utiliser des stylos à bille de couleur verte",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «La confusion entre la nature d'un mot (classe) et sa fonction dans la phrase» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle action de remédiation proposer en 5AEP face à des erreurs récurrentes d'accord sujet-verbe lorsque le sujet est éloigné ?",
+  "options": [
+   "Des exercices de manipulation syntaxique axés sur le repérage du noyau du sujet et la question « Qui est-ce qui? »",
+   "Des exercices de manipulation syntaxique axés sur le repérage du noyau du sujet et la question « Qui est-ce qui? »، وذلك وفق المقاربة السلوكية",
+   "Des exercices de manipulation syntaxique axés sur le repérage du noyau du sujet et la question « Qui est-ce qui? »، وذلك في إطار بيداغوجيا الأهداف",
+   "Des exercices de manipulation syntaxique axés sur le repérage du noyau du sujet et la question « Qui est-ce qui? »، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Des exercices de manipulation syntaxique axés sur le repérage du noyau du sujet et la question «Qui est-ce qui?»» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment évaluer de manière diagnostique les compétences de production écrite en début de 6AEP ?",
+  "options": [
+   "Par une consigne d'écriture courte (ex: rédiger le portrait ou un court récit) pour observer les automatismes d'écriture",
+   "Par une consigne d'écriture courte (ex: rédiger le portrait ou un court récit) pour observer les automatismes d'écriture، وذلك وفق المقاربة السلوكية",
+   "Par une consigne d'écriture courte (ex: rédiger le portrait ou un court récit) pour observer les automatismes d'écriture، وذلك في إطار بيداغوجيا الأهداف",
+   "Par une consigne d'écriture courte (ex: rédiger le portrait ou un court récit) pour observer les automatismes d'écriture، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par une consigne d'écriture courte (ex: rédiger le portrait ou un court récit) pour observer les automatismes d'écriture» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Face à des difficultés de compréhension en lecture chez un élève de CM2, quel diagnostic mène-t-on ?",
+  "options": [
+   "Vérifier si le problème vient du décodage (fluence trop faible), du manque de vocabulaire ou de la méconnaissance des substituts/connecteurs",
+   "Vérifier si le problème vient du décodage (fluence trop faible), du manque de vocabulaire ou de la méconnaissance des substituts/connecteurs، وذلك وفق المقاربة السلوكية",
+   "Vérifier si le problème vient du décodage (fluence trop faible), du manque de vocabulaire ou de la méconnaissance des substituts/connecteurs، وذلك في إطار بيداغوجيا الأهداف",
+   "Vérifier si le problème vient du décodage (fluence trop faible), du manque de vocabulaire ou de la méconnaissance des substituts/connecteurs، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Vérifier si le problème vient du décodage (fluence trop faible), du manque de vocabulaire ou de la méconnaissance des substituts/connecteurs» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'outil privilégié pour la remédiation en orthographe lexicale (ex: confusion *é / è / ê*) ?",
+  "options": [
+   "Des fiches de réécriture ciblées, des tris de mots par graphies et des exercices de mémorisation active",
+   "Des fiches de réécriture ciblées, des tris de mots par graphies et des exercices de mémorisation active، وذلك وفق المقاربة السلوكية",
+   "Des fiches de réécriture ciblées, des tris de mots par graphies et des exercices de mémorisation active، وذلك في إطار بيداغوجيا الأهداف",
+   "Des fiches de réécriture ciblées, des tris de mots par graphies et des exercices de mémorisation active، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Des fiches de réécriture ciblées, des tris de mots par graphies et des exercices de mémorisation active» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment évaluer l'expression orale lors d'une évaluation diagnostique en 3AEP ?",
+  "options": [
+   "À l'aide d'une grille d'observation évaluant la prise de parole, l'interaction, le lexique et la prononciation",
+   "À l'aide d'une grille d'observation évaluant la prise de parole, l'interaction, le lexique et la prononciation، وذلك وفق المقاربة السلوكية",
+   "À l'aide d'une grille d'observation évaluant la prise de parole, l'interaction, le lexique et la prononciation، وذلك في إطار بيداغوجيا الأهداف",
+   "À l'aide d'une grille d'observation évaluant la prise de parole, l'interaction, le lexique et la prononciation، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «À l'aide d'une grille d'observation évaluant la prise de parole, l'interaction, le lexique et la prononciation» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle est la démarche de remédiation face à des erreurs persistantes de conjugaison aux verbes du 3e groupe au CM1 ?",
+  "options": [
+   "Revenir sur l'observation des régularités du radical et la manipulation de tableaux de conjugaison contrastés",
+   "Revenir sur l'observation des régularités du radical et la manipulation de tableaux de conjugaison contrastés، وذلك وفق المقاربة السلوكية",
+   "Revenir sur l'observation des régularités du radical et la manipulation de tableaux de conjugaison contrastés، وذلك في إطار بيداغوجيا الأهداف",
+   "Revenir sur l'observation des régularités du radical et la manipulation de tableaux de conjugaison contrastés، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Revenir sur l'observation des régularités du radical et la manipulation de tableaux de conjugaison contrastés» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une « évaluation critériée de production d'écrit » ?",
+  "options": [
+   "Une évaluation s'appuyant sur des critères explicites (respect de la consigne, organisation, cohérence, orthographe)",
+   "Une évaluation s'appuyant sur des critères explicites (respect de la consigne, organisation, cohérence, orthographe)، وذلك وفق المقاربة السلوكية",
+   "Une évaluation s'appuyant sur des critères explicites (respect de la consigne, organisation, cohérence, orthographe)، وذلك في إطار بيداغوجيا الأهداف",
+   "Une évaluation s'appuyant sur des critères explicites (respect de la consigne, organisation, cohérence, orthographe)، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Une évaluation s'appuyant sur des critères explicites (respect de la consigne, organisation, cohérence, orthographe)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif d'un « bilan semestriel » (fin de semestre 1 ou 2) dans le système primaire marocain ?",
+  "options": [
+   "Certifier le niveau d'acquisition des compétences de l'élève et dresser un état des lieux officiel sur le bulletin",
+   "Certifier le niveau d'acquisition des compétences de l'élève et dresser un état des lieux officiel sur le bulletin، وذلك وفق المقاربة السلوكية",
+   "Certifier le niveau d'acquisition des compétences de l'élève et dresser un état des lieux officiel sur le bulletin، وذلك في إطار بيداغوجيا الأهداف",
+   "Certifier le niveau d'acquisition des compétences de l'élève et dresser un état des lieux officiel sur le bulletin، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Certifier le niveau d'acquisition des compétences de l'élève et dresser un état des lieux officiel sur le bulletin» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant gère-t-il l'hétérogénéité d'une classe lors des activités de remédiation de la semaine 5 ?",
+  "options": [
+   "En proposant des parcours différenciés: soutien ciblé pour les uns et activités d'approfondissement pour les autres",
+   "En proposant des parcours différenciés: soutien ciblé pour les uns et activités d'approfondissement pour les autres، وذلك وفق المقاربة السلوكية",
+   "En proposant des parcours différenciés: soutien ciblé pour les uns et activités d'approfondissement pour les autres، وذلك في إطار بيداغوجيا الأهداف",
+   "En proposant des parcours différenciés: soutien ciblé pour les uns et activités d'approfondissement pour les autres، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En proposant des parcours différenciés: soutien ciblé pour les uns et activités d'approfondissement pour les autres» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle est l'origine fréquente d'une erreur d'accord de l'adjectif qualificatif au CE2/CM1 ?",
+  "options": [
+   "La méconnaissance de la chaîne d'accord au sein du groupe nominal ou l'oubli du genre du nom noyau",
+   "La méconnaissance de la chaîne d'accord au sein du groupe nominal ou l'oubli du genre du nom noyau، وذلك وفق المقاربة السلوكية",
+   "La méconnaissance de la chaîne d'accord au sein du groupe nominal ou l'oubli du genre du nom noyau، وذلك في إطار بيداغوجيا الأهداف",
+   "La méconnaissance de la chaîne d'accord au sein du groupe nominal ou l'oubli du genre du nom noyau، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «La méconnaissance de la chaîne d'accord au sein du groupe nominal ou l'oubli du genre du nom noyau» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment un enseignant peut-il évaluer l'impact d'une séance de remédiation qu'il vient de mener ?",
+  "options": [
+   "Par un post-test ou une situation de réinvestissement similaire permettant de vérifier si la lacune a été comblée",
+   "Par un post-test ou une situation de réinvestissement similaire permettant de vérifier si la lacune a été comblée، وذلك وفق المقاربة السلوكية",
+   "Par un post-test ou une situation de réinvestissement similaire permettant de vérifier si la lacune a été comblée، وذلك في إطار بيداغوجيا الأهداف",
+   "Par un post-test ou une situation de réinvestissement similaire permettant de vérifier si la lacune a été comblée، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par un post-test ou une situation de réinvestissement similaire permettant de vérifier si la lacune a été comblée» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une « évaluation critériée formative » en cours de séquence de langue ?",
+  "options": [
+   "Un classement punitif des élèves les plus lents affiché sur le mur de l'école",
+   "Un examen certificatif de fin de cycle primaire sanctionné par une note éliminatoire",
+   "Toutes les réponses précédentes sont fausses",
+   "Une évaluation qui utilise des critères précis pour guider l'élève dans l'amélioration immédiate de son travail، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment aborder la remédiation d'une confusion entre homophones grammaticaux (*et / est*) chez un élève de CM1 ?",
+  "options": [
+   "Par l'utilisation systématique du test de commutation (remplacer par *et puis* ou *était*) ancré dans des phrases",
+   "Par l'utilisation systématique du test de commutation (remplacer par *et puis* ou *était*) ancré dans des phrases، وذلك وفق المقاربة السلوكية",
+   "Par l'utilisation systématique du test de commutation (remplacer par *et puis* ou *était*) ancré dans des phrases، وذلك في إطار بيداغوجيا الأهداف",
+   "Par l'utilisation systématique du test de commutation (remplacer par *et puis* ou *était*) ancré dans des phrases، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par l'utilisation systématique du test de commutation (remplacer par *et puis* ou *était*) ancré dans des phrases» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En 2AEP, comment diagnostique-t-on les difficultés de discrimination auditive des sons complexes ?",
+  "options": [
+   "Par des exercices oraux de repérage de sons dans des mots prononcés par le maître (ex: lever la main si on entend [ch])",
+   "Par des exercices oraux de repérage de sons dans des mots prononcés par le maître (ex: lever la main si on entend [ch])، وذلك وفق المقاربة السلوكية",
+   "Par des exercices oraux de repérage de sons dans des mots prononcés par le maître (ex: lever la main si on entend [ch])، وذلك في إطار بيداغوجيا الأهداف",
+   "Par des exercices oraux de repérage de sons dans des mots prononcés par le maître (ex: lever la main si on entend [ch])، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par des exercices oraux de repérage de sons dans des mots prononcés par le maître (ex: lever la main si on entend [ch])» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En résumé, pourquoi l'évaluation diagnostique, formative et la remédiation sont-elles indissociables ?",
+  "options": [
+   "Parce qu'elles constituent un cycle continu: identifier l'état initial, réguler l'apprentissage et combler les lacunes pour réussir",
+   "Parce qu'elles constituent un cycle continu: identifier l'état initial, réguler l'apprentissage et combler les lacunes pour réussir، وذلك وفق المقاربة السلوكية",
+   "Parce qu'elles constituent un cycle continu: identifier l'état initial, réguler l'apprentissage et combler les lacunes pour réussir، وذلك في إطار بيداغوجيا الأهداف",
+   "Parce qu'elles constituent un cycle continu: identifier l'état initial, réguler l'apprentissage et combler les lacunes pour réussir، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Parce qu'elles constituent un cycle continu: identifier l'état initial, réguler l'apprentissage et combler les lacunes pour réussir» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle est la limite principale d'une évaluation sommative isolée (sans lien avec la remédiation) ?",
+  "options": [
+   "Elle sanctionne l'échec sans offrir de solution ni d'outil pour permettre à l'élève de combler ses lacunes",
+   "Elle sanctionne l'échec sans offrir de solution ni d'outil pour permettre à l'élève de combler ses lacunes، وذلك وفق المقاربة السلوكية",
+   "Elle sanctionne l'échec sans offrir de solution ni d'outil pour permettre à l'élève de combler ses lacunes، وذلك في إطار بيداغوجيا الأهداف",
+   "Elle sanctionne l'échec sans offrir de solution ni d'outil pour permettre à l'élève de combler ses lacunes، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Elle sanctionne l'échec sans offrir de solution ni d'outil pour permettre à l'élève de combler ses lacunes» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En 3AEP, comment évalue-t-on la compréhension d'un texte lu de manière formative ?",
+  "options": [
+   "Par des questions textuelles et inférentielles courtes associées à des choix ou des justifications orales/écrites",
+   "Par des questions textuelles et inférentielles courtes associées à des choix ou des justifications orales/écrites، وذلك وفق المقاربة السلوكية",
+   "Par des questions textuelles et inférentielles courtes associées à des choix ou des justifications orales/écrites، وذلك في إطار بيداغوجيا الأهداف",
+   "Par des questions textuelles et inférentielles courtes associées à des choix ou des justifications orales/écrites، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par des questions textuelles et inférentielles courtes associées à des choix ou des justifications orales/écrites» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'impact d'une évaluation diagnostique réussie sur la planification de l'année de l'enseignant ?",
+  "options": [
+   "Elle oblige l'enseignant à abandonner le programme officiel pour inventer de nouvelles matières",
+   "Elle n'a aucun impact puisque le manuel scolaire impose une marche à suivre rigide",
+   "Toutes les réponses précédentes sont fausses",
+   "Elle permet d'ajuster la programmation, d'activer les prérequis nécessaires et d'anticiper les difficultés probables، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment un enseignant peut-il remédier à des difficultés de fluidité en lecture à haute voix en CM1 ?",
+  "options": [
+   "Par des séances de lecture répétée, d'entraînement à l'injonction rythmique et de travail sur la prosodie",
+   "En interdisant à l'élève de lire à haute voix devant ses camarades pour le reste de sa scolarité",
+   "En lui donnant à copier cent lignes de vocabulaire par jour",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par des séances de lecture répétée, d'entraînement à l'injonction rythmique et de travail sur la prosodie» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Dans le cadre de la remédiation en production d'écrit, qu'est-ce que la « technique de réécriture guidée » ?",
+  "options": [
+   "Fournir à l'élève des consignes d'amélioration ciblées (ex: enrichir le groupe nominal, corriger les accords) sur son brouillon",
+   "Fournir à l'élève des consignes d'amélioration ciblées (ex: enrichir le groupe nominal, corriger les accords) sur son brouillon، وذلك وفق المقاربة السلوكية",
+   "Fournir à l'élève des consignes d'amélioration ciblées (ex: enrichir le groupe nominal, corriger les accords) sur son brouillon، وذلك في إطار بيداغوجيا الأهداف",
+   "Fournir à l'élève des consignes d'amélioration ciblées (ex: enrichir le groupe nominal, corriger les accords) sur son brouillon، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Fournir à l'élève des consignes d'amélioration ciblées (ex: enrichir le groupe nominal, corriger les accords) sur son brouillon» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le rôle des « fiches d'auto-évaluation » dans le suivi des apprentissages de la langue ?",
+  "options": [
+   "Permettre à l'élève de cocher ce qu'il a compris ou réussi, favorisant son autonomie et sa métacognition",
+   "Permettre à l'élève de cocher ce qu'il a compris ou réussi, favorisant son autonomie et sa métacognition، وذلك وفق المقاربة السلوكية",
+   "Permettre à l'élève de cocher ce qu'il a compris ou réussi, favorisant son autonomie et sa métacognition، وذلك في إطار بيداغوجيا الأهداف",
+   "Permettre à l'élève de cocher ce qu'il a compris ou réussi, favorisant son autonomie et sa métacognition، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Permettre à l'élève de cocher ce qu'il a compris ou réussi, favorisant son autonomie et sa métacognition» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment réagir face à un élève qui manifeste une anxiété excessive lors des situations d'évaluation écrite ?",
+  "options": [
+   "Dédramatiser l'évaluation, valoriser les réussites partielles et proposer des formes d'évaluation adaptées ou orales",
+   "Dédramatiser l'évaluation, valoriser les réussites partielles et proposer des formes d'évaluation adaptées ou orales، وذلك وفق المقاربة السلوكية",
+   "Dédramatiser l'évaluation, valoriser les réussites partielles et proposer des formes d'évaluation adaptées ou orales، وذلك في إطار بيداغوجيا الأهداف",
+   "Dédramatiser l'évaluation, valoriser les réussites partielles et proposer des formes d'évaluation adaptées ou orales، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Dédramatiser l'évaluation, valoriser les réussites partielles et proposer des formes d'évaluation adaptées ou orales» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une « évaluation critériée de lecture-compréhension » ?",
+  "options": [
+   "Une évaluation où la réussite de l'élève est mesurée par rapport à des critères précis de prélèvement d'information et d'inférence",
+   "Une évaluation où la réussite de l'élève est mesurée par rapport à des critères précis de prélèvement d'information et d'inférence، وذلك وفق المقاربة السلوكية",
+   "Une évaluation où la réussite de l'élève est mesurée par rapport à des critères précis de prélèvement d'information et d'inférence، وذلك في إطار بيداغوجيا الأهداف",
+   "Une évaluation où la réussite de l'élève est mesurée par rapport à des critères précis de prélèvement d'information et d'inférence، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Une évaluation où la réussite de l'élève est mesurée par rapport à des critères précis de prélèvement d'information et d'inférence» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif des « bilans périodiques » dans le cycle primaire marocain ?",
+  "options": [
+   "Interrompre définitivement les cours pour organiser des fêtes scolaires",
+   "Sélectionner les meilleurs élèves pour les envoyer dans des écoles d'élite",
+   "Toutes les réponses précédentes sont fausses",
+   "Faire le point sur le niveau d'acquisition des compétences au terme d'un sous-ensemble d'apprentissage، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment un enseignant analyse-t-il les résultats d'une évaluation diagnostique collective ?",
+  "options": [
+   "En établissant un profil statistique des réussites et des échecs par question pour identifier les lacunes globales de la classe",
+   "En établissant un profil statistique des réussites et des échecs par question pour identifier les lacunes globales de la classe، وذلك وفق المقاربة السلوكية",
+   "En établissant un profil statistique des réussites et des échecs par question pour identifier les lacunes globales de la classe، وذلك في إطار بيداغوجيا الأهداف",
+   "En établissant un profil statistique des réussites et des échecs par question pour identifier les lacunes globales de la classe، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En établissant un profil statistique des réussites et des échecs par question pour identifier les lacunes globales de la classe» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on « remédiation interactive » pendant l'interaction en classe ?",
+  "options": [
+   "Une intervention immédiate du maître sous forme de questionnement ou d'étayage lorsqu'un élève bute sur une consigne",
+   "Une intervention immédiate du maître sous forme de questionnement ou d'étayage lorsqu'un élève bute sur une consigne، وذلك وفق المقاربة السلوكية",
+   "Une intervention immédiate du maître sous forme de questionnement ou d'étayage lorsqu'un élève bute sur une consigne، وذلك في إطار بيداغوجيا الأهداف",
+   "Une intervention immédiate du maître sous forme de questionnement ou d'étayage lorsqu'un élève bute sur une consigne، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Une intervention immédiate du maître sous forme de questionnement ou d'étayage lorsqu'un élève bute sur une consigne» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le principal écueil à éviter lors de la conception d'une épreuve d'évaluation formative ?",
+  "options": [
+   "Proposer des consignes ambiguës ou des pièges linguistiques qui ne mesurent pas la compétence visée",
+   "Utiliser des mots trop simples que tous les élèves de la classe comprennent du premier coup",
+   "S'appuyer sur des textes issus de la littérature de jeunesse officielle",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Proposer des consignes ambiguës ou des pièges linguistiques qui ne mesurent pas la compétence visée» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant adapte-t-il sa remédiation face à un trouble spécifique des apprentissages (ex: dyslexie) ?",
+  "options": [
+   "En aménageant les supports (police agrandie, interlignage, contrastes) et en fractionnant les tâches avec un étayage renforcé",
+   "En aménageant les supports (police agrandie, interlignage, contrastes) et en fractionnant les tâches avec un étayage renforcé، وذلك وفق المقاربة السلوكية",
+   "En aménageant les supports (police agrandie, interlignage, contrastes) et en fractionnant les tâches avec un étayage renforcé، وذلك في إطار بيداغوجيا الأهداف",
+   "En aménageant les supports (police agrandie, interlignage, contrastes) et en fractionnant les tâches avec un étayage renforcé، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En aménageant les supports (police agrandie, interlignage, contrastes) et en fractionnant les tâches avec un étayage renforcé» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'intérêt d'utiliser des « grilles d'observation » lors des activités orales évaluées ?",
+  "options": [
+   "Observer de façon structurée des indicateurs précis de communication (fluidité, regard, lexique, respect du tour de parole)",
+   "Observer de façon structurée des indicateurs précis de communication (fluidité, regard, lexique, respect du tour de parole)، وذلك وفق المقاربة السلوكية",
+   "Observer de façon structurée des indicateurs précis de communication (fluidité, regard, lexique, respect du tour de parole)، وذلك في إطار بيداغوجيا الأهداف",
+   "Observer de façon structurée des indicateurs précis de communication (fluidité, regard, lexique, respect du tour de parole)، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Observer de façon structurée des indicateurs précis de communication (fluidité, regard, lexique, respect du tour de parole)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En 6AEP, quel est l'objectif des évaluations de fin de cycle primaire (certificatives) ?",
+  "options": [
+   "Valider l'acquisition des compétences fondamentales du cycle primaire et autoriser le passage vers l'enseignement secondaire",
+   "Valider l'acquisition des compétences fondamentales du cycle primaire et autoriser le passage vers l'enseignement secondaire، وذلك وفق المقاربة السلوكية",
+   "Valider l'acquisition des compétences fondamentales du cycle primaire et autoriser le passage vers l'enseignement secondaire، وذلك في إطار بيداغوجيا الأهداف",
+   "Valider l'acquisition des compétences fondamentales du cycle primaire et autoriser le passage vers l'enseignement secondaire، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Valider l'acquisition des compétences fondamentales du cycle primaire et autoriser le passage vers l'enseignement secondaire» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment un enseignant procède-t-il lors de la « remédiation collective » en classe entière ?",
+  "options": [
+   "Lorsqu'une lacune est partagée par la grande majorité des élèves, il reprend l'explication sous un autre angle et propose de nouveaux exercices",
+   "Lorsqu'une lacune est partagée par la grande majorité des élèves, il reprend l'explication sous un autre angle et propose de nouveaux exercices، وذلك وفق المقاربة السلوكية",
+   "Lorsqu'une lacune est partagée par la grande majorité des élèves, il reprend l'explication sous un autre angle et propose de nouveaux exercices، وذلك في إطار بيداغوجيا الأهداف",
+   "Lorsqu'une lacune est partagée par la grande majorité des élèves, il reprend l'explication sous un autre angle et propose de nouveaux exercices، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Lorsqu'une lacune est partagée par la grande majorité des élèves, il reprend l'explication sous un autre angle et propose de nouveaux exercices» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'impact de la participation des élèves à l'élaboration des critères d'évaluation ?",
+  "options": [
+   "Renforcer leur compréhension des attendus, accroître leur motivation et développer leur autonomie critique",
+   "Renforcer leur compréhension des attendus, accroître leur motivation et développer leur autonomie critique، وذلك وفق المقاربة السلوكية",
+   "Renforcer leur compréhension des attendus, accroître leur motivation et développer leur autonomie critique، وذلك في إطار بيداغوجيا الأهداف",
+   "Renforcer leur compréhension des attendus, accroître leur motivation et développer leur autonomie critique، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Renforcer leur compréhension des attendus, accroître leur motivation et développer leur autonomie critique» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En 1AEP, comment s'effectue l'évaluation diagnostique de la discrimination auditive des sons ?",
+  "options": [
+   "Par des jeux d'écoute et de reconnaissance de sons isolés ou dans des mots familiers présentés par l'enseignant",
+   "Par des jeux d'écoute et de reconnaissance de sons isolés ou dans des mots familiers présentés par l'enseignant، وذلك وفق المقاربة السلوكية",
+   "Par des jeux d'écoute et de reconnaissance de sons isolés ou dans des mots familiers présentés par l'enseignant، وذلك في إطار بيداغوجيا الأهداف",
+   "Par des jeux d'écoute et de reconnaissance de sons isolés ou dans des mots familiers présentés par l'enseignant، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par des jeux d'écoute et de reconnaissance de sons isolés ou dans des mots familiers présentés par l'enseignant» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment un enseignant gère-t-il l'évaluation formative d'un projet de classe en fin d'unité ?",
+  "options": [
+   "En évaluant à la fois le processus (implication, recherche, coopération) et le produit final à l'aide d'une grille critériée",
+   "En évaluant à la fois le processus (implication, recherche, coopération) et le produit final à l'aide d'une grille critériée، وذلك وفق المقاربة السلوكية",
+   "En évaluant à la fois le processus (implication, recherche, coopération) et le produit final à l'aide d'une grille critériée، وذلك في إطار بيداغوجيا الأهداف",
+   "En évaluant à la fois le processus (implication, recherche, coopération) et le produit final à l'aide d'une grille critériée، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En évaluant à la fois le processus (implication, recherche, coopération) et le produit final à l'aide d'une grille critériée» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une « épreuve de substitution » en remédiation formative ?",
+  "options": [
+   "Un nouvel exercice construit sur les mêmes compétences que l'exercice raté, proposé après l'explication corrective pour valider le progrès",
+   "Un nouvel exercice construit sur les mêmes compétences que l'exercice raté, proposé après l'explication corrective pour valider le progrès، وذلك وفق المقاربة السلوكية",
+   "Un nouvel exercice construit sur les mêmes compétences que l'exercice raté, proposé après l'explication corrective pour valider le progrès، وذلك في إطار بيداغوجيا الأهداف",
+   "Un nouvel exercice construit sur les mêmes compétences que l'exercice raté, proposé après l'explication corrective pour valider le progrès، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Un nouvel exercice construit sur les mêmes compétences que l'exercice raté, proposé après l'explication corrective pour valider le progrès» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'inconvénient d'une évaluation purement normative (comparative) en classe primaire ?",
+  "options": [
+   "Elle hiérarchise les élèves et pénalise les plus faibles en les comparant aux autres plutôt qu'à leurs propres objectifs",
+   "Elle hiérarchise les élèves et pénalise les plus faibles en les comparant aux autres plutôt qu'à leurs propres objectifs، وذلك وفق المقاربة السلوكية",
+   "Elle hiérarchise les élèves et pénalise les plus faibles en les comparant aux autres plutôt qu'à leurs propres objectifs، وذلك في إطار بيداغوجيا الأهداف",
+   "Elle hiérarchise les élèves et pénalise les plus faibles en les comparant aux autres plutôt qu'à leurs propres objectifs، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Elle hiérarchise les élèves et pénalise les plus faibles en les comparant aux autres plutôt qu'à leurs propres objectifs» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En 5AEP, comment diagnostique-t-on les lacunes en conjugaison des verbes du premier groupe au présent ?",
+  "options": [
+   "Par un test de production ou de complétion de phrases ciblant les terminaisons (*-e, -es, -e, -ons, -ez, -ent*)",
+   "Par un test de production ou de complétion de phrases ciblant les terminaisons (*-e, -es, -e, -ons, -ez, -ent*)، وذلك وفق المقاربة السلوكية",
+   "Par un test de production ou de complétion de phrases ciblant les terminaisons (*-e, -es, -e, -ons, -ez, -ent*)، وذلك في إطار بيداغوجيا الأهداف",
+   "Par un test de production ou de complétion de phrases ciblant les terminaisons (*-e, -es, -e, -ons, -ez, -ent*)، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par un test de production ou de complétion de phrases ciblant les terminaisons (*-e, -es, -e, -ons, -ez, -ent*)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif des « fiches de remédiation individualisée » ?",
+  "options": [
+   "Proposer à un élève précis des activités sur mesure adaptées à la nature exacte de ses erreurs non résolues",
+   "Proposer à un élève précis des activités sur mesure adaptées à la nature exacte de ses erreurs non résolues، وذلك وفق المقاربة السلوكية",
+   "Proposer à un élève précis des activités sur mesure adaptées à la nature exacte de ses erreurs non résolues، وذلك في إطار بيداغوجيا الأهداف",
+   "Proposer à un élève précis des activités sur mesure adaptées à la nature exacte de ses erreurs non résolues، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Proposer à un élève précis des activités sur mesure adaptées à la nature exacte de ses erreurs non résolues» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment un enseignant favorise-t-il l'objectivité lors de la correction d'une production écrite ?",
+  "options": [
+   "En utilisant une grille de critères précise, en masquant les noms des élèves (anonymat) si possible, et en fixant des barèmes clairs",
+   "En utilisant une grille de critères précise, en masquant les noms des élèves (anonymat) si possible, et en fixant des barèmes clairs، وذلك وفق المقاربة السلوكية",
+   "En utilisant une grille de critères précise, en masquant les noms des élèves (anonymat) si possible, et en fixant des barèmes clairs، وذلك في إطار بيداغوجيا الأهداف",
+   "En utilisant une grille de critères précise, en masquant les noms des élèves (anonymat) si possible, et en fixant des barèmes clairs، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En utilisant une grille de critères précise, en masquant les noms des élèves (anonymat) si possible, et en fixant des barèmes clairs» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une « évaluation critériée de grammaire » au cycle 3 ?",
+  "options": [
+   "Une évaluation mesurant la maîtrise d'une notion syntaxique précise à travers des critères de repérage et de manipulation",
+   "Une évaluation mesurant la maîtrise d'une notion syntaxique précise à travers des critères de repérage et de manipulation، وذلك وفق المقاربة السلوكية",
+   "Une évaluation mesurant la maîtrise d'une notion syntaxique précise à travers des critères de repérage et de manipulation، وذلك في إطار بيداغوجيا الأهداف",
+   "Une évaluation mesurant la maîtrise d'une notion syntaxique précise à travers des critères de repérage et de manipulation، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Une évaluation mesurant la maîtrise d'une notion syntaxique précise à travers des critères de repérage et de manipulation» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le rôle de l'équipe pédagogique lors des bilans de fin d'unité (Semaine 5) ?",
+  "options": [
+   "Echanger sur les difficultés rencontrées par les élèves, mutualiser les stratégies de remédiation et harmoniser les pratiques",
+   "Echanger sur les difficultés rencontrées par les élèves, mutualiser les stratégies de remédiation et harmoniser les pratiques، وذلك وفق المقاربة السلوكية",
+   "Echanger sur les difficultés rencontrées par les élèves, mutualiser les stratégies de remédiation et harmoniser les pratiques، وذلك في إطار بيداغوجيا الأهداف",
+   "Echanger sur les difficultés rencontrées par les élèves, mutualiser les stratégies de remédiation et harmoniser les pratiques، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Echanger sur les difficultés rencontrées par les élèves, mutualiser les stratégies de remédiation et harmoniser les pratiques» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En 3AEP, comment évalue-t-on formatiquement la lecture d'un mot nouveau (déchiffrage) ?",
+  "options": [
+   "En observant la capacité de l'élève à appliquer les règles de conversion graphophonémique pour fusionner les syllabes",
+   "En observant la capacité de l'élève à appliquer les règles de conversion graphophonémique pour fusionner les syllabes، وذلك وفق المقاربة السلوكية",
+   "En observant la capacité de l'élève à appliquer les règles de conversion graphophonémique pour fusionner les syllabes، وذلك في إطار بيداغوجيا الأهداف",
+   "En observant la capacité de l'élève à appliquer les règles de conversion graphophonémique pour fusionner les syllabes، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En observant la capacité de l'élève à appliquer les règles de conversion graphophonémique pour fusionner les syllabes» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on « remédiation préventive » ?",
+  "options": [
+   "Une intervention anticipée sur un obstacle prévisible identifié lors de l'analyse didactique avant même l'apparition de l'erreur",
+   "Une intervention anticipée sur un obstacle prévisible identifié lors de l'analyse didactique avant même l'apparition de l'erreur، وذلك وفق المقاربة السلوكية",
+   "Une intervention anticipée sur un obstacle prévisible identifié lors de l'analyse didactique avant même l'apparition de l'erreur، وذلك في إطار بيداغوجيا الأهداف",
+   "Une intervention anticipée sur un obstacle prévisible identifié lors de l'analyse didactique avant même l'apparition de l'erreur، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Une intervention anticipée sur un obstacle prévisible identifié lors de l'analyse didactique avant même l'apparition de l'erreur» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'intérêt d'utiliser l'enregistrement audio lors de l'évaluation de l'expression orale ?",
+  "options": [
+   "Permettre une écoute objective ultérieure, une auto-évaluation précise et une analyse fine de la prononciation",
+   "Permettre une écoute objective ultérieure, une auto-évaluation précise et une analyse fine de la prononciation، وذلك وفق المقاربة السلوكية",
+   "Permettre une écoute objective ultérieure, une auto-évaluation précise et une analyse fine de la prononciation، وذلك في إطار بيداغوجيا الأهداف",
+   "Permettre une écoute objective ultérieure, une auto-évaluation précise et une analyse fine de la prononciation، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Permettre une écoute objective ultérieure, une auto-évaluation précise et une analyse fine de la prononciation» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment un enseignant gère-t-il l'erreur récurrente d'un élève malgré plusieurs séances de remédiation ?",
+  "options": [
+   "En changeant d'approche méthodologique, en fractionnant davantage la notion ou en sollicitant un diagnostic spécialisé (soutien, orthophonie)",
+   "En changeant d'approche méthodologique, en fractionnant davantage la notion ou en sollicitant un diagnostic spécialisé (soutien, orthophonie)، وذلك وفق المقاربة السلوكية",
+   "En changeant d'approche méthodologique, en fractionnant davantage la notion ou en sollicitant un diagnostic spécialisé (soutien, orthophonie)، وذلك في إطار بيداغوجيا الأهداف",
+   "En changeant d'approche méthodologique, en fractionnant davantage la notion ou en sollicitant un diagnostic spécialisé (soutien, orthophonie)، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En changeant d'approche méthodologique, en fractionnant davantage la notion ou en sollicitant un diagnostic spécialisé (soutien, orthophonie)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une « évaluation sommative critériée » de fin de semestre ?",
+  "options": [
+   "Une discussion informelle sans critère ni barème entre l'élève et son camarade",
+   "Un contrôle surprise noté sans lien avec les programmes officiels",
+   "Toutes les réponses précédentes sont fausses",
+   "Un bilan officiel noté qui vérifie l'atteinte des seuils de maîtrise des compétences fixés pour la période، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'impact de la valorisation des progrès (même partiels) sur l'implication de l'élève en difficulté ?",
+  "options": [
+   "Renforcer la motivation intrinsèque, stimuler l'effort et consolider l'estime de soi face à l'apprentissage",
+   "Renforcer la motivation intrinsèque, stimuler l'effort et consolider l'estime de soi face à l'apprentissage، وذلك وفق المقاربة السلوكية",
+   "Renforcer la motivation intrinsèque, stimuler l'effort et consolider l'estime de soi face à l'apprentissage، وذلك في إطار بيداغوجيا الأهداف",
+   "Renforcer la motivation intrinsèque, stimuler l'effort et consolider l'estime de soi face à l'apprentissage، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Renforcer la motivation intrinsèque, stimuler l'effort et consolider l'estime de soi face à l'apprentissage» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En 4AEP, comment évalue-t-on la maîtrise des accords dans le groupe nominal de façon formative ?",
+  "options": [
+   "Par des exercices de transformation (passer du singulier au pluriel) et des grilles de relecture ciblée",
+   "Par des exercices de transformation (passer du singulier au pluriel) et des grilles de relecture ciblée، وذلك وفق المقاربة السلوكية",
+   "Par des exercices de transformation (passer du singulier au pluriel) et des grilles de relecture ciblée، وذلك في إطار بيداغوجيا الأهداف",
+   "Par des exercices de transformation (passer du singulier au pluriel) et des grilles de relecture ciblée، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par des exercices de transformation (passer du singulier au pluriel) et des grilles de relecture ciblée» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on « effet de contamination » dans la correction docimologique des copies ?",
+  "options": [
+   "L'influence de la note obtenue dans une question ou une matière sur l'évaluation des autres parties de la copie",
+   "L'influence de la note obtenue dans une question ou une matière sur l'évaluation des autres parties de la copie، وذلك وفق المقاربة السلوكية",
+   "L'influence de la note obtenue dans une question ou une matière sur l'évaluation des autres parties de la copie، وذلك في إطار بيداغوجيا الأهداف",
+   "L'influence de la note obtenue dans une question ou une matière sur l'évaluation des autres parties de la copie، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «L'influence de la note obtenue dans une question ou une matière sur l'évaluation des autres parties de la copie» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ },
+ {
+  "subject": "l'évaluation en français",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle est la finalité ultime d'un système complet couplant évaluation, diagnostic et remédiation au primaire ?",
+  "options": [
+   "Garantir l'inclusion, prévenir l'échec scolaire, réguler l'enseignement et assurer la maîtrise des compétences fondamentales pour chaque apprenant",
+   "Garantir l'inclusion, prévenir l'échec scolaire, réguler l'enseignement et assurer la maîtrise des compétences fondamentales pour chaque apprenant، وذلك وفق المقاربة السلوكية",
+   "Garantir l'inclusion, prévenir l'échec scolaire, réguler l'enseignement et assurer la maîtrise des compétences fondamentales pour chaque apprenant، وذلك في إطار بيداغوجيا الأهداف",
+   "Garantir l'inclusion, prévenir l'échec scolaire, réguler l'enseignement et assurer la maîtrise des compétences fondamentales pour chaque apprenant، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Garantir l'inclusion, prévenir l'échec scolaire, réguler l'enseignement et assurer la maîtrise des compétences fondamentales pour chaque apprenant» ; elle correspond aux contenus validés de ce thème.",
+  "source": "l'évaluation en français",
+  "manual": true
+ }
+]

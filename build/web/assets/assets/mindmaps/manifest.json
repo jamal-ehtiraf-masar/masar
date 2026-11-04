@@ -1,0 +1,593 @@
+{
+  "version": 1,
+  "updated": "2026-10-25",
+  "categories": [
+    {
+      "id": "theories",
+      "title": "نظريات التعلم والتطور",
+      "icon": "psychology"
+    },
+    {
+      "id": "pedagogy",
+      "title": "بيداغوجيا تطبيقية",
+      "icon": "school"
+    },
+    {
+      "id": "institutions",
+      "title": "المجالس والمؤسسات",
+      "icon": "account_balance"
+    },
+    {
+      "id": "law",
+      "title": "القانون والتشريع",
+      "icon": "gavel"
+    },
+    {
+      "id": "activities",
+      "title": "الأنشطة والممارسات",
+      "icon": "sports_soccer"
+    }
+  ],
+  "items": [
+    {
+      "id": "mm_001",
+      "file": "assets/mindmaps/mm_001.jpg",
+      "title": "إريكسون — النمو النفسي الاجتماعي (الخطاطات)",
+      "source": "إريكسون – النمو النفسي الاجتماعي-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_002",
+      "file": "assets/mindmaps/mm_002.jpg",
+      "title": "الأندية التربوية",
+      "source": "الأندية التربوية-4.jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_003",
+      "file": "assets/mindmaps/mm_003.jpg",
+      "title": "البرنامج الحكومي",
+      "source": "البرنامج الحكومي-8.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_004",
+      "file": "assets/mindmaps/mm_004.jpg",
+      "title": "البرنامج السنوي للنادي البيئي - نموذج",
+      "source": "البرنامج السنوي للنادي البيئي - نموذج-5.jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_005",
+      "file": "assets/mindmaps/mm_005.jpg",
+      "title": "البيداغوجيا الفارقية (Pédagogie différenciée)",
+      "source": "البيداغوجيا الفارقية (Pédagogie différenciée).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_006",
+      "file": "assets/mindmaps/mm_006.jpg",
+      "title": "البيداغوجيا الفارقية-المقاربات (محور 1.2)",
+      "source": "البيداغوجيا الفارقية-المقاربات (محور 1.2).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_007",
+      "file": "assets/mindmaps/mm_007.jpg",
+      "title": "التربية الدامجة الجزء 1",
+      "source": "التربية الدامجة الجزء 1-5.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_008",
+      "file": "assets/mindmaps/mm_008.jpg",
+      "title": "التربية الدامجة الجزء 2",
+      "source": "التربية الدامجة الجزء 2-6.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_009",
+      "file": "assets/mindmaps/mm_009.jpg",
+      "title": "التربية الدامجة الجزء 3",
+      "source": "التربية الدامجة الجزء 3-7.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_010",
+      "file": "assets/mindmaps/mm_010.jpg",
+      "title": "التربية الدامجة- دليل المدرسين",
+      "source": "التربية الدامجة- دليل المدرسين-2.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_011",
+      "file": "assets/mindmaps/mm_011.jpg",
+      "title": "التربية الدامجة (ملخص مهم)",
+      "source": "التربية الدامجة(ملخص مهم)-1.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_012",
+      "file": "assets/mindmaps/mm_012.jpg",
+      "title": "التنشيط والتواصل-عناصر الإجابة",
+      "source": "التنشيط والتواصل-عناصر الإجابة-3.jpg",
+      "category": "activities"
+    },
+    {
+      "id": "mm_013",
+      "file": "assets/mindmaps/mm_013.jpg",
+      "title": "التنشيط والتواصل-وضعيات تقويمية",
+      "source": "التنشيط والتواصل-وضعيات تقويمية-2.jpg",
+      "category": "activities"
+    },
+    {
+      "id": "mm_014",
+      "file": "assets/mindmaps/mm_014.jpg",
+      "title": "التواصل والتنشيط والوساطة",
+      "source": "التواصل والتنشيط والوساطة-1.jpg",
+      "category": "activities"
+    },
+    {
+      "id": "mm_015",
+      "file": "assets/mindmaps/mm_015.jpg",
+      "title": "القانون الإطار من المادة 1 إلى 18",
+      "source": "القانون الإطار من المادة 1 إلى 18-1.jpg",
+      "category": "law"
+    },
+    {
+      "id": "mm_016",
+      "file": "assets/mindmaps/mm_016.jpg",
+      "title": "القانون الإطار من المادة 36 إلى 59",
+      "source": "القانون الإطار من المادة 36 إلى 59-3.jpg",
+      "category": "law"
+    },
+    {
+      "id": "mm_017",
+      "file": "assets/mindmaps/mm_017.jpg",
+      "title": "القانون الإطار من المادة 53 إلى 56",
+      "source": "القانون الإطار من المادة 53 إلى 56-4.jpg",
+      "category": "law"
+    },
+    {
+      "id": "mm_018",
+      "file": "assets/mindmaps/mm_018.jpg",
+      "title": "المجالس التعليمية-مجالس المؤسسة",
+      "source": "المجالس التعليمية-مجالس المؤسسة.jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_019",
+      "file": "assets/mindmaps/mm_019.jpg",
+      "title": "المجلس التربوي-مجالس المؤسسة",
+      "source": "المجلس التربوي-مجالس المؤسسة.jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_020",
+      "file": "assets/mindmaps/mm_020.jpg",
+      "title": "المرجعيات المؤطرة للإصلاح-المقاربات (محور 1.3)",
+      "source": "المرجعيات المؤطرة للإصلاح-المقاربات (محور 1.3).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_021",
+      "file": "assets/mindmaps/mm_021.jpg",
+      "title": "المهارات الحياتية",
+      "source": "المهارات الحياتية -2.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_022",
+      "file": "assets/mindmaps/mm_022.jpg",
+      "title": "النظرية الاتصالية-الترابطية",
+      "source": "النظرية الاتصالية-الترابطية.jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_023",
+      "file": "assets/mindmaps/mm_023.jpg",
+      "title": "النظرية البنائية",
+      "source": "النظرية البنائية.jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_024",
+      "file": "assets/mindmaps/mm_024.jpg",
+      "title": "النظرية الجشطالتية",
+      "source": "النظرية الجشطالتية.jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_025",
+      "file": "assets/mindmaps/mm_025.jpg",
+      "title": "النظرية السلوكية",
+      "source": "النظرية السلوكية.jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_026",
+      "file": "assets/mindmaps/mm_026.jpg",
+      "title": "النظرية السوسيو-بنائية",
+      "source": "النظرية السوسيو-بنائية.jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_027",
+      "file": "assets/mindmaps/mm_027.jpg",
+      "title": "النظرية المعرفية",
+      "source": "النظرية المعرفية.jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_028",
+      "file": "assets/mindmaps/mm_028.jpg",
+      "title": "النموذج التنموي الجزء الأول",
+      "source": "النموذج التنموي الجزء الأول-9.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_029",
+      "file": "assets/mindmaps/mm_029.jpg",
+      "title": "النموذج التنموي الجزء الثاني",
+      "source": "النموذج التنموي الجزء الثاني-10.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_030",
+      "file": "assets/mindmaps/mm_030.jpg",
+      "title": "أوزوبل – التعلم اللفظي ذي المعنى-الخطاطات (الوثيقة)",
+      "source": "أوزوبل – التعلم اللفظي ذي المعنى-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_031",
+      "file": "assets/mindmaps/mm_031.jpg",
+      "title": "بافلوف – التعلم الشرطي الكلاسيكي-الخطاطات (الوثيقة)",
+      "source": "بافلوف – التعلم الشرطي الكلاسيكي-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_032",
+      "file": "assets/mindmaps/mm_032.jpg",
+      "title": "باندورا – نظرية التعلم الاجتماعي _ النمذجة-الخطاطات (الوثيقة)",
+      "source": "باندورا – نظرية التعلم الاجتماعي _ النمذجة-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_033",
+      "file": "assets/mindmaps/mm_033.jpg",
+      "title": "برونر – التعلم بالاستكشاف والمنهج الحلزوني-الخطاطات (الوثيقة)",
+      "source": "برونر – التعلم بالاستكشاف والمنهج الحلزوني-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_034",
+      "file": "assets/mindmaps/mm_034.jpg",
+      "title": "بيداغوجيا الأهداف (Pédagogie par objectifs)",
+      "source": "بيداغوجيا الأهداف (Pédagogie par objectifs).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_035",
+      "file": "assets/mindmaps/mm_035.jpg",
+      "title": "بيداغوجيا التعاقد (Pédagogie de contrat)",
+      "source": "بيداغوجيا التعاقد (Pédagogie de contrat).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_036",
+      "file": "assets/mindmaps/mm_036.jpg",
+      "title": "بيداغوجيا الخطأ (Pédagogie de l erreur)",
+      "source": "بيداغوجيا الخطأ (Pédagogie de l erreur).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_037",
+      "file": "assets/mindmaps/mm_037.jpg",
+      "title": "بيداغوجيا الخطأ-المقاربات (محور 1.2)",
+      "source": "بيداغوجيا الخطأ-المقاربات (محور 1.2).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_038",
+      "file": "assets/mindmaps/mm_038.jpg",
+      "title": "بيداغوجيا الدعم والتقويم (Pédagogie de l évaluation et soutien)",
+      "source": "بيداغوجيا الدعم والتقويم (Pédagogie de l évaluation et soutien).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_039",
+      "file": "assets/mindmaps/mm_039.jpg",
+      "title": "بيداغوجيا الكفايات (Pédagogie par compétences)",
+      "source": "بيداغوجيا الكفايات (Pédagogie par compétences).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_040",
+      "file": "assets/mindmaps/mm_040.jpg",
+      "title": "بيداغوجيا اللعب (Pédagogie du jeu)",
+      "source": "بيداغوجيا اللعب (Pédagogie du jeu).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_041",
+      "file": "assets/mindmaps/mm_041.jpg",
+      "title": "بيداغوجيا اللعب وحل المشكلات-المقاربات (محور 1.2)",
+      "source": "بيداغوجيا اللعب وحل المشكلات-المقاربات (محور 1.2).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_042",
+      "file": "assets/mindmaps/mm_042.jpg",
+      "title": "بيداغوجيا المشروع (Pédagogie de projet)",
+      "source": "بيداغوجيا المشروع (Pédagogie de projet).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_043",
+      "file": "assets/mindmaps/mm_043.jpg",
+      "title": "بيداغوجيا المشروع-المقاربات (محور 1.2)",
+      "source": "بيداغوجيا المشروع-المقاربات (محور 1.2).jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_044",
+      "file": "assets/mindmaps/mm_044.jpg",
+      "title": "تأسيس الأندية التربوية",
+      "source": "تأسيس الأندية التربوية-1.jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_045",
+      "file": "assets/mindmaps/mm_045.jpg",
+      "title": "تنمية المهارات الحياتية",
+      "source": "تنمية المهارات الحياتية-4.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_046",
+      "file": "assets/mindmaps/mm_046.jpg",
+      "title": "ثورندايك – التعلم بالمحاولة والخطأ-الخطاطات (الوثيقة)",
+      "source": "ثورندايك – التعلم بالمحاولة والخطأ-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_047",
+      "file": "assets/mindmaps/mm_047.jpg",
+      "title": "جاثري – التعلم بالاقتران-الخطاطات (الوثيقة)",
+      "source": "جاثري – التعلم بالاقتران-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_048",
+      "file": "assets/mindmaps/mm_048.jpg",
+      "title": "جاردنر – نظرية الذكاءات المتعددة-الخطاطات (الوثيقة)",
+      "source": "جاردنر – نظرية الذكاءات المتعددة-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_049",
+      "file": "assets/mindmaps/mm_049.jpg",
+      "title": "جان بيياجيه – النظرية البنائية والنمو المعرفي-الخطاطات (الوثيقة)",
+      "source": "جان بيياجيه – النظرية البنائية والنمو المعرفي-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_050",
+      "file": "assets/mindmaps/mm_050.jpg",
+      "title": "جون ديوي – التربية التقدمية والتعلم بالخبرة-الخطاطات (الوثيقة)",
+      "source": "جون ديوي – التربية التقدمية والتعلم بالخبرة-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_051",
+      "file": "assets/mindmaps/mm_051.jpg",
+      "title": "جون واتسون – السلوكية الراديكالية وقوانين التعلم-الخطاطات (الوثيقة)",
+      "source": "جون واتسون – السلوكية الراديكالية وقوانين التعلم-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_052",
+      "file": "assets/mindmaps/mm_052.jfif",
+      "title": "خريطة شاملة لنظريات التعلم",
+      "source": "خريطة شاملة لنظريات التعلم.jfif",
+      "category": "theories"
+    },
+    {
+      "id": "mm_053",
+      "file": "assets/mindmaps/mm_053.jpg",
+      "title": "دليل الانشطة الاعتيادية في القراءة والرياضيات",
+      "source": "دليل الانشطة الاعتيادية في القراءة والرياضيات-7.jpg",
+      "category": "activities"
+    },
+    {
+      "id": "mm_054",
+      "file": "assets/mindmaps/mm_054.jpg",
+      "title": "دليل الحياة المدرسية 2020",
+      "source": "دليل الحياة المدرسية 2020-1.jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_055",
+      "file": "assets/mindmaps/mm_055.jpg",
+      "title": "دليل بنك الأنشطة الاعتيادية 2022",
+      "source": "دليل بنك الانشطة الاعتيادية 2022-5.jpg",
+      "category": "activities"
+    },
+    {
+      "id": "mm_056",
+      "file": "assets/mindmaps/mm_056.jpg",
+      "title": "دليل تدبير الأنشطة الصفية ودعم التعلمات",
+      "source": "دليل تدبير الأنشطة الصفية ودعم التعلمات -3.jpg",
+      "category": "activities"
+    },
+    {
+      "id": "mm_057",
+      "file": "assets/mindmaps/mm_057.jpg",
+      "title": "سكينر – التعلم الإجرائي-الخطاطات (الوثيقة)",
+      "source": "سكينر – التعلم الإجرائي-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_058",
+      "file": "assets/mindmaps/mm_058.jpg",
+      "title": "فرتهايمر، كوهلر، كوفكا – النظرية الجشطالتية-الخطاطات (الوثيقة)",
+      "source": "فرتهايمر، كوهلر، كوفكا – النظرية الجشطالتية-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_059",
+      "file": "assets/mindmaps/mm_059.jpg",
+      "title": "فيغوتسكي – النظرية السوسيو-بنائية-الخطاطات (الوثيقة)",
+      "source": "فيغوتسكي – النظرية السوسيو-بنائية-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_060",
+      "file": "assets/mindmaps/mm_060.png",
+      "title": "قانون الإطار — النص العام",
+      "source": "قانون الاطار عام.png",
+      "category": "law"
+    },
+    {
+      "id": "mm_061",
+      "file": "assets/mindmaps/mm_061.jpg",
+      "title": "ماسلو – هرم الاحتياجات الإنسانية-الخطاطات (الوثيقة)",
+      "source": "ماسلو – هرم الاحتياجات الإنسانية-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_062",
+      "file": "assets/mindmaps/mm_062.jpg",
+      "title": "مجالس الأقسام-مجالس المؤسسة",
+      "source": "مجالس الأقسام-مجالس المؤسسة.jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_063",
+      "file": "assets/mindmaps/mm_063.jpg",
+      "title": "مجالس المؤسسة-2 (الاندية التربوية)",
+      "source": "مجالس المؤسسة-2 (الاندية التربوية).jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_064",
+      "file": "assets/mindmaps/mm_064.jpg",
+      "title": "مجالس المؤسسة-2 (مجالس المؤسسة)",
+      "source": "مجالس المؤسسة-2 (مجالس المؤسسة).jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_065",
+      "file": "assets/mindmaps/mm_065.jpg",
+      "title": "مجالس المؤسسة-تفاصيل",
+      "source": "مجالس المؤسسة-تفاصيل-1.jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_066",
+      "file": "assets/mindmaps/mm_066.jpg",
+      "title": "مجلس التدبير-مجالس المؤسسة",
+      "source": "مجلس التدبير-مجالس المؤسسة.jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_067",
+      "file": "assets/mindmaps/mm_067.jpg",
+      "title": "مطوية حول المشروع الشخصي اكتوبر",
+      "source": "مطوية حول المشروع الشخصي اكتوبر -12.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_068",
+      "file": "assets/mindmaps/mm_068.jpg",
+      "title": "ملخص التربية الدامجة (مهم)",
+      "source": "ملخص التربية الدامجة(مهم)-3.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_069",
+      "file": "assets/mindmaps/mm_069.jpg",
+      "title": "ملخص ديداكتيك المواد",
+      "source": "ملخص ديداكتيك المواد-13.jpg",
+      "category": "pedagogy"
+    },
+    {
+      "id": "mm_070",
+      "file": "assets/mindmaps/mm_070.jpg",
+      "title": "نظرية الذكاءات المتعددة",
+      "source": "نظرية الذكاءات المتعددة.jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_071",
+      "file": "assets/mindmaps/mm_071.jpg",
+      "title": "نموذج _مدارس الريادة_-المقاربات (محور 1.3)",
+      "source": "نموذج _مدارس الريادة_-المقاربات (محور 1.3).jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_072",
+      "file": "assets/mindmaps/mm_072.jpg",
+      "title": "نموذج جمعية دعم مدرسة النجاح",
+      "source": "نموذج جمعية دعم مدرسة النجاح-3.jpg",
+      "category": "institutions"
+    },
+    {
+      "id": "mm_073",
+      "file": "assets/mindmaps/mm_073.jpg",
+      "title": "نورمان – نظرية معالجة المعلومات-الخطاطات (الوثيقة)",
+      "source": "نورمان – نظرية معالجة المعلومات-الخطاطات (الوثيقة).jpg",
+      "category": "theories"
+    },
+    {
+      "id": "mm_074",
+      "file": "assets/mindmaps/mm_074.jpg",
+      "title": "ورقات من وحي المنهاج",
+      "source": "ورقات من وحي المنهاج-14.jpg",
+      "category": "law"
+    },
+    {
+      "id": "mm_075",
+      "file": "assets/mindmaps/mm_075.jpg",
+      "title": "دليل الطقوس (المستوى الابتدائي) — الحس الحركي والجدادات",
+      "source": "Guide des rituels-Primaireحس حركي جدادات-4.jpg",
+      "category": "activities"
+    },
+    {
+      "id": "mm_076",
+      "file": "assets/mindmaps/mm_076.jpg",
+      "title": "دليل طقوس القراءة — المستوى 10",
+      "source": "Guide Mes rituels en lecture Niveau 10.jpg",
+      "category": "activities"
+    },
+    {
+      "id": "mm_077",
+      "file": "assets/mindmaps/mm_077.jpg",
+      "title": "دليل طقوس القراءة — المستوى 8",
+      "source": "Guide Mes rituels en lecture Niveau 8.jpg",
+      "category": "activities"
+    },
+    {
+      "id": "mm_078",
+      "file": "assets/mindmaps/mm_078.jpg",
+      "title": "دليل طقوس القراءة — المستوى 9",
+      "source": "Guide Mes rituels en lecture Niveau 9.jpg",
+      "category": "activities"
+    },
+    {
+      "id": "mm_079",
+      "file": "assets/mindmaps/mm_079.jpg",
+      "title": "خطاطة ذهنية — مخطط عام",
+      "source": "images3.jpeg",
+      "category": "law"
+    },
+    {
+      "id": "mm_080",
+      "file": "assets/mindmaps/mm_080.jpg",
+      "title": "TIMSS-PIRLS-PNEA-PISA التقييمات بمنظومة التعليم",
+      "source": "TIMSS-PIRLS-PNEA-PISA التقييمات بمنظومة التعليم-11.jpg",
+      "category": "law"
+    }
+  ]
+}

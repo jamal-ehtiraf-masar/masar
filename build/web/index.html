@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="تطبيق مسار — التحضير لامتحان الكفاءة المهنية للأساتذة.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="مسار Ehtiraf">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>مسار Ehtiraf</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <script type="module">
+  // pdfx (على الويب) يقرأ `globalThis.pdfjsLib` و `globalThis.pdfRenderOptions`.
+  // pdfjs-dist 4.x لا يوفر بناءً UMD، فنستورد الوحدة ونعيّنها عمومياً صراحةً.
+  import * as pdfjsLib from 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.6.82/build/pdf.min.mjs';
+  globalThis.pdfjsLib = pdfjsLib;
+  globalThis.pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.6.82/build/pdf.worker.min.mjs';
+  globalThis.pdfRenderOptions = {
+    cMapUrl: 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.6.82/cmaps/',
+    cMapPacked: true,
+  };
+  </script>
+  <script>
+  // منع تخزين التطبيق القديم: إلغاء أي Service Worker مسجّل مسبقاً
+  // حتى لا يعيد المتصفح نسخاً قديمة مخزّنة عند التحديث.
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.getRegistrations().then((regs) => {
+        for (const reg of regs) reg.unregister();
+      });
+    });
+  }
+  </script>
+  <!--
+    You can customize the "flutter_bootstrap.js" script.
+    This is useful to provide a custom configuration to the Flutter loader
+    or to give the user feedback during the initialization process.
+
+    For more details:
+    * https://docs.flutter.dev/platform-integration/web/initialization
+  -->
+    <!--
+    [masar-jawaaher-embed] دمج لعبة «جواهر الكفاءة» داخل التطبيق.
+    أي محاولة من التطبيق لفتح /jawaaher/ (تبويب جديد أو نفس الصفحة) تظهر
+    كلعبة مدمجة بملء الشاشة داخل التطبيق نفسه (iframe) مع زر رجوع،
+    بدل الخروج إلى المتصفح. لا تؤثر على أي رابط آخر.
+  -->
+  <script>
+  (function () {
+    "use strict";
+    if (window.MasarJawaaher) return;
+
+    var ID = "masar-jawaaher-overlay";
+    var css = document.createElement("style");
+    css.textContent = [
+      "#" + ID + "{position:fixed;inset:0;z-index:2147483000;display:flex;flex-direction:column;background:#0b0720;font-family:Cairo,Tajawal,system-ui,-apple-system,sans-serif;}",
+      "#" + ID + " .mj-bar{flex:0 0 auto;display:flex;align-items:center;gap:8px;padding:calc(8px + env(safe-area-inset-top)) 12px 8px 12px;background:#12102a;border-bottom:1px solid rgba(255,255,255,.1);color:#f5e9c8;}",
+      "#" + ID + " .mj-back{display:inline-flex;align-items:center;gap:6px;border:1px solid rgba(255,214,120,.45);background:rgba(255,214,120,.14);color:#ffe9b0;font:700 13px/1 inherit;padding:10px 14px;border-radius:10px;cursor:pointer;}",
+      "#" + ID + " .mj-back:active{transform:scale(.97);}",
+      "#" + ID + " .mj-title{flex:1 1 auto;text-align:center;font-weight:800;font-size:14px;letter-spacing:.2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}",
+      "#" + ID + " .mj-ext{display:inline-flex;align-items:center;border:1px solid rgba(255,255,255,.18);background:transparent;color:#cfc6ee;font:600 11.5px/1 inherit;padding:9px 10px;border-radius:10px;cursor:pointer;}",
+      "#" + ID + " .mj-body{position:relative;flex:1 1 auto;min-height:0;background:#0b0720;}",
+      "#" + ID + " iframe{position:absolute;inset:0;width:100%;height:100%;border:0;display:block;background:#0b0720;}",
+      "#" + ID + " .mj-load{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#cfc6ee;font-size:13px;pointer-events:none;transition:opacity .25s ease;}",
+      "#" + ID + " .mj-load.hide{opacity:0;}",
+      "@media (max-width:420px){#" + ID + " .mj-ext{display:none;}}"
+    ].join("");
+    document.head.appendChild(css);
+
+    var current = null;
+
+    function close() {
+      var el = document.getElementById(ID);
+      if (!el) return;
+      var f = el.querySelector("iframe");
+      if (f) f.src = "about:blank";
+      el.parentNode && el.parentNode.removeChild(el);
+      document.documentElement.style.overflow = "";
+      current = null;
+    }
+
+    function open(url) {
+      close();
+      var wrap = document.createElement("div");
+      wrap.id = ID;
+      wrap.setAttribute("dir", "rtl");
+
+      var bar = document.createElement("div");
+      bar.className = "mj-bar";
+
+      var back = document.createElement("button");
+      back.type = "button";
+      back.className = "mj-back";
+      back.textContent = "\u2192 \u0631\u062c\u0648\u0639 \u0625\u0644\u0649 \u0627\u0644\u062a\u0637\u0628\u064a\u0642";
+      back.addEventListener("click", close);
+
+      var title = document.createElement("div");
+      title.className = "mj-title";
+      title.textContent = "\uD83D\uDC8E \u062c\u0648\u0627\u0647\u0631 \u0627\u0644\u0643\u0641\u0627\u0621\u0629";
+
+      var ext = document.createElement("button");
+      ext.type = "button";
+      ext.className = "mj-ext";
+      ext.textContent = "\u062a\u0628\u0648\u064a\u0628 \u062c\u062f\u064a\u062f";
+      ext.addEventListener("click", function () {
+        window.open = window.MasarJawaaher._originalOpen;
+        window.MasarJawaaher._originalOpen.call(window, url, "_blank");
+        window.open = window.MasarJawaaher.hook;
+      });
+
+      bar.appendChild(back);
+      bar.appendChild(title);
+      bar.appendChild(ext);
+
+      var body = document.createElement("div");
+      body.className = "mj-body";
+
+      var frame = document.createElement("iframe");
+      frame.title = "\u062c\u0648\u0627\u0647\u0631 \u0627\u0644\u0643\u0641\u0627\u0621\u0629";
+      frame.setAttribute("allow", "autoplay; fullscreen; clipboard-write; microphone; gamepad");
+      frame.setAttribute("sandbox", "allow-scripts allow-same-origin allow-popups allow-modals allow-downloads allow-forms");
+      frame.src = url;
+
+      var load = document.createElement("div");
+      load.className = "mj-load";
+      load.textContent = "\u062c\u0627\u0631\u064d \u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0644\u0639\u0628\u0629\u2026";
+      frame.addEventListener("load", function () { load.className = "mj-load hide"; });
+
+      body.appendChild(frame);
+      body.appendChild(load);
+      wrap.appendChild(bar);
+      wrap.appendChild(body);
+      document.body.appendChild(wrap);
+      document.documentElement.style.overflow = "hidden";
+      current = url;
+    }
+
+    var originalOpen = window.open ? window.open.bind(window) : null;
+
+    function hook(url, target, features) {
+      try {
+        var raw = url == null ? "" : String(url);
+        if (/(^|\/)jawaaher(\/|$|\?)/i.test(raw) || raw.indexOf("/jawaaher/") !== -1) {
+          open(new URL(raw, location.href).href);
+          return null;
+        }
+      } catch (_) {}
+      return originalOpen ? originalOpen(url, target, features) : null;
+    }
+
+    window.MasarJawaaher = {
+      open: open,
+      close: close,
+      hook: hook,
+      _originalOpen: originalOpen
+    };
+    window.open = hook;
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && document.getElementById(ID)) close();
+    });
+    window.addEventListener("message", function (e) {
+      if (e && e.data === "masar:close-jawaaher") close();
+    });
+  })();
+  </script>
+
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

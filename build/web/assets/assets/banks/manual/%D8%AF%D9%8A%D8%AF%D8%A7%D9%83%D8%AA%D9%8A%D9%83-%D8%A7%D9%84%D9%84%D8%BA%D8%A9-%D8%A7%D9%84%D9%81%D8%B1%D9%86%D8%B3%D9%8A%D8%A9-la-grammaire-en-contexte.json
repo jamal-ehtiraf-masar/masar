@@ -1,0 +1,2633 @@
+{
+ "folder": "ديداكتيك اللغة الفرنسية",
+ "topic": "la grammaire en contexte",
+ "questions": [
+  {
+   "situation": "",
+   "text": "Qu'entend-on par « enseignement de la grammaire en contexte » au primaire ?",
+   "options": [
+    "L'observation des faits de langue à partir d'un texte porteur de sens suivie d'un réemploi en production écrite",
+    "La mémorisation par cœur de définitions théoriques abstraites au tout début de la séance de cours",
+    "L'exécution mécanique de fiches d'exercices d'analyse grammaticale isolées de toute lecture",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « L'observation des faits de langue à partir d'un texte porteur de sens suivie d'un réemploi en production écrite » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle du texte support (ou corpus) dans une séance de grammaire inductive au cycle 3 ?",
+   "options": [
+    "Servir de décor d'illustration sans aucun lien avec la règle de langue manipulée par les élèves",
+    "Offrir un contexte authentique d'émergence de la notion pour analyser le fonctionnement de la langue",
+    "Obliger les apprenants à recopier l'intégralité des paragraphes sur leur cahier de devoirs",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 1,
+   "explanation": "Explication : la bonne réponse est « Offrir un contexte authentique d'émergence de la notion pour analyser le fonctionnement de la langue » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder la notion de « verbe » au cycle 1 / début cycle 2 (CP) de manière contextualisée ?",
+   "options": [
+    "Par la distinction formelle immédiate entre les verbes d'état et les verbes d'action sur des listes de mots",
+    "En associant l'action mimée ou observée dans une illustration à son expression verbale dans une phrase",
+    "En faisant réciter les terminaisons du présent de l'indicatif avant toute prise de parole",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 1,
+   "explanation": "Explication : la bonne réponse est « En associant l'action mimée ou observée dans une illustration à son expression verbale dans une phrase » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « manipulation syntaxique » (ex: substitution, déplacement, suppression) en didactique de la langue ?",
+   "options": [
+    "Un jeu de découpage manuel de lettres de l'alphabet pour travailler la calligraphie au CP",
+    "Une méthode opératoire permettant d'identifier la fonction d'un groupe de mots en le transformant",
+    "La correction orthographique systématique effectuée par le professeur sur le cahier de l'élève",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 1,
+   "explanation": "Explication : la bonne réponse est « Une méthode opératoire permettant d'identifier la fonction d'un groupe de mots en le transformant » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt d'utiliser la transformation de phrase (passer du singulier au pluriel) en conjugaison au CE1 ?",
+   "options": [
+    "Remplacer la séance de lecture à voix haute par un exercice de copie rapide au tableau",
+    "Évaluer la vitesse d'écriture manuelle des élèves lors d'une épreuve chronométrée",
+    "Toutes les réponses précédentes sont fausses",
+    "Faire prendre conscience des variations morphologiques du verbe et des accords sujet-verbe en contexte، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment la démarche inductive s'oppose-t-elle à la démarche déductive en grammaire ?",
+   "options": [
+    "Elle impose la règle de grammaire au début de la séance avant d'observer les exemples du manuel",
+    "Elle interdit toute utilisation de fiches d'exercices d'entraînement ou de révision à la maison",
+    "Elle part de l'observation d'exemples en contexte pour amener l'élève à dégager la règle",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 2,
+   "explanation": "Explication : la bonne réponse est « Elle part de l'observation d'exemples en contexte pour amener l'élève à dégager la règle » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'objectif des « phrases dictées du jour » (ou dictée flash réflexive) ?",
+   "options": [
+    "Noter immédiatement l'élève de manière sommative sur cinq points à chaque début de matinée",
+    "Amener les élèves à verbaliser et justifier leurs choix d'accords grammaticaux en groupe",
+    "Forcer les élèves à recopier dix fois les mots invariables mal orthographiés sur leur cahier",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 1,
+   "explanation": "Explication : la bonne réponse est « Amener les élèves à verbaliser et justifier leurs choix d'accords grammaticaux en groupe » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment la conjugaison du passé composé doit-elle être introduite au CE2 ?",
+   "options": [
+    "Par l'apprentissage par cœur des verbes du 3e groupe à toutes les personnes avant toute lecture",
+    "Par la distinction théorique entre les auxiliaires « être » et « avoir » sans exemple textuel",
+    "En s'appuyant sur des récits d'événements passés proches pour observer la structure en deux mots",
+    "Toutes les réponses me sont fausses"
+   ],
+   "correctIndex": 2,
+   "explanation": "Explication : la bonne réponse est « En s'appuyant sur des récits d'événements passés proches pour observer la structure en deux mots » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « valeur des temps » en didactique de la conjugaison au CM1-CM2 ?",
+   "options": [
+    "La compréhension de la fonction narrative ou descriptive d'un temps verbal dans un texte",
+    "Le nombre de lettres composant la terminaison d'un verbe conjugué à l'imparfait",
+    "Le coefficient attribué à la conjugaison dans le calcul de la moyenne générale",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « La compréhension de la fonction narrative ou descriptive d'un temps verbal dans un texte » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'impact de la production d'écrits courte (ex: le jogging d'écriture) sur l'apprentissage de la grammaire ?",
+   "options": [
+    "Permettre le réemploi immédiat et le transfert des notions grammaticales dans un écrit personnel",
+    "Dispenser l'enseignant de préparer ses fiches de leçons pour le reste de la semaine",
+    "Évaluer uniquement la propreté de la mise en page et la qualité du dessin accompagnateur",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Permettre le réemploi immédiat et le transfert des notions grammaticales dans un écrit personnel » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment enseigner l'accord de l'adjectif qualificatif au CE1/CE2 de manière fonctionnelle ?",
+   "options": [
+    "En faisant apprendre la règle d'accord abstraite avant de présenter des groupes nominaux concrets",
+    "En faisant varier le genre et le nombre du nom noyau dans des situations de description",
+    "En interdisant l'utilisation des adjectifs dans les productions d'écrits guidées",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 1,
+   "explanation": "Explication : la bonne réponse est « En faisant varier le genre et le nombre du nom noyau dans des situations de description » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce que la « grammaire de texte » par opposition à la « grammaire de phrase » ?",
+   "options": [
+    "L'étude des éléments assurant la cohérence textuelle (connecteurs, substituts, concordance des temps)",
+    "L'analyse exclusive de la nature et de la fonction des mots isolés dans des phrases courtes",
+    "L'apprentissage par cœur du vocabulaire du dictionnaire par ordre alphabétique",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « L'étude des éléments assurant la cohérence textuelle (connecteurs, substituts, concordance des temps) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder les pronoms personnels sujets au CP/CE1 ?",
+   "options": [
+    "En faisant analyser leur fonction grammaticale de sujet complémentaire dans la proposition",
+    "En montrant leur rôle de remplacement d'un nom ou groupe nominal pour éviter les répétitions",
+    "En exigeant la récitation de la grille des pronoms sans aucune phrase d'illustration",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 1,
+   "explanation": "Explication : la bonne réponse est « En montrant leur rôle de remplacement d'un nom ou groupe nominal pour éviter les répétitions » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle du « tri de mots » (ou classement) lors de la phase de recherche en grammaire ?",
+   "options": [
+    "Amener les élèves à comparer, catégoriser et expliciter les critères de classement des mots",
+    "Évaluer la vitesse de découpage des étiquettes en papier avec des ciseaux au CP",
+    "Sanctionner les élèves qui ne connaissent pas la définition formelle de la classe grammaticale",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Amener les élèves à comparer, catégoriser et expliciter les critères de classement des mots » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment la notion de complément d'objet (COD/COI) s'articule-t-elle avec le sens de la phrase au CM1 ?",
+   "options": [
+    "Par l'identification d'un élément essentiel qui complète le verbe et ne peut être supprimé",
+    "Par l'apprentissage par cœur d'une liste fixe de verbes transitifs sans contexte de phrase",
+    "Par la suppression obligatoire de tous les compléments lors de la lecture à voix haute",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Par l'identification d'un élément essentiel qui complète le verbe et ne peut être supprimé » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce que l'« atelier de négociation graphique » (ou dictée négociée) ?",
+   "options": [
+    "Une activité où les élèves débattent en petits groupes pour justifier l'orthographe grammaticale d'un texte",
+    "Une activité où les élèves débattent en petits groupes pour justifier l'orthographe grammaticale d'un texte، وذلك وفق المقاربة السلوكية",
+    "Une activité où les élèves débattent en petits groupes pour justifier l'orthographe grammaticale d'un texte، وذلك في إطار بيداغوجيا الأهداف",
+    "Une activité où les élèves débattent en petits groupes pour justifier l'orthographe grammaticale d'un texte، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Une activité où les élèves débattent en petits groupes pour justifier l'orthographe grammaticale d'un texte » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment travailler l'imparfait de l'indicatif en contexte au CE2/CM1 ?",
+   "options": [
+    "En l'associant à des textes de souvenirs, de portraits ou de descriptions du passé",
+    "En faisant réciter les terminaisons uniquement pour les verbes irréguliers du 3e groupe",
+    "En interdisant l'utilisation du passé composé dans le même paragraphe de récit",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En l'associant à des textes de souvenirs, de portraits ou de descriptions du passé » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le statut du « cahier d'outils » (ou memento de grammaire) construit par la classe ?",
+   "options": [
+    "Un référentiel personnalisé contenant les règles formalisées et les exemples de la classe",
+    "Un cahier de punition imprimé à l'avance par l'éditeur du manuel scolaire",
+    "Un document officiel réservé uniquement aux réunions avec les parents d'élèves",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Un référentiel personnalisé contenant les règles formalisées et les exemples de la classe » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment former les élèves au repérage du sujet de la phrase au CE1 ?",
+   "options": [
+    "Par la récitation de la définition théorique du sujet d'une action",
+    "En cherchant systématiquement le premier mot situé au début de la phrase",
+    "Toutes les réponses précédentes sont fausses",
+    "Par l'utilisation de la structure d me encadrement « C'est.. qui » ou « Ce sont.. qui »، وذلك في إطار بيداغوجيا الأهداف",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt des « paires minimales syntaxiques » (ex: *Le chat mange la souris* / *Les chats mangent la souris*) ?",
+   "options": [
+    "Mettre en évidence par contraste visuel et phonique les marques de l'accord grammatical",
+    "Faire étudier la biologie des animaux domestiques dans le cours de sciences",
+    "Évaluer la vitesse de lecture à voix haute des élèves en difficulté",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Mettre en évidence par contraste visuel et phonique les marques de l'accord grammatical » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment faire comprendre la différence entre le présent d'énonciation et le présent de vérité générale au CM2 ?",
+   "options": [
+    "En comparant des paroles rapportées en direct et des textes documentaires scientifiques",
+    "En exigeant la mémorisation de cinquante verbes conjugués au présent",
+    "En supprimant le présent de l'indicatif des exercices de production écrite",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En comparant des paroles rapportées en direct et des textes documentaires scientifiques » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « régularité morphologique » en conjugaison au primaire ?",
+   "options": [
+    "L'existence de bases et de terminaisons constantes pour une même personne ou un même temps",
+    "L'obligation de recopier la même ligne de verbe chaque matin sur le cahier de roulement",
+    "La présence d'exceptions imprévisibles dans chaque liste de conjugaison",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « L'existence de bases et de terminaisons constantes pour une même personne ou un même temps » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment la grammaire aide-t-elle à la compréhension en lecture (compréhension de l'écrit) ?",
+   "options": [
+    "En permettant de résoudre les ambiguïtés d'anaphores, de connecteurs et de structures de phrases",
+    "En ralentissant le rythme de lecture pour faire analyser chaque mot individuellement",
+    "En remplaçant la lecture de romans par l'analyse de phrases isolées du manuel",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En permettant de résoudre les ambiguïtés d'anaphores, de connecteurs et de structures de phrases » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'objectif d'une séance de « révision de texte » axée sur la grammaire ?",
+   "options": [
+    "Recopier le texte du voisin sans chercher à comprendre la nature des corrections",
+    "Transformer un texte narratif en poème en supprimant tous les verbes conjugués",
+    "Toutes les réponses précédentes sont fausses",
+    "Chasser les erreurs d'accord et de ponctuation dans sa propre production écrite avant le jet définitif، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 4,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment structurer une séance de grammaire selon la démarche d'investigation de la langue ?",
+   "options": [
+    "Observation/analyse, émission d'hypothèses, manipulation, formalisation, entraînement, transfert",
+    "Dictée de la règle, mémorisation passive, contrôle écrit immédiat sans pratique",
+    "Copie du cours du livre, exercices individuels silencieux, correction magistrale au tableau",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Observation/analyse, émission d'hypothèses, manipulation, formalisation, entraînement, transfert » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'entend-on par « substituts nominaux et pronominaux » dans la cohérence textuelle au CM1-CM2 ?",
+   "options": [
+    "Les synonymes des noms propres utilisés exclusivement dans la poésie classique",
+    "Les adjectifs qualificatifs placés directement devant un nom commun",
+    "Toutes les réponses précédentes sont fausses",
+    "Les procédés linguistiques assurant la reprise d'information et évitant la répétition dans un texte، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder le futur simple de l'indicatif au CE1/CE2 ?",
+   "options": [
+    "En reliant les projets ou prédictions énoncés aux marqueurs temporels (demain, plus tard)",
+    "En faisant réciter les terminaisons sans donner d'exemples de phrases situées dans le temps",
+    "En l'enseignant simultanément avec le futur antérieur et le conditionnel présent",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En reliant les projets ou prédictions énoncés aux marqueurs temporels (demain, plus tard) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt des « jeux de cartes linguistiques » (ex: associer sujet + verbe + complément) au CP/CE1 ?",
+   "options": [
+    "Manipuler physiquement les constituants de la phrase pour comprendre la syntaxe de base",
+    "Divertir les élèves pendant les heures de récréation sans intention pédagogique",
+    "Évaluer la mémoire visuelle des formes géométriques dessinées sur les cartes",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Manipuler physiquement les constituants de la phrase pour comprendre la syntaxe de base » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment traiter l'erreur récurrente d'accord verbe-sujet quand le sujet est inversé ou éloigné au CM2 ?",
+   "options": [
+    "Par des exercices d'explicitation et de recherche du sujet réel grâce à la question « Qui est-ce qui ? »",
+    "En interdisant l'utilisation des sujets inversés dans toutes les créations de textes",
+    "En baissant automatiquement la note de dictée de cinq points à chaque apparition de l'erreur",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Par des exercices d'explicitation et de recherche du sujet réel grâce à la question « Qui est-ce qui ? » » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "En résumé, quelle est la finalité ultime de l'enseignement de la grammaire et de la conjugaison au primaire ?",
+   "options": [
+    "Développer une posture réflexive sur la langue pour mieux lire, mieux écrire et mieux s'exprimer",
+    "Faire acquérir un jargon linguistique théorique complexe aux jeunes enfants",
+    "Remplacer la littérature et l'expression orale par la mémorisation de règles abstraites",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Développer une posture réflexive sur la langue pour mieux lire, mieux écrire et mieux s'exprimer » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant introduit-il la notion de « groupe nominal » (GN) au cycle 2 de manière inductive ?",
+   "options": [
+    "En faisant observer à partir d'un texte comment un nom peut être enrichi ou qualifié par un déterminant",
+    "En dictant une liste de quatre-vingt définitions abstraites de grammaire française du dictionnaire",
+    "En interdisant aux élèves d'utiliser des noms communs dans leurs phrases écrites en classe",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En faisant observer à partir d'un texte comment un nom peut être enrichi ou qualifié par un déterminant » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle pédagogique de l'effacement ou de la suppression d'un groupe de mots dans une phrase au CE2 ?",
+   "options": [
+    "Montrer s'il s'agit d'un constituant essentiel (ex: sujet, verbe) ou d'un constituant déplaçable/supprimable (ex: complément de phrase)",
+    "Montrer s'il s'agit d'un constituant essentiel (ex: sujet, verbe) ou d'un constituant déplaçable/supprimable (ex: complément de phrase)، وذلك وفق المقاربة السلوكية",
+    "Montrer s'il s'agit d'un constituant essentiel (ex: sujet, verbe) ou d'un constituant déplaçable/supprimable (ex: complément de phrase)، وذلك في إطار بيداغوجيا الأهداف",
+    "Montrer s'il s'agit d'un constituant essentiel (ex: sujet, verbe) ou d'un constituant déplaçable/supprimable (ex: complément de phrase)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Montrer s'il s'agit d'un constituant essentiel (ex: sujet, verbe) ou d'un constituant déplaçable/supprimable (ex: complément de phrase) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder la conjugaison du présent de l'indicatif des verbes du 1er groupe au CP-CE1 en contexte ?",
+   "options": [
+    "À partir d'actions vécues ou racontées au moment présent (ex: « Aujourd'hui, nous dessinons.. »)",
+    "Par la mémorisation brute et sans contexte de la grille complète des terminaisons (e, es, e, ons, ez, ent)",
+    "En étudiant simultanément le subjonctif présent et le conditionnel de tous les verbes irréguliers",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « À partir d'actions vécues ou racontées au moment présent (ex: « Aujourd'hui, nous dessinons.. ») » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « anaphore lexicale ou pronominale » dans la didactique de la grammaire textuelle au CM2 ?",
+   "options": [
+    "L'art de réciter des vers poétiques avec une intonation théâtrale prononcée",
+    "La règle d'accord des adjectifs de couleur selon le genre du nom qualifié",
+    "Toutes les réponses précédentes sont fausses",
+    "Le mécanisme linguistique permettant de reprendre un référent déjà évoqué pour éviter les répétitions، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt de la manipulation des « substituts » (il, elle, les, lui) dans les textes narratifs ?",
+   "options": [
+    "Aider les élèves à comprendre la cohérence textuelle et à identifier qui fait quoi dans l'histoire",
+    "Remplacer les cours d'écriture manuelle par des exercices de copie de pronoms isolés",
+    "Sanctionner les élèves qui écrivent des phrases trop courtes dans leurs rédactions",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Aider les élèves à comprendre la cohérence textuelle et à identifier qui fait quoi dans l'histoire » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment enseigner la distinction entre « phrase verbale » et « phrase non verbale » (ex: les titres de journaux, pancartes) ?",
+   "options": [
+    "En confrontant les élèves à différents types de supports écrits authentiques (affiches, faits divers, contes)",
+    "En expliquant que les phrases non verbales sont strictement interdites dans tous les types d'écrits scolaires",
+    "En exigeant que chaque ligne écrite comporte au moins trois verbes conjugués à l'indicatif",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En confrontant les élèves à différents types de supports écrits authentiques (affiches, faits divers, contes) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce qu'une « dictée négociée » et en quoi favorise-t-elle l'apprentissage de la grammaire ?",
+   "options": [
+    "Une négociation marchande entre l'élève et le maître pour modifier la note d'évaluation",
+    "Une épreuve individuelle silencieuse où personne n'a le droit de parler pendant l'écriture",
+    "Toutes les réponses précédentes sont fausses",
+    "Une activité coopérative où les élèves confrontent leurs arguments grammaticaux pour accorder collectivement un texte، وذلك في إطار بيداغوجيا الأهداف",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire l'accord du participe passé avec l'auxiliaire *être* au CM1-CM2 ?",
+   "options": [
+    "Par l'observation de phrases contrastées où le sujet change de genre et de nombre (ex: *Il est parti* / *Elle est partie*)",
+    "Par l'observation de phrases contrastées où le sujet change de genre et de nombre (ex: *Il est parti* / *Elle est partie*)، وذلك وفق المقاربة السلوكية",
+    "Par l'observation de phrases contrastées où le sujet change de genre et de nombre (ex: *Il est parti* / *Elle est partie*)، وذلك في إطار بيداغوجيا الأهداف",
+    "Par l'observation de phrases contrastées où le sujet change de genre et de nombre (ex: *Il est parti* / *Elle est partie*)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Par l'observation de phrases contrastées où le sujet change de genre et de nombre (ex: *Il est parti* / *Elle est partie*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel rôle joue le « tri de phrases » selon leur type (déclarative, interrogative, exclamative, impérative) ?",
+   "options": [
+    "Compter le nombre total de majuscules présentes dans un paragraphe de roman",
+    "Apprendre aux élèves à classer les livres de la bibliothèque selon l'ordre alphabétique",
+    "Toutes les réponses précédentes sont fausses",
+    "Aider les élèves à relier la ponctuation finale et l'intonation à l'intention de communication de l'énonciateur، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder la notion de « genre » (masculin/féminin) des noms au CP/CE1 ?",
+   "options": [
+    "Par l'association naturelle du déterminant (*le/la*, *un/une*) au nom dans des contextes familiers",
+    "Par l'étude théorique approfondie des origines étymologiques latines des mots de la langue",
+    "En interdisant l'usage des noms féminins dans les exercices d'écriture du premier trimestre",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Par l'association naturelle du déterminant (*le/la*, *un/une*) au nom dans des contextes familiers » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « accord en cascade » ou « chaîne d'accord » au sein du groupe nominal ?",
+   "options": [
+    "L'accord qui se propage du déterminant au nom noyau et à l'adjectif épithète (ex: *les petites filles*)",
+    "Le fait d'écrire les mots de la phrase les uns sous les autres en colonne verticale",
+    "L'obligation de relier par des flèches tous les verbes de la phrase à leur sujet respectif",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « L'accord qui se propage du déterminant au nom noyau et à l'adjectif épithète (ex: *les petites filles*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'apport des « rituels de grammaire » (ex: analyse grammaticale rapide d'une phrase du jour) ?",
+   "options": [
+    "Automatiser les procédures de repérage et renforcer la familiarité avec les structures de la langue",
+    "Occuper les élèves pendant que le professeur prépare le matériel de la récréation",
+    "Remplacer définitivement les séquences structurées d'apprentissage par de simples devoirs",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Automatiser les procédures de repérage et renforcer la familiarité avec les structures de la langue » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant traite-t-il l'erreur d'accord sujet-verbe lorsqu'un groupe nominal sujet est séparé du verbe par une expansion ?",
+   "options": [
+    "En guidant l'élève vers l'identification du noyau du sujet réel par la manipulation de la phrase",
+    "En sanctionnant lourdement l'élève par une baisse de note sans expliciter la règle d'éloignement",
+    "En supprimant purement et simplement toutes les expansions des phrases dans les exercices futurs",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En guidant l'élève vers l'identification du noyau du sujet réel par la manipulation de la phrase » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce que la « commutation » (ou test de remplacement) en grammaire ?",
+   "options": [
+    "Un échange de rôles entre l'élève et l'enseignant lors de la correction collective au tableau",
+    "Le déplacement des tables de la classe pour former des îlots de travail coopératif",
+    "Toutes les réponses précédentes sont fausses",
+    "Un procédé de manipulation consistant à remplacer un élément par un autre de même classe pour identifier sa nature، وذلك في إطار بيداغوجيا الأهداف",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire l'imparfait de l'indicatif en lien avec la production d'écrits au CE2-CM1 ?",
+   "options": [
+    "En faisant réciter le tableau complet des terminaisons des trois groupes sans support textuel",
+    "En interdisant l'emploi du présent de l'indicatif dans toutes les matières scolaires",
+    "Toutes les réponses précédentes sont fausses",
+    "En écrivant un texte de description de paysages ou de souvenirs d'enfance où les actions durent dans le passé، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt d'utiliser des « corpus contrastés » lors d'une séance de découverte grammaticale ?",
+   "options": [
+    "Mettre en évidence les ressemblances et les différences pour faire émerger la règle par contraste",
+    "Remplir rapidement le tableau noir avec de longues listes de mots sans signification",
+    "Confondre intentionnellement les élèves pour tester leur résistance psychologique en classe",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Mettre en évidence les ressemblances et les différences pour faire émerger la règle par contraste » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment enseigner la nature et la fonction d'un mot pour éviter la confusion chez l'élève ?",
+   "options": [
+    "En affirmant que chaque mot de la langue française n'a qu'une seule fonction unique et définitive",
+    "En interdisant d'utiliser le terme « fonction » dans toutes les classes du cycle primaire",
+    "Toutes les réponses précédentes sont fausses",
+    "En expliquant que la nature (ce qu'il est) est fixe, tandis que la fonction (son rôle dans la phrase) dépend du contexte، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « connecteur logique ou temporel » dans l'étude de la phrase et du texte ?",
+   "options": [
+    "Un mot ou un groupe de mots qui articule les idées et structure le texte (ex: *mais, donc, ensuite*)",
+    "Le câble électrique branché au mur pour faire fonctionner le projecteur multimédia de la classe",
+    "La liaison phonétique obligatoire entre deux consonnes lors de la lecture à haute voix",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Un mot ou un groupe de mots qui articule les idées et structure le texte (ex: *mais, donc, ensuite*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant peut-il évaluer de manière formative les acquis en conjugaison en fin de séquence ?",
+   "options": [
+    "Par une tâche d'écriture contextualisée (ex: rédiger la suite d'un récit au temps demandé) plutôt qu'un questionnaire isolé",
+    "Par une tâche d'écriture contextualisée (ex: rédiger la suite d'un récit au temps demandé) plutôt qu'un questionnaire isolé، وذلك وفق المقاربة السلوكية",
+    "Par une tâche d'écriture contextualisée (ex: rédiger la suite d'un récit au temps demandé) plutôt qu'un questionnaire isolé، وذلك في إطار بيداغوجيا الأهداف",
+    "Par une tâche d'écriture contextualisée (ex: rédiger la suite d'un récit au temps demandé) plutôt qu'un questionnaire isolé، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Par une tâche d'écriture contextualisée (ex: rédiger la suite d'un récit au temps demandé) plutôt qu'un questionnaire isolé » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle de la « manipulation de déplacement » dans l'analyse des constituants de la phrase ?",
+   "options": [
+    "Identifier les compléments déplaçables (circonstanciels) par opposition aux constituants essentiels",
+    "Permettre aux élèves de changer de place sur leur chaise pendant les exercices difficiles",
+    "Changer l'ordre des lettres à l'intérieur d'un mot pour former un anagramme orthographique",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Identifier les compléments déplaçables (circonstanciels) par opposition aux constituants essentiels » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder le futur simple de l'indicatif en contexte narratif ou projectif au CE1-CE2 ?",
+   "options": [
+    "En partant des projets de la classe ou des prédictions dans une histoire pour observer la marque verbale",
+    "En faisant mémoriser le radical de tous les verbes irréguliers du troisième groupe par cœur",
+    "En interdisant l'utilisation du futur dans les consignes orales données par l'enseignant",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En partant des projets de la classe ou des prédictions dans une histoire pour observer la marque verbale » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce qu'une « phrase complexe » par rapport à une « phrase simple » au CM1-CM2 ?",
+   "options": [
+    "Une phrase dont la lecture est rendue difficile par un vocabulaire scientifique très rare",
+    "Une phrase écrite avec une calligraphie trop compliquée à déchiffrer pour les élèves",
+    "Toutes les réponses précédentes sont fausses",
+    "Une phrase comportant plusieurs verbes conjugués (plusieurs propositions) reliés par coordination ou subordination، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt pédagogique des « étiquettes mobiles » lors de l'étude de la syntaxe au cycle 2 ?",
+   "options": [
+    "Manipuler physiquement les mots pour tester des hypothèses d'ordre et de structure de phrase",
+    "Décorer les murs de la classe avec des créations artistiques en papier coloré",
+    "Remplacer l'apprentissage de l'écriture sur les cahiers lignés pendant toute l'année",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Manipuler physiquement les mots pour tester des hypothèses d'ordre et de structure de phrase » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant gère-t-il les exceptions en conjugaison (ex: *venir, tenir*) face à la règle générale ?",
+   "options": [
+    "En les supprimant totalement des programmes scolaires officiels du primaire",
+    "En obligeant les élèves à inventer de nouvelles règles logiques pour remplacer ces verbes",
+    "Toutes les réponses précédentes sont fausses",
+    "En les traitant comme des cas particuliers mémorisés en contexte après avoir solidement ancré les régularités، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « grammaire implicite » dans les classes du cycle initial (CP) ?",
+   "options": [
+    "Un ensemble de règles secrètes que l'enseignant refuse de révéler aux élèves",
+    "L'interdiction absolue de parler de grammaire pendant les heures de lecture",
+    "Toutes les réponses précédentes sont fausses",
+    "L'utilisation correcte des structures de la langue à l'oral sans formalisation théorique ni métalangage، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 4,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'impact de la correction orthographique des productions d'écrits sur la progression en grammaire ?",
+   "options": [
+    "Elle décourage définitivement l'élève et détruit son envie d'écrire en autonomie",
+    "Elle ne sert à rien puisque seule la note sommative finale compte pour le bulletin",
+    "Toutes les réponses précédentes sont fausses",
+    "Elle permet à l'élève de conscientiser ses erreurs et d'ajuster ses stratégies d'accord en situation réelle، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire la notion de « déterminant » au CE1 à partir d'un texte ?",
+   "options": [
+    "En montrant qu'il est le « petit mot » placé devant le nom pour actualiser son genre et son nombre",
+    "En faisant apprendre par cœur la liste exhaustive de tous les articles définis et indéfinis",
+    "En expliquant qu'il s'agit d'un verbe d'action déguisé au milieu du groupe nominal",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant qu'il est le « petit mot » placé devant le nom pour actualiser son genre et son nombre » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce que l'« analyse logique » d'une phrase complexe au CM2 ?",
+   "options": [
+    "L'identification des propositions indépendantes, principales et subordonnées et de leurs liens",
+    "Le calcul mathématique de la longueur totale de la phrase en nombre de centimètres",
+    "La vérification de la logique scientifique des propos tenus dans un texte documentaire",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « L'identification des propositions indépendantes, principales et subordonnées et de leurs liens » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant favorise-t-il le transfert des règles de grammaire apprises vers les situations d'écriture libre ?",
+   "options": [
+    "En exigeant la relecture ciblée d'un point précis (ex: les accords dans le GN) lors de la révision des écrits",
+    "En donnant des contrôles écrits formels chaque vendredi après-midi sans lien avec les rédactions",
+    "En supposant que le transfert se fait automatiquement sans qu'il soit besoin de guider l'élève",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En exigeant la relecture ciblée d'un point précis (ex: les accords dans le GN) lors de la révision des écrits » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "En résumé, que garantit une didactique de la grammaire et de la conjugaison ancrée dans le contexte textuel ?",
+   "options": [
+    "L'apprentissage rapide d'un vocabulaire technique abstrait inutile pour la vie quotidienne",
+    "La suppression totale de toute évaluation sommative et de tout contrôle écrit au primaire",
+    "Toutes les réponses précédentes sont fausses",
+    "Le sens des apprentissages, la mise en réseau des notions et l'efficacité dans la production et la lecture، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aborde-t-il la notion d' « adjectif épithète » en contexte au CM1 ?",
+   "options": [
+    "En faisant réciter par cœur la liste de tous les adjectifs qualificatifs du dictionnaire",
+    "En interdisant l'utilisation des adjectifs dans les descriptions écrites des élèves",
+    "Toutes les réponses précédentes sont fausses",
+    "En faisant supprimer ou ajouter des expansions du nom dans un texte pour observer leur fonction de caractérisation، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 4,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt pédagogique du passage du style direct au style indirect dans un texte narratif au CM2 ?",
+   "options": [
+    "Évaluer la vitesse de copie des dialogues sur le cahier d'exercices individuels",
+    "Supprimer tous les verbes de parole pour raccourcir la longueur des paragraphes",
+    "Toutes les réponses précédentes sont fausses",
+    "Travailler la modification des marques de personne, des temps verbaux et des indicateurs spatio-temporels، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire les « homophones grammaticaux » (ex: *a / à*, *est / et*, *son / sont*) au CE1-CE2 de manière fonctionnelle ?",
+   "options": [
+    "En s'appuyant sur la manipulation syntaxique (remplacement par un autre temps ou une autre classe grammaticale)",
+    "En s'appuyant sur la manipulation syntaxique (remplacement par un autre temps ou une autre classe grammaticale)، وذلك وفق المقاربة السلوكية",
+    "En s'appuyant sur la manipulation syntaxique (remplacement par un autre temps ou une autre classe grammaticale)، وذلك في إطار بيداغوجيا الأهداف",
+    "En s'appuyant sur la manipulation syntaxique (remplacement par un autre temps ou une autre classe grammaticale)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En s'appuyant sur la manipulation syntaxique (remplacement par un autre temps ou une autre classe grammaticale) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « concordance des temps » dans un récit au passé au CM1-CM2 ?",
+   "options": [
+    "L'obligation d'utiliser uniquement le présent de l'indicatif du premier au dernier chapitre",
+    "Le calcul de l'écart horaire entre le moment de la rédaction et le moment de la lecture",
+    "Toutes les réponses précédentes sont fausses",
+    "L'articulation logique entre l'imparfait (arrière-plan, description) et le passé simple ou passé composé (premier plan)، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment travailler la notion de « complément circonstanciel » (CC) au CE2-CM1 ?",
+   "options": [
+    "Par la mémorisation d'une liste fixe de prépositions sans contexte de phrase",
+    "En interdisant l'utilisation des compléments en début de phrase dans les travaux écrits",
+    "Toutes les réponses précédentes sont fausses",
+    "Par les tests de déplacement et de suppression pour identifier les circonstances de l'action (lieu, temps, moyen)، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle des « verbes de parole » (ou verbes introduisant le dialogue) dans la ponctuation du texte ?",
+   "options": [
+    "Varier le lexique, préciser l'intonation des personnages et structurer la prise de parole",
+    "Remplacer la présence des guillemets et des tirets lors de la lecture silencieuse",
+    "Évaluer la rapidité avec laquelle les élèves retrouvent les verbes dans le dictionnaire",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Varier le lexique, préciser l'intonation des personnages et structurer la prise de parole » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder le « plus-que-parfait » de l'indicatif en contexte au CM2 ?",
+   "options": [
+    "En observant dans un récit au passé les actions accomplies antérieurement à une autre action passée",
+    "En faisant apprendre la grille des terminaisons sans expliquer l'utilisation des deux auxiliaires",
+    "En le présentant comme un temps réservé exclusivement à la poésie du dix-septième siècle",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant dans un récit au passé les actions accomplies antérieurement à une autre action passée » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « phrase interrogative totale » par opposition à la « phrase interrogative partielle » ?",
+   "options": [
+    "Une question rédigée en majuscules d'imprimerie du début à la fin de la ligne",
+    "Une phrase comportant au moins trois points d'interrogation consécutifs",
+    "Toutes les réponses précédentes sont fausses",
+    "Une interrogation qui porte sur l'ensemble de la phrase et à laquelle on répond par *oui* ou par *non*، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment la manipulation d' « élargissement de la phrase » aide-t-elle à comprendre l'enrichissement du nom au CM1 ?",
+   "options": [
+    "En ajoutant des adjectifs au hasard sans vérifier le sens ni la cohérence de la phrase",
+    "En recopiant la même phrase dix fois en agrandissant la taille des lettres manuscrites",
+    "Toutes les réponses précédentes sont fausses",
+    "En transformant progressivement un mot seul en groupe nominal complexe (nom + adjectif + complément du nom)، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt de la « phrase minimale » (ou noyau de la phrase) en didactique de la syntaxe ?",
+   "options": [
+    "Imposer aux élèves de n'écrire que des phrases de trois mots dans toutes leurs rédactions",
+    "Évaluer la vitesse de déchiffrage des phrases courtes chez les élèves en difficulté",
+    "Toutes les réponses précédentes sont fausses",
+    "Faire identifier le squelette indispensable (Sujet + Verbe + COD éventuel) débarrassé des éléments facultatifs، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment faire comprendre le rôle de la « voix passive » (ou forme passive) au CM2 en contexte ?",
+   "options": [
+    "En expliquant que la voix passive sert uniquement lors des contrôles officiels de fin d'année",
+    "En interdisant l'utilisation du complément d'agent dans les productions écrites scolaires",
+    "Toutes les réponses précédentes sont fausses",
+    "En comparant des énoncés actifs et passifs pour observer le changement de focalisation et de sujet grammatical، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « valeur aspectuelle d'un temps verbal » (ex: accompli / non accompli) au primaire ?",
+   "options": [
+    "La manière dont le temps exprime le déroulement de l'action (en cours, achevée, répétée)",
+    "Le degré de difficulté orthographique des terminaisons des verbes du troisième groupe",
+    "La vitesse à laquelle l'élève est capable de réciter la conjugaison d'un verbe à voix haute",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « La manière dont le temps exprime le déroulement de l'action (en cours, achevée, répétée) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder les « prépositions » (ex: *à, de, pour, sur, dans*) au CE2 de façon contextualisée ?",
+   "options": [
+    "En observant leur rôle d'introduction de compléments (lieu, temps, appartenance) dans des phrases signifiantes",
+    "En faisant réciter par cœur la comptine « Adam part pour Venise » sans aucune explication de sens",
+    "En interdisant leur emploi lors des exercices de rédaction du deuxième trimestre",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant leur rôle d'introduction de compléments (lieu, temps, appartenance) dans des phrases signifiantes » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'impact de la « relecture orthographique ciblée » après la rédaction d'un premier jet d'écriture ?",
+   "options": [
+    "Sanctionner l'élève en lui faisant recopier l'intégralité du texte en cas d'erreur constatée",
+    "Déléguer la responsabilité de la correction aux parents à la maison sans guidage en classe",
+    "Toutes les réponses précédentes sont fausses",
+    "Permettre à l'élève d'appliquer des grilles de vérification adaptées (accords GN, accord Sujet-Verbe, terminaisons)، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 4,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment enseigner la différence entre « adjectif qualificatif » et « complément du nom » au CM1-CM2 ?",
+   "options": [
+    "En montrant qu'ils remplissent la même fonction de caractérisation du nom, mais avec des structures différentes",
+    "En affirmant que le complément du nom est systématiquement un verbe à l'infinitif sans préposition",
+    "En interdisant de juxtaposer un adjectif et un complément du nom au sein du même groupe nominal",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant qu'ils remplissent la même fonction de caractérisation du nom, mais avec des structures différentes » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce que l' « impératif présent » et comment l'introduire en contexte au CE2 ?",
+   "options": [
+    "Un mode utilisé pour exprimer des ordres, conseils ou consignes (ex: recettes de cuisine, règles de jeu)",
+    "Un temps du passé réservé exclusivement aux récits d'aventures et aux contes de fées",
+    "Une forme verbale qui nécessite obligatoirement la présence du pronom sujet *tu* ou *nous*",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Un mode utilisé pour exprimer des ordres, conseils ou consignes (ex: recettes de cuisine, règles de jeu) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aide-t-il les élèves à distinguer le « COD » du « Sujet » dans une phrase passive ou inversée ?",
+   "options": [
+    "En utilisant les tests de pronominalisation (*le/la/les*) et d'encadrement (*C'est.. qui*)",
+    "En déclarant que le premier mot de la phrase est toujours le sujet et le dernier mot le COD",
+    "En supprimant tous les compléments d'objet dans les textes présentés aux élèves",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En utilisant les tests de pronominalisation (*le/la/les*) et d'encadrement (*C'est.. qui*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle du « métalangage » (ex: *nom, verbe, sujet, COD*) au cycle 2 et au cycle 3 ?",
+   "options": [
+    "Servir d'outil de communication précis pour analyser, expliciter et manipuler les faits de langue",
+    "Remplacer l'apprentissage de la lecture et de la rédaction par des définitions savantes",
+    "Évaluer la mémoire encyclopédique des élèves lors de contrôles sommatifs quotidiens",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Servir d'outil de communication précis pour analyser, expliciter et manipuler les faits de langue » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder le « conditionnel présent » en contexte communicatif au CM2 ?",
+   "options": [
+    "En le présentant comme un simple temps du passé de l'indicatif sans nuance d'incertitude",
+    "En interdisant son emploi dans toutes les séances de production écrite du troisième cycle",
+    "Toutes les réponses précédentes sont fausses",
+    "À partir de situations exprimant un souhait, un conseil, une politesse ou une hypothèse (*Si j'avais.. je ferais..*)، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « morphologie verbale » en didactique de la conjugaison ?",
+   "options": [
+    "L'étude des variations de forme du verbe selon le temps, le mode, la personne et le nombre",
+    "L'analyse de la calligraphie et de la forme des lettres lors de la copie du texte",
+    "Le découpage des phrases en propositions principales et propositions subordonnées",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « L'étude des variations de forme du verbe selon le temps, le mode, la personne et le nombre » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment travailler l' « accord de l'attribut du sujet » au CM2 de façon inductive ?",
+   "options": [
+    "En observant l'accord de l'adjectif relié au sujet par un verbe d'état (*être, paraître, sembler*)",
+    "En faisant mémoriser par cœur une liste de cent verbes d'action transitifs directs",
+    "En interdisant l'utilisation des verbes d'état dans les portraits écrits par les élèves",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant l'accord de l'adjectif relié au sujet par un verbe d'état (*être, paraître, sembler*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt de la « carte mentale de grammaire » (ou schéma heuristique) en fin de séquence ?",
+   "options": [
+    "Remplacer la rédaction des textes par des dessins artistiques en couleur sur le cahier",
+    "Servir d'épreuve de dessin évaluée de manière sommative pour le bulletin officiel",
+    "Toutes les réponses précédentes sont fausses",
+    "Visualiser les liens entre la notion, ses caractéristiques, les manipulations et les exemples vus en classe، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire les « adverbes » au CM1 à partir d'un texte d'enrichissement ?",
+   "options": [
+    "En montrant comment ils modifient ou précisent le sens d'un verbe, d'un adjectif ou d'une phrase tout en étant invariables",
+    "En montrant comment ils modifient ou précisent le sens d'un verbe, d'un adjectif ou d'une phrase tout en étant invariables، وذلك وفق المقاربة السلوكية",
+    "En montrant comment ils modifient ou précisent le sens d'un verbe, d'un adjectif ou d'une phrase tout en étant invariables، وذلك في إطار بيداغوجيا الأهداف",
+    "En montrant comment ils modifient ou précisent le sens d'un verbe, d'un adjectif ou d'une phrase tout en étant invariables، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant comment ils modifient ou précisent le sens d'un verbe, d'un adjectif ou d'une phrase tout en étant invariables » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « ponctuation textuelle » par opposition à la « ponctuation de phrase » ?",
+   "options": [
+    "Le découpage du texte en paragraphes, dialogues et grandes unités de sens au service du récit",
+    "L'utilisation exclusive de la virgule et du point final à l'intérieur d'une seule ligne",
+    "La présence obligatoire de majuscules au début de chaque mot du texte",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Le découpage du texte en paragraphes, dialogues et grandes unités de sens au service du récit » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant gère-t-il la confusion fréquente entre *-er* (infinitif) et *-é* (participe passé) au CM1-CM2 ?",
+   "options": [
+    "En interdisant l'utilisation des verbes du 1er groupe dans les dictées d'évaluation",
+    "En baissant la note d'écriture sans expliquer la différence de nature grammaticale",
+    "Toutes les réponses précédentes sont fausses",
+    "En utilisant le test de remplacement par un verbe du 3e groupe (ex: *mordre / mordu*, *prendre / pris*)، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle de la « régularité des terminaisons du passé simple » au CM2 (*-ai, -as, -a.. / -is, -is, -it..*) ?",
+   "options": [
+    "Permettre le repérage rapide des formes verbales dans les récits de littérature de jeunesse",
+    "Forcer les élèves à écrire des romans historiques à la manière des auteurs du siècle passé",
+    "Remplacer l'étude de l'imparfait et du passé composé dans les programmes de grammaire",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Permettre le repérage rapide des formes verbales dans les récits de littérature de jeunesse » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment faire comprendre le concept de « pronom relatif » (ex: *qui, que, dont, où*) au CM2 en contexte ?",
+   "options": [
+    "En faisant réciter par cœur la liste des pronoms possessifs et démonstratifs",
+    "En supprimant tous les pronoms des textes de lecture présentés aux élèves",
+    "Toutes les réponses précédentes sont fausses",
+    "En observant comment il évite la répétition en reliant une proposition subordonnée à son antécédent، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 4,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce que la « grammaire rénovée » (ou rénovation de l'enseignement de la langue) au primaire ?",
+   "options": [
+    "Le retour strict à la mémorisation mécanique de règles tirées de grammaires anciennes",
+    "L'abandon total de l'apprentissage de l'orthographe grammaticale et de la conjugaison",
+    "Toutes les réponses précédentes sont fausses",
+    "Une approche centrée sur l'observation, la manipulation, la réflexion et l'utilité au service du texte، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder la notion d' « antonyme » et de « synonyme » en lien avec la grammaire au CE2-CM1 ?",
+   "options": [
+    "En observant que la substitution d'un mot par son synonyme ou antonyme conserve sa classe grammaticale",
+    "En mélangeant les classes grammaticales (ex: remplacer un nom par un verbe à l'infinitif)",
+    "En interdisant l'usage du dictionnaire lors des activités de recherche lexicale",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant que la substitution d'un mot par son synonyme ou antonyme conserve sa classe grammaticale » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "En résumé, quel est l'indicateur principal de réussite d'une leçon de grammaire ou conjugaison en contexte ?",
+   "options": [
+    "La capacité de l'élève à réinvestir spontanément et correctement la notion dans ses productions écrites",
+    "La capacité de l'élève à réciter la définition par cœur sans commettre la moindre hésitation",
+    "La propreté du cahier de leçons et la beauté de la présentation graphique de la règle",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « La capacité de l'élève à réinvestir spontanément et correctement la notion dans ses productions écrites » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant introduit-il la notion de « phrase négative » au CE1-CE2 en contexte textuel ?",
+   "options": [
+    "En faisant transformer des phrases affirmatives en phrases négatives à l'aide des lunettes de la négation (*ne.. pas*, *ne.. plus*, *ne.. jamais*)",
+    "En faisant transformer des phrases affirmatives en phrases négatives à l'aide des lunettes de la négation (*ne.. pas*, *ne.. plus*, *ne.. jamais*)، وذلك وفق المقاربة السلوكية",
+    "En faisant transformer des phrases affirmatives en phrases négatives à l'aide des lunettes de la négation (*ne.. pas*, *ne.. plus*, *ne.. jamais*)، وذلك في إطار بيداغوجيا الأهداف",
+    "En faisant transformer des phrases affirmatives en phrases négatives à l'aide des lunettes de la négation (*ne.. pas*, *ne.. plus*, *ne.. jamais*)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En faisant transformer des phrases affirmatives en phrases négatives à l'aide des lunettes de la négation (*ne.. pas*, *ne.. plus*, *ne.. jamais*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt pédagogique d'utiliser le « texte injonctif » (ex: règle de jeu, recette) pour enseigner l'impératif ?",
+   "options": [
+    "Mettre en évidence la fonction pragmatique du mode impératif qui sert à donner des ordres ou des conseils",
+    "Remplacer l'apprentissage de la conjugaison par la préparation effective de plats culinaires en classe",
+    "Évaluer la vitesse de copie des ingrédients sur le cahier de devoirs du soir",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Mettre en évidence la fonction pragmatique du mode impératif qui sert à donner des ordres ou des conseils » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment travailler l'accord du « participe passé sans auxiliaire » (employé comme adjectif) au CM2 ?",
+   "options": [
+    "En expliquant qu'il ne s'accorde jamais quel que soit le contexte ou la place dans la phrase",
+    "En interdisant son utilisation dans toutes les rédactions littéraires du troisième cycle",
+    "Toutes les réponses précédentes sont fausses",
+    "En observant qu'il s'accorde en genre et en nombre avec le nom qu'il qualifie, exactement comme un adjectif épithète، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « pronom démonstratif » (ex: *celui, celle, ceux, celles*) dans l'étude des substituts textuels ?",
+   "options": [
+    "Un verbe d'action très fort utilisé pour montrer des objets du doigt pendant la leçon",
+    "Un adjectif qualificatif invariable placé systématiquement derrière le nom noyau",
+    "Toutes les réponses précédentes sont fausses",
+    "Un mot qui remplace un groupe nominal déjà mentionné pour éviter les répétitions tout en désignant précisément، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder le « futur antérieur » de l'indicatif au CM2 en contexte ?",
+   "options": [
+    "En observant dans une phrase complexe l'action passée qui se déroulera avant une autre action future",
+    "En le présentant comme un temps du passé simple réservé aux livres d'histoire anciens",
+    "En faisant réciter par cœur la liste des verbes défectifs sans rapport avec le futur simple",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant dans une phrase complexe l'action passée qui se déroulera avant une autre action future » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle de la manipulation de « substitution lexicale et grammaticale » lors de la révision d'un texte ?",
+   "options": [
+    "Transformer un texte en prose en un exercice de calcul mental arithmétique",
+    "Changer l'écriture manuscrite de cursive en script sans modifier le sens des phrases",
+    "Toutes les réponses précédentes sont fausses",
+    "Permettre à l'élève d'améliorer la précision de sa langue en remplaçant un mot par un autre de même classe، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 4,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment enseigner la différence entre « verbe transitif » et « verbe intransitif » au CM1-CM2 ?",
+   "options": [
+    "En montrant si le verbe admet ou n'admet pas la présence d'un complément d'objet direct ou indirect",
+    "En mesurant la vitesse de déplacement physique des élèves d'une table à l'autre dans la salle",
+    "En affirmant que seuls les verbes du premier groupe peuvent être intransitifs en français",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant si le verbe admet ou n'admet pas la présence d'un complément d'objet direct ou indirect » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce qu'une « proposition subordonnée relative » et quel est son rôle dans l'enrichissement du texte ?",
+   "options": [
+    "Une phrase indépendante écrite en bas de page pour remercier les parents d'élèves",
+    "Un groupe nominal court qui remplace le verbe principal dans les phrases exclamatives",
+    "Toutes les réponses précédentes sont fausses",
+    "Une proposition introduite par un pronom relatif qui complète un nom antécédent pour apporter des précisions، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aborde-t-il la notion de « genre du nom » (masculin/féminin) pour les noms d'animaux au CE1 ?",
+   "options": [
+    "En exigeant l'apprentissage étymologique du latin classique pour chaque nom d'animal",
+    "En interdisant l'utilisation des noms féminins d'animaux dans les dictées scolaires",
+    "Toutes les réponses précédentes sont fausses",
+    "En observant les paires contrastées dans les textes (ex: *le chat / la chatte*, *le lion / la lionne*)، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt de la « dictée flash » quotidienne pour l'automatisation des accords grammaticaux ?",
+   "options": [
+    "Permettre un entraînement court, régulier et ciblé sur des difficultés orthographiques récurrentes",
+    "Épuiser les élèves dès le début de la matinée pour garantir un silence absolu ensuite",
+    "Remplacer définitivement les leçons structurées de grammaire par de simples contrôles notés",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Permettre un entraînement court, régulier et ciblé sur des difficultés orthographiques récurrentes » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire l'imparfait des verbes du 3e groupe (*dire, faire, prendre*) au CE2-CM1 en contexte ?",
+   "options": [
+    "À partir de textes de récits où l'on observe la régularité du radical (*dis-, fais-, prena-*) suivi des mêmes terminaisons",
+    "À partir de textes de récits où l'on observe la régularité du radical (*dis-, fais-, prena-*) suivi des mêmes terminaisons، وذلك وفق المقاربة السلوكية",
+    "À partir de textes de récits où l'on observe la régularité du radical (*dis-, fais-, prena-*) suivi des mêmes terminaisons، وذلك في إطار بيداغوجيا الأهداف",
+    "À partir de textes de récits où l'on observe la régularité du radical (*dis-, fais-, prena-*) suivi des mêmes terminaisons، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « À partir de textes de récits où l'on observe la régularité du radical (*dis-, fais-, prena-*) suivi des mêmes terminaisons » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant gère-t-il l'évaluation formative de la grammaire lors d'une production d'écrits longue ?",
+   "options": [
+    "En utilisant une grille de relecture critériée centrée sur quelques points précis étudiés en séquence",
+    "En lisant le texte une seule fois et en attribuant une note globale sans aucune annotation corrective",
+    "En corrigeant toutes les fautes à la place de l'élève sans lui demander de réfléchir",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En utilisant une grille de relecture critériée centrée sur quelques points précis étudiés en séquence » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle du « complément du nom » dans la structuration du groupe nominal au CM1-CM2 ?",
+   "options": [
+    "Préciser ou caractériser le nom noyau en étant introduit par une préposition (*à, de, pour..*)",
+    "Remplacer obligatoirement l'adjectif qualificatif épithète dans toutes les phrases descriptives",
+    "Jouer le rôle d'un verbe conjugué au temps du subjonctif à l'intérieur du groupe nominal",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Préciser ou caractériser le nom noyau en étant introduit par une préposition (*à, de, pour..*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce qu'une « phrase injonctive » (ou impérative) et comment se reconnaît-elle en contexte ?",
+   "options": [
+    "Une phrase qui exprime un ordre, un conseil ou une interdiction, souvent sans pronom sujet apparent",
+    "Une phrase qui pose une question complexe avec un point d'interrogation inversé",
+    "Une phrase qui exprime une forte émotion de surprise ou de colère avec un point d'exclamation",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Une phrase qui exprime un ordre, un conseil ou une interdiction, souvent sans pronom sujet apparent » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder la notion de « pronom possessif » (ex: *le mien, la tienne, les vôtres*) en contexte au CM1-CM2 ?",
+   "options": [
+    "En montrant qu'il remplace un nom tout en indiquant à qui appartient l'objet évoqué",
+    "En faisant apprendre par cœur les tableaux de déclinaison des pronoms latins anciens",
+    "En interdisant son usage dans les dialogues et les pièces de théâtre de la classe",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant qu'il remplace un nom tout en indiquant à qui appartient l'objet évoqué » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'apport didactique des « exercices à trous » (exercices à complétion) bien contextualisés ?",
+   "options": [
+    "Remplacer l'ensemble des activités de lecture de textes littéraires par du remplissage mécanique",
+    "Évaluer la vitesse de copie manuelle des lettres cursives sur le cahier de classe",
+    "Toutes les réponses précédentes sont fausses",
+    "Permettre de focaliser l'attention de l'élève sur une difficulté précise (ex: terminaison, accord) au sein d'une phrase، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant introduit-il le « passé simple » de l'indicatif au CM1-CM2 à travers la lecture ?",
+   "options": [
+    "En le présentant comme le seul temps valable pour rédiger des lettres administratives modernes",
+    "En exigeant la mémorisation immédiate des verbes défectifs du troisième groupe sans texte",
+    "Toutes les réponses précédentes sont fausses",
+    "En le repérant comme le temps des actions soudaines, principales et successives dans les contes et récits du passé، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « coordination et juxtaposition » dans l'étude des propositions au CM2 ?",
+   "options": [
+    "Les modes de liaison entre propositions, soit par des conjonctions de coordination (*mais, ou, et..*), soit par des signes de ponctuation",
+    "Les modes de liaison entre propositions, soit par des conjonctions de coordination (*mais, ou, et..*), soit par des signes de ponctuation، وذلك وفق المقاربة السلوكية",
+    "Les modes de liaison entre propositions, soit par des conjonctions de coordination (*mais, ou, et..*), soit par des signes de ponctuation، وذلك في إطار بيداغوجيا الأهداف",
+    "Les modes de liaison entre propositions, soit par des conjonctions de coordination (*mais, ou, et..*), soit par des signes de ponctuation، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Les modes de liaison entre propositions, soit par des conjonctions de coordination (*mais, ou, et..*), soit par des signes de ponctuation » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aide-t-il un élève en difficulté à repérer le « verbe » dans une phrase complexe ?",
+   "options": [
+    "En utilisant le test de la négation (*ne.. pas*) ou du changement de temps de la phrase",
+    "En lui disant de chercher systématiquement le mot le plus long de la phrase",
+    "En lui interdisant de lire les phrases qui comportent plus de deux verbes conjugués",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En utilisant le test de la négation (*ne.. pas*) ou du changement de temps de la phrase » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle des « repères temporels » (indicateurs de temps) dans le choix des temps de conjugaison d'un texte ?",
+   "options": [
+    "Orienter le choix du système temporel (présent, passé ou futur) selon le moment de l'énonciation ou du récit",
+    "Orienter le choix du système temporel (présent, passé ou futur) selon le moment de l'énonciation ou du récit، وذلك وفق المقاربة السلوكية",
+    "Orienter le choix du système temporel (présent, passé ou futur) selon le moment de l'énonciation ou du récit، وذلك في إطار بيداغوجيا الأهداف",
+    "Orienter le choix du système temporel (présent, passé ou futur) selon le moment de l'énonciation ou du récit، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Orienter le choix du système temporel (présent, passé ou futur) selon le moment de l'énonciation ou du récit » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce que l'« accord du verbe avec un sujet coordonné par *et* » au CM2 ?",
+   "options": [
+    "Le verbe se met obligatoirement au pluriel puisque les sujets s'additionnent",
+    "Le verbe s'accorde uniquement avec le sujet le plus proche placé juste devant lui",
+    "Le verbe reste toujours au singulier car il ne s'accorde qu'avec le premier sujet",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Le verbe se met obligatoirement au pluriel puisque les sujets s'additionnent » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aborde-t-il la notion de « synonymie lexicale » en lien avec la grammaire au CE2-CM1 ?",
+   "options": [
+    "En montrant que deux synonymes partagent la même classe grammaticale et peuvent se substituer dans la phrase sans changer le sens global",
+    "En montrant que deux synonymes partagent la même classe grammaticale et peuvent se substituer dans la phrase sans changer le sens global، وذلك وفق المقاربة السلوكية",
+    "En montrant que deux synonymes partagent la même classe grammaticale et peuvent se substituer dans la phrase sans changer le sens global، وذلك في إطار بيداغوجيا الأهداف",
+    "En montrant que deux synonymes partagent la même classe grammaticale et peuvent se substituer dans la phrase sans changer le sens global، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant que deux synonymes partagent la même classe grammaticale et peuvent se substituer dans la phrase sans changer le sens global » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « phrase complexe par subordination » au CM2 ?",
+   "options": [
+    "Une phrase comportant une proposition principale et une ou plusieurs propositions subordonnées dépendantes",
+    "Une phrase dont la structure syntaxique est tellement difficile qu'elle est impossible à comprendre",
+    "Une phrase construite exclusivement avec des conjonctions de coordination comme *mais, ou, et*",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Une phrase comportant une proposition principale et une ou plusieurs propositions subordonnées dépendantes » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt d'utiliser le « corpus de phrases agrammaticales ou erronées » lors d'une phase de recherche ?",
+   "options": [
+    "Piéger les élèves pour leur attribuer une note éliminatoire dès le début de la leçon",
+    "Apprendre aux élèves à parler et à écrire volontairement avec des fautes d'orthographe",
+    "Toutes les réponses précédentes sont fausses",
+    "Déclencher un débat réflexif en analysant pourquoi la phrase « ne fonctionne pas » selon les règles de la langue، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder le « présent de narration » dans les textes littéraires au CM1-CM2 ?",
+   "options": [
+    "En expliquant qu'il s'agit d'une faute de conjugaison commise par l'auteur du roman",
+    "En interdisant l'usage de ce temps dans toutes les rédactions scolaires des élèves",
+    "Toutes les réponses précédentes sont fausses",
+    "En montrant comment l'utilisation du présent dans un récit au passé rend l'action plus vivante et actuelle، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant structure-t-il la phase d'« institutionnalisation » de la règle de grammaire au tableau ?",
+   "options": [
+    "En dictant rapidement une page entière de définitions abstraites sans explication préalable",
+    "En demandant aux élèves de deviner seuls la règle parfaite sans l'aide du maître",
+    "Toutes les réponses précédentes sont fausses",
+    "En élaborant avec la classe la synthèse claire, concise et validée qui sera recopiée dans le cahier de leçons، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle du « subjonctif présent » abordé de manière fonctionnelle au CM2 (ex: *il faut que tu viennes*) ?",
+   "options": [
+    "Exprimer le doute, l'obligation, le souhait ou la nécessité après des tournures spécifiques",
+    "Remplacer le futur simple de l'indicatif dans toutes les phrases affirmatives simples",
+    "Conter des histoires du passé simple de la littérature classique du Moyen Âge",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Exprimer le doute, l'obligation, le souhait ou la nécessité après des tournures spécifiques » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "En résumé, quel est le bénéfice majeur d'une approche contextualisée et inductive de la grammaire et de la conjugaison ?",
+   "options": [
+    "Transformer les élèves en linguistes professionnels capables de réciter des nomenclatures complexes",
+    "Éliminer complètement la nécessité d'écrire des textes longs ou de lire des romans en classe",
+    "Toutes les réponses précédentes sont fausses",
+    "Donner du sens aux apprentissages, stimuler la réflexion métalinguistique et rendre l'élève habile en écriture et en lecture، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aborde-t-il l'étude du « complément d'objet direct (COD) » à travers un texte narratif au CE2-CM1 ?",
+   "options": [
+    "En faisant observer le groupe de mots qui complète directement le verbe sans l'intermédiaire d'une préposition et qui répond à la question « qui ? » ou « quoi ? »",
+    "En faisant observer le groupe de mots qui complète directement le verbe sans l'intermédiaire d'une préposition et qui répond à la question « qui ? » ou « quoi ? »، وذلك وفق المقاربة السلوكية",
+    "En faisant observer le groupe de mots qui complète directement le verbe sans l'intermédiaire d'une préposition et qui répond à la question « qui ? » ou « quoi ? »، وذلك في إطار بيداغوجيا الأهداف",
+    "En faisant observer le groupe de mots qui complète directement le verbe sans l'intermédiaire d'une préposition et qui répond à la question « qui ? » ou « quoi ? »، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En faisant observer le groupe de mots qui complète directement le verbe sans l'intermédiaire d'une préposition et qui répond à la question « qui ? » ou « quoi ? » » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt d'utiliser la manipulation de « substitution pronominale » pour identifier un COD au CM1 ?",
+   "options": [
+    "Changer la nature grammaticale du verbe pour le transformer en un adjectif qualificatif invariable",
+    "Remplacer tous les noms de la phrase par des pronoms personnels sujets sans distinction",
+    "Toutes les réponses précédentes sont fausses",
+    "Vérifier qu'un constituant est bien un COD en le remplaçant par un pronom (*le, la, les, l'*) placé devant le verbe، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire l'accord du « participe passé employé avec l'auxiliaire avoir » au CM2 en contexte ?",
+   "options": [
+    "En observant que le participe passé s'accorde en genre et en nombre avec le COD si celui-ci est placé avant le verbe",
+    "En affirmant qu'il ne s'accorde jamais avec rien, quels que soient les pronoms ou les compléments",
+    "En exigeant que le participe passé s'accorde toujours systématiquement avec le sujet du verbe auxiliaire",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant que le participe passé s'accorde en genre et en nombre avec le COD si celui-ci est placé avant le verbe » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « phrase complexe par coordination » au cycle 3 ?",
+   "options": [
+    "Une phrase constituée de plusieurs propositions reliées entre elles par une conjonction de coordination (*mais, ou, et, donc, or, ni, car*)",
+    "Une phrase constituée de plusieurs propositions reliées entre elles par une conjonction de coordination (*mais, ou, et, donc, or, ni, car*)، وذلك وفق المقاربة السلوكية",
+    "Une phrase constituée de plusieurs propositions reliées entre elles par une conjonction de coordination (*mais, ou, et, donc, or, ni, car*)، وذلك في إطار بيداغوجيا الأهداف",
+    "Une phrase constituée de plusieurs propositions reliées entre elles par une conjonction de coordination (*mais, ou, et, donc, or, ni, car*)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Une phrase constituée de plusieurs propositions reliées entre elles par une conjonction de coordination (*mais, ou, et, donc, or, ni, car*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aide-t-il les élèves à distinguer un « complément circonstanciel de lieu » d'un « attribut du sujet » ?",
+   "options": [
+    "En montrant que le complément circonstanciel est déplaçable et supprimable, contrairement à l'attribut qui est relié par un verbe d'état et ne se supprime pas sans modifier la structure",
+    "En montrant que le complément circonstanciel est déplaçable et supprimable, contrairement à l'attribut qui est relié par un verbe d'état et ne se supprime pas sans modifier la structure، وذلك وفق المقاربة السلوكية",
+    "En montrant que le complément circonstanciel est déplaçable et supprimable, contrairement à l'attribut qui est relié par un verbe d'état et ne se supprime pas sans modifier la structure، وذلك في إطار بيداغوجيا الأهداف",
+    "En montrant que le complément circonstanciel est déplaçable et supprimable, contrairement à l'attribut qui est relié par un verbe d'état et ne se supprime pas sans modifier la structure، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant que le complément circonstanciel est déplaçable et supprimable, contrairement à l'attribut qui est relié par un verbe d'état et ne se supprime pas sans modifier la structure » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle des « exercices de systématisation contextualisée » en fin de séance de grammaire ?",
+   "options": [
+    "Remplacer définitivement la phase de recherche inductive par une série de dictées punitives",
+    "Évaluer sommativement et de manière définitive les élèves sans possibilité de remédiation ultérieure",
+    "Toutes les réponses précédentes sont fausses",
+    "Offrir un entraînement ciblé et répété sur la notion découverte pour en assurer l'automatisation orthographique et syntaxique، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder l'étude des « déterminants possessifs » (*mon, ton, son, notre..*) en contexte au CE1-CE2 ?",
+   "options": [
+    "En montrant qu'ils précèdent le nom pour indiquer à qui appartient l'objet ou l'être désigné",
+    "En faisant réciter par cœur la liste des pronoms relatifs et démonstratifs latins",
+    "En interdisant l'emploi de ces déterminants dans les petits récits d'expression écrite",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant qu'ils précèdent le nom pour indiquer à qui appartient l'objet ou l'être désigné » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce qu'une « proposition subordonnée conjonctive complétive » abordée au CM2 ?",
+   "options": [
+    "Une proposition subordonnée introduite par « que » qui complète un verbe et joue le rôle d'un COD",
+    "Une phrase indépendante écrite entre parenthèses pour donner un renseignement accessoire",
+    "Un groupe nominal court qui remplace le verbe principal dans les phrases exclamatives",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Une proposition subordonnée introduite par « que » qui complète un verbe et joue le rôle d'un COD » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant traite-t-il l'erreur d'accord du verbe avec un sujet inversé lors d'une dictée au CM2 ?",
+   "options": [
+    "Par un retour réflexif guidé où l'élève repère le verbe et pose la question pour identifier le sujet réel situé après",
+    "En interdisant formellement l'utilisation de la structure avec sujet inversé dans toutes les rédactions",
+    "En sanctionnant lourdement l'élève par une note éliminatoire sans aucune explication morphologique",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Par un retour réflexif guidé où l'élève repère le verbe et pose la question pour identifier le sujet réel situé après » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt d'utiliser des « corpus évolutifs » (du texte simple au texte complexe) en didactique de la langue ?",
+   "options": [
+    "Rallonger inutilement la durée de la séance de français pour occuper le temps scolaire",
+    "Rendre la lecture incompréhensible pour décourager les élèves les plus lents",
+    "Toutes les réponses précédentes sont fausses",
+    "Permettre à l'élève d'observer l'apparition progressive d'une nouvelle structure syntaxique par comparaison، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire le « futur simple » des verbes irréguliers du 3e groupe (*venir, faire, pouvoir*) au CE2-CM1 ?",
+   "options": [
+    "En observant que malgré la modification du radical, les terminaisons du futur (*-ai, -as, -a, -ons, -ez, -ont*) restent constantes",
+    "En observant que malgré la modification du radical, les terminaisons du futur (*-ai, -as, -a, -ons, -ez, -ont*) restent constantes، وذلك وفق المقاربة السلوكية",
+    "En observant que malgré la modification du radical, les terminaisons du futur (*-ai, -as, -a, -ons, -ez, -ont*) restent constantes، وذلك في إطار بيداغوجيا الأهداف",
+    "En observant que malgré la modification du radical, les terminaisons du futur (*-ai, -as, -a, -ons, -ez, -ont*) restent constantes، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant que malgré la modification du radical, les terminaisons du futur (*-ai, -as, -a, -ons, -ez, -ont*) restent constantes » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « grammaire textuelle » par opposition à l'analyse de phrase isolée ?",
+   "options": [
+    "L'analyse exclusive de la nature et de la fonction des mots dans des phrases décontextualisées",
+    "L'apprentissage par cœur des règles de typographie et de mise en page des manuels scolaires",
+    "Toutes les réponses précédentes sont fausses",
+    "L'étude des phénomènes qui assurent la cohésion et la cohérence d'un texte entier (anaphores, connecteurs, temps)، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant conduit-il la phase d'« institutionnalisation » de la règle d'accord au tableau ?",
+   "options": [
+    "En construisant de manière collective, claire et synthétique la trace écrite définitive qui sera recopiée par les élèves",
+    "En dictant une définition extrêmement longue et abstraite issue d'un dictionnaire scientifique universitaire",
+    "En demandant aux élèves d'inventer eux-mêmes la règle sans aucune validation ni correction du maître",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En construisant de manière collective, claire et synthétique la trace écrite définitive qui sera recopiée par les élèves » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle des « étiquettes mobiles de mots » lors des activités de manipulation syntaxique au cycle 2 ?",
+   "options": [
+    "Décorer les murs de la classe avec des créations artistiques en papier coloré pendant les arts plastiques",
+    "Remplacer définitivement l'apprentissage de l'écriture manuscrite cursive sur les cahiers lignés",
+    "Toutes les réponses précédentes sont fausses",
+    "Permettre de tester physiquement les hypothèses de déplacement, de suppression et de substitution de mots dans la phrase، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 4,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aborde-t-il la notion de « verbe d'état » (ex: *être, paraître, sembler, devenir*) au CE2-CM1 ?",
+   "options": [
+    "En montrant qu'ils expriment une manière d'être ou un état du sujet et sont suivis d'un attribut du sujet",
+    "En affirmant qu'ils désignent obligatoirement une action physique intense réalisée par le sujet",
+    "En interdisant l'utilisation de ces verbes dans les exercices de conjugaison au présent de l'indicatif",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant qu'ils expriment une manière d'être ou un état du sujet et sont suivis d'un attribut du sujet » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce qu'une « phrase injonctive » (ou impérative) dans l'analyse des types de phrases au CE1-CE2 ?",
+   "options": [
+    "Une phrase qui exprime un ordre, un conseil ou une interdiction, souvent sans sujet exprimé",
+    "Une phrase qui pose une question fermée à laquelle on répond obligatoirement par *oui* ou *non*",
+    "Une phrase exclamative exprimant la surprise ou l'admiration avec un point d'exclamation",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Une phrase qui exprime un ordre, un conseil ou une interdiction, souvent sans sujet exprimé » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aide-t-il les élèves à différencier le « complément d'objet indirect (COI) » du « complément circonstanciel » ?",
+   "options": [
+    "En vérifiant si le complément se construit avec une préposition liée au verbe (COI) ou s'il exprime une circonstance déplaçable et supprimable (CC)",
+    "En vérifiant si le complément se construit avec une préposition liée au verbe (COI) ou s'il exprime une circonstance déplaçable et supprimable (CC)، وذلك وفق المقاربة السلوكية",
+    "En vérifiant si le complément se construit avec une préposition liée au verbe (COI) ou s'il exprime une circonstance déplaçable et supprimable (CC)، وذلك في إطار بيداغوجيا الأهداف",
+    "En vérifiant si le complément se construit avec une préposition liée au verbe (COI) ou s'il exprime une circonstance déplaçable et supprimable (CC)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En vérifiant si le complément se construit avec une préposition liée au verbe (COI) ou s'il exprime une circonstance déplaçable et supprimable (CC) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'impact de la « dictée négociée » sur les représentations de l'orthographe chez les jeunes apprenants ?",
+   "options": [
+    "Elle dédramatise l'erreur et transforme l'orthographe en un objet de réflexion et de débat argumenté entre pairs",
+    "Elle crée un climat de compétition agressive où les élèves les plus lents perdent toute confiance en eux",
+    "Elle n'a aucun effet mesurable sur la progression en orthographe par rapport à la dictée traditionnelle",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Elle dédramatise l'erreur et transforme l'orthographe en un objet de réflexion et de débat argumenté entre pairs » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder la notion de « pronom indéfini » (ex: *quelqu'un, personne, plusieurs, tout*) au CM2 en contexte ?",
+   "options": [
+    "En observant son rôle de remplacement d'un nom tout en désignant des êtres ou des choses de manière imprécise",
+    "En faisant réciter par cœur la liste des adjectifs démonstratifs et possessifs du premier cycle",
+    "En interdisant l'utilisation de ces pronoms dans les récits fantastiques et les contes écrits par les élèves",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant son rôle de remplacement d'un nom tout en désignant des êtres ou des choses de manière imprécise » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « morphologie verbale » dans l'enseignement de la conjugaison au primaire ?",
+   "options": [
+    "L'analyse de la calligraphie et de la forme esthétique des lettres manuscrites lors de la copie du cours",
+    "Le découpage des phrases complexes en propositions subordonnées et propositions principales",
+    "Toutes les réponses précédentes sont fausses",
+    "L'étude structurée des variations de la forme du verbe selon les catégories de personne, de nombre, de temps et de mode، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aborde-t-il l'étude du « présent de l'indicatif » pour les verbes du 2e groupe (*finir, grandir*) au CE1-CE2 ?",
+   "options": [
+    "En s'appuyant sur l'observation de l'allongement du radical par l'infixe « -iss- » aux personnes du pluriel",
+    "En faisant mémoriser par cœur la grille des terminaisons sans aucune observation de texte support",
+    "En expliquant qu'il s'agit de verbes irréguliers qui se conjuguent exactement comme les verbes en « -er »",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En s'appuyant sur l'observation de l'allongement du radical par l'infixe « -iss- » aux personnes du pluriel » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle de la « relecture orthographique guidée par une grille de critères » lors de la production d'écrits ?",
+   "options": [
+    "Sanctionner l'élève en lui imposant de recopier l'intégralité du texte dix fois en cas de faute",
+    "Déléguer entièrement la responsabilité de la correction aux parents à la maison sans suivi en classe",
+    "Toutes les réponses précédentes sont fausses",
+    "Permettre à l'élève de vérifier de manière méthodique les points précis étudiés (accords GN, terminaisons verbales)، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant introduit-il la notion de « proposition subordonnée relative » au CM2 à partir d'un texte littéraire ?",
+   "options": [
+    "En montrant comment un pronom relatif introduit une proposition qui vient enrichir et caractériser un nom antécédent",
+    "En exigeant la mémorisation de la définition abstraite et formelle de la substance grammaticale",
+    "En interdisant l'utilisation des pronoms relatifs dans les dialogues et les pièces de théâtre de la classe",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant comment un pronom relatif introduit une proposition qui vient enrichir et caractériser un nom antécédent » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce qu'une « phrase minimale » (noyau de la phrase) et à quoi sert-elle en didactique de la syntaxe ?",
+   "options": [
+    "Une phrase très courte comportant obligatoirement moins de trois mots pour les élèves débutants",
+    "Une interdiction formelle d'écrire des phrases de plus d'une ligne dans les exercices de rédaction",
+    "Toutes les réponses précédentes sont fausses",
+    "Une phrase réduite à ses constituants obligatoires (Sujet + Verbe + COD/Attribut éventuel) pour comprendre la structure de base، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 4,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant gère-t-il l'alternance entre « l'imparfait » et le « passé simple » dans un récit au CM1-CM2 ?",
+   "options": [
+    "En expliquant que l'imparfait pose le décor et les actions de second plan, tandis que le passé simple fait progresser l'action principale",
+    "En expliquant que l'imparfait pose le décor et les actions de second plan, tandis que le passé simple fait progresser l'action principale، وذلك وفق المقاربة السلوكية",
+    "En expliquant que l'imparfait pose le décor et les actions de second plan, tandis que le passé simple fait progresser l'action principale، وذلك في إطار بيداغوجيا الأهداف",
+    "En expliquant que l'imparfait pose le décor et les actions de second plan, tandis que le passé simple fait progresser l'action principale، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En expliquant que l'imparfait pose le décor et les actions de second plan, tandis que le passé simple fait progresser l'action principale » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt d'utiliser des « phrases agrammaticales » (incorrectes) lors de la phase de recherche inductive ?",
+   "options": [
+    "Inciter les élèves à rédiger délibérément avec des fautes d'orthographe dans leurs carnets personnels",
+    "Piéger les apprenants pour leur attribuer une note éliminatoire dès le début de la séquence",
+    "Toutes les réponses précédentes sont fausses",
+    "Provoquer un questionnement réflexif et amérer les élèves à justifier pourquoi la phrase contredit les règles de la langue، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder l'étude des « connecteurs temporels » (ex: *soudain, ensuite, enfin*) dans la cohérence textuelle au CE2-CM1 ?",
+   "options": [
+    "En montrant comment ils permettent de repérer la chronologie et d'articuler les étapes d'un récit",
+    "En les étudiant uniquement comme des adjectifs qualificatifs épithètes placés derrière le nom",
+    "En interdisant leur usage dans les textes narratifs pour privilégier les phrases isolées",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant comment ils permettent de repérer la chronologie et d'articuler les étapes d'un récit » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « accord en cascade » au sein du groupe nominal complexe ?",
+   "options": [
+    "La propagation des marques de genre et de nombre du déterminant vers le nom noyau et l'adjectif épithète",
+    "Le fait d'écrire les mots du groupe nominal les uns sous les autres en colonne verticale",
+    "L'obligation de relier par des flèches tous les verbes de la phrase à leur sujet respectif",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « La propagation des marques de genre et de nombre du déterminant vers le nom noyau et l'adjectif épithète » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le bénéfice pédagogique majeur d'une didactique de la grammaire ancrée dans le contexte textuel ?",
+   "options": [
+    "Faire acquérir un vocabulaire métalinguistique abstrait et complexe inutile pour la vie quotidienne",
+    "Supprimer totalement la nécessité d'évaluer les compétences orthographiques par des dictées",
+    "Toutes les réponses précédentes sont fausses",
+    "Donner du sens aux apprentissages, développer la métacognition et rendre l'élève efficace en lecture et en écriture، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "En résumé, quel est l'indicateur le plus fiable d'une assimilation réussie de la grammaire et de la conjugaison au primaire ?",
+   "options": [
+    "La récitation par cœur de la définition théorique du manuel sans commettre la moindre hésitation",
+    "La propreté irréprochable du cahier de leçons et la beauté de la calligraphie de la règle",
+    "Toutes les réponses précédentes sont fausses",
+    "La capacité manifeste de l'élève à réinvestir spontanément et correctement la notion dans ses propres productions écrites، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire la notion de « pronom personnel complément » (ex: *le, la, les, lui, leur*) en contexte au CM1-CM2 ?",
+   "options": [
+    "En exigeant la mémorisation exclusive du tableau des pronoms sujets sans exemple en phrase",
+    "En interdisant leur emploi dans les rédactions afin d'obliger l'élève à répéter systématiquement le nom",
+    "Toutes les réponses précédentes sont fausses",
+    "En faisant observer leur rôle de remplacement d'un groupe nominal complément dans un texte pour éviter les redondances، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle pédagogique de la « transformation passive » lors de l'analyse syntaxique au CM2 ?",
+   "options": [
+    "Rendre les phrases artificiellement plus longues et complexes sans lien avec le sens du texte",
+    "Supprimer systématiquement l'utilisation des verbes d'action dans les productions écrites",
+    "Toutes les réponses précédentes sont fausses",
+    "Permettre de repérer le sujet réel et le complément d'objet direct en observant l'inversion des rôles syntaxiques، وذلك في إطار بيداغوجيا الأهداف",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aide-t-il les élèves de CE2 à différencier la préposition « à » du verbe « a » (homophones grammaticaux) ?",
+   "options": [
+    "En utilisant le test de changement de temps en remplaçant « a » par « avait » dans la phrase",
+    "En expliquant que la préposition s'écrit toujours avec un accent circonflexe sur la lettre",
+    "En interdisant l'utilisation du verbe *avoir* au présent dans toutes les dictées de la semaine",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En utilisant le test de changement de temps en remplaçant « a » par « avait » dans la phrase » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « valeur d'accompli » du passé composé par opposition à l'imparfait ?",
+   "options": [
+    "L'obligation d'écrire le verbe en majuscules pour montrer que l'action est importante",
+    "Le nombre de lettres composant la terminaison du participe passé dans la phrase",
+    "Toutes les réponses précédentes sont fausses",
+    "Le fait qu'il présente une action terminée et achevée au moment où l'on parle ou à un moment donné du récit، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder les « déterminants démonstratifs » (*ce, cet, cette, ces*) au CE1-CE2 en situation de communication ?",
+   "options": [
+    "En faisant réciter par cœur la liste des pronoms possessifs et relatifs du cycle 3",
+    "En expliquant qu'ils remplacent le verbe principal dans les phrases exclamatives",
+    "Toutes les réponses précédentes sont fausses",
+    "En les faisant utiliser dans des contextes où l'on montre ou désigne un objet présent ou évoqué dans le texte، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 4,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt de la « manipulation d'encadrement » (*C'est.. qui / Ce sont.. qui*) au cycle 2 et au cycle 3 ?",
+   "options": [
+    "Entourer le verbe principal d'un trait rouge sur le cahier de leçons",
+    "Remplacer la ponctuation de fin de phrase par des parenthèses",
+    "Toutes les réponses précédentes sont fausses",
+    "Faciliter l'identification du sujet de la phrase quel que soit son emplacement ou sa longueur، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce qu'un « groupe nominal étendu » par rapport à un groupe nominal minimal au CE2-CM1 ?",
+   "options": [
+    "Un groupe nominal écrit avec une écriture manuscrite très large sur le cahier",
+    "Une liste de noms propres mis les uns derrière les autres sans déterminant",
+    "Toutes les réponses précédentes sont fausses",
+    "Un groupe nominal enrichi par un ou plusieurs adjectifs, compléments du nom ou propositions relatives، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aborde-t-il la notion de « complément d'agent » dans la phrase passive au CM2 ?",
+   "options": [
+    "En montrant qu'il est introduit par la préposition *par* (ou *de*) et désigne celui qui accomplit l'action subie par le sujet",
+    "En montrant qu'il est introduit par la préposition *par* (ou *de*) et désigne celui qui accomplit l'action subie par le sujet، وذلك وفق المقاربة السلوكية",
+    "En montrant qu'il est introduit par la préposition *par* (ou *de*) et désigne celui qui accomplit l'action subie par le sujet، وذلك في إطار بيداغوجيا الأهداف",
+    "En montrant qu'il est introduit par la préposition *par* (ou *de*) et désigne celui qui accomplit l'action subie par le sujet، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant qu'il est introduit par la préposition *par* (ou *de*) et désigne celui qui accomplit l'action subie par le sujet » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle du « présent d'énonciation » dans un dialogue ou une lettre au CM1-CM2 ?",
+   "options": [
+    "Indiquer que l'action se déroule exactement au moment où le locuteur parle ou écrit",
+    "Décrire des événements historiques survenus plusieurs siècles auparavant",
+    "Exprimer des vérités scientifiques universelles applicables en tout temps",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Indiquer que l'action se déroule exactement au moment où le locuteur parle ou écrit » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment travailler l'accord des « adjectifs de couleur » au CM2 de façon inductive ?",
+   "options": [
+    "En observant les variations d'accord des adjectifs simples (*vert/verte*) face à l'invariabilité des adjectifs dérivés de noms (*marron, orange*)",
+    "En observant les variations d'accord des adjectifs simples (*vert/verte*) face à l'invariabilité des adjectifs dérivés de noms (*marron, orange*)، وذلك وفق المقاربة السلوكية",
+    "En observant les variations d'accord des adjectifs simples (*vert/verte*) face à l'invariabilité des adjectifs dérivés de noms (*marron, orange*)، وذلك في إطار بيداغوجيا الأهداف",
+    "En observant les variations d'accord des adjectifs simples (*vert/verte*) face à l'invariabilité des adjectifs dérivés de noms (*marron, orange*)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant les variations d'accord des adjectifs simples (*vert/verte*) face à l'invariabilité des adjectifs dérivés de noms (*marron, orange*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « adverbe de manière » (ex: *lentement, rapidement*) et comment l'aborder au CM1 ?",
+   "options": [
+    "Un mot invariable formé souvent sur le féminin de l'adjectif qui précise comment s'accomplit l'action du verbe",
+    "Un mot invariable formé souvent sur le féminin de l'adjectif qui précise comment s'accomplit l'action du verbe، وذلك وفق المقاربة السلوكية",
+    "Un mot invariable formé souvent sur le féminin de l'adjectif qui précise comment s'accomplit l'action du verbe، وذلك في إطار بيداغوجيا الأهداف",
+    "Un mot invariable formé souvent sur le féminin de l'adjectif qui précise comment s'accomplit l'action du verbe، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Un mot invariable formé souvent sur le féminin de l'adjectif qui précise comment s'accomplit l'action du verbe » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant gère-t-il la confusion récurrente entre la terminaison *-ais/-ait* (imparfait) et *-er* (infinitif) au CE2-CM1 ?",
+   "options": [
+    "En proposant la substitution du verbe par un verbe du 3e groupe (*vendre/vendait*) pour identifier s'il s'agit d'une forme conjuguée ou d'un infinitif",
+    "En proposant la substitution du verbe par un verbe du 3e groupe (*vendre/vendait*) pour identifier s'il s'agit d'une forme conjuguée ou d'un infinitif، وذلك وفق المقاربة السلوكية",
+    "En proposant la substitution du verbe par un verbe du 3e groupe (*vendre/vendait*) pour identifier s'il s'agit d'une forme conjuguée ou d'un infinitif، وذلك في إطار بيداغوجيا الأهداف",
+    "En proposant la substitution du verbe par un verbe du 3e groupe (*vendre/vendait*) pour identifier s'il s'agit d'une forme conjuguée ou d'un infinitif، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En proposant la substitution du verbe par un verbe du 3e groupe (*vendre/vendait*) pour identifier s'il s'agit d'une forme conjuguée ou d'un infinitif » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'apport des « tableaux de régularité morphologique » élaborés par les élèves en conjugaison ?",
+   "options": [
+    "Remplacer la lecture des textes littéraires par du par cœur mécanique",
+    "Décorer le fond de la classe sans qu'aucun élève n'y réfère pendant l'écriture",
+    "Toutes les réponses précédentes sont fausses",
+    "Mettre en évidence la constance des terminaisons pour une personne donnée quel que soit le groupe de verbe، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment faire comprendre le concept d' « adjectif numéral cardinal » (ex: *deux, trois, cent*) au CM1-CM2 ?",
+   "options": [
+    "En observant qu'il indique le nombre exact d'éléments désignés et qu'il reste généralement invariable (sauf *vingt* et *cent*)",
+    "En observant qu'il indique le nombre exact d'éléments désignés et qu'il reste généralement invariable (sauf *vingt* et *cent*)، وذلك وفق المقاربة السلوكية",
+    "En observant qu'il indique le nombre exact d'éléments désignés et qu'il reste généralement invariable (sauf *vingt* et *cent*)، وذلك في إطار بيداغوجيا الأهداف",
+    "En observant qu'il indique le nombre exact d'éléments désignés et qu'il reste généralement invariable (sauf *vingt* et *cent*)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant qu'il indique le nombre exact d'éléments désignés et qu'il reste généralement invariable (sauf *vingt* et *cent*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « phrase exclamative » et quelle est sa valeur expressive en texte ?",
+   "options": [
+    "Une phrase neutre destinée à transmettre une information documentaire abstraite",
+    "Une question directe posée par le narrateur au lecteur",
+    "Toutes les réponses précédentes sont fausses",
+    "Une phrase qui exprime un sentiment vif (joie, colère, surprise) terminée par un point d'exclamation، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment enseigner l'accord de « tout » (déterminant, adjectif, pronom ou adverbe) au CM2 en contexte ?",
+   "options": [
+    "En affirmant que le mot « tout » s'écrit toujours avec un *t* final sans jamais prendre de *s* ou de *e*",
+    "En interdisant l'utilisation de ce mot dans les productions d'écrits scolaires",
+    "Toutes les réponses précédentes sont fausses",
+    "En analysant la fonction et la classe grammaticale de « tout » dans la phrase pour déterminer les règles d'accord applicables، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 4,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'objectif d'une « séance de grammaire réflexive » selon la démarche de la rénovation pédagogique ?",
+   "options": [
+    "Faire recopier passivement le manuel scolaire du début à la fin de la séance",
+    "Mémoriser des listes d'exceptions rares sans comprendre le fonctionnement général de la langue",
+    "Toutes les réponses précédentes sont fausses",
+    "Faire des élèves des observateurs actifs de la langue capables d'émettre des hypothèses et de les valider par des tests، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder le « plus-que-parfait » de l'indicatif en relation avec le passé composé ou le passé simple au CM2 ?",
+   "options": [
+    "En montrant qu'il exprime une action antérieure par rapport à une autre action déjà passée (ancrage temporel du récit)",
+    "En montrant qu'il exprime une action antérieure par rapport à une autre action déjà passée (ancrage temporel du récit)، وذلك وفق المقاربة السلوكية",
+    "En montrant qu'il exprime une action antérieure par rapport à une autre action déjà passée (ancrage temporel du récit)، وذلك في إطار بيداغوجيا الأهداف",
+    "En montrant qu'il exprime une action antérieure par rapport à une autre action déjà passée (ancrage temporel du récit)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant qu'il exprime une action antérieure par rapport à une autre action déjà passée (ancrage temporel du récit) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce que l' « expansion du nom » et à quoi sert-elle dans les textes descriptifs au CM1-CM2 ?",
+   "options": [
+    "L'ensemble des éléments (adjectif, complément du nom, relative) ajoutés au nom noyau pour l'enrichir et préciser la description",
+    "L'ensemble des éléments (adjectif, complément du nom, relative) ajoutés au nom noyau pour l'enrichir et préciser la description، وذلك وفق المقاربة السلوكية",
+    "L'ensemble des éléments (adjectif, complément du nom, relative) ajoutés au nom noyau pour l'enrichir et préciser la description، وذلك في إطار بيداغوجيا الأهداف",
+    "L'ensemble des éléments (adjectif, complément du nom, relative) ajoutés au nom noyau pour l'enrichir et préciser la description، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « L'ensemble des éléments (adjectif, complément du nom, relative) ajoutés au nom noyau pour l'enrichir et préciser la description » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire la notion de « verbe pronominal » (ex: *se laver, se souvenir*) au CM1-CM2 ?",
+   "options": [
+    "En observant la présence du pronom réfléchi (*me, te, se..*) de la même personne que le sujet",
+    "En expliquant qu'il s'agit de verbes qui ne peuvent jamais être conjugués au passé composé",
+    "En les classant parmi les adverbes invariables de négation",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant la présence du pronom réfléchi (*me, te, se..*) de la même personne que le sujet » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle de la « ponctuation à l'intérieur de la phrase » (virgule, point-virgule, deux-points) ?",
+   "options": [
+    "Structurer les unités de sens, marquer les pauses et clarifier les relations syntaxiques",
+    "Indiquer à l'élève où il doit changer de couleur de stylo pendant la copie",
+    "Remplacer la présence des verbes conjugués dans les propositions",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Structurer les unités de sens, marquer les pauses et clarifier les relations syntaxiques » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aide-t-il les élèves de CE1-CE2 à distinguer le sujet « on » du verbe « ont » ?",
+   "options": [
+    "En testant la substitution de « on » par « il » ou de « ont » par « avaient » selon le contexte syntaxique",
+    "En testant la substitution de « on » par « il » ou de « ont » par « avaient » selon le contexte syntaxique، وذلك وفق المقاربة السلوكية",
+    "En testant la substitution de « on » par « il » ou de « ont » par « avaient » selon le contexte syntaxique، وذلك في إطار بيداغوجيا الأهداف",
+    "En testant la substitution de « on » par « il » ou de « ont » par « avaient » selon le contexte syntaxique، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En testant la substitution de « on » par « il » ou de « ont » par « avaient » selon le contexte syntaxique » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « phrase complexe par juxtaposition » au cycle 3 ?",
+   "options": [
+    "Une phrase réunissant plusieurs propositions séparées simplement par un signe de ponctuation faible (*virgule, point-virgule, deux-points*)",
+    "Une phrase réunissant plusieurs propositions séparées simplement par un signe de ponctuation faible (*virgule, point-virgule, deux-points*)، وذلك وفق المقاربة السلوكية",
+    "Une phrase réunissant plusieurs propositions séparées simplement par un signe de ponctuation faible (*virgule, point-virgule, deux-points*)، وذلك في إطار بيداغوجيا الأهداف",
+    "Une phrase réunissant plusieurs propositions séparées simplement par un signe de ponctuation faible (*virgule, point-virgule, deux-points*)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Une phrase réunissant plusieurs propositions séparées simplement par un signe de ponctuation faible (*virgule, point-virgule, deux-points*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment aborder les « homonymes lexicaux » en lien avec la classe grammaticale au CM1 ?",
+   "options": [
+    "En montrant que des mots prononcés de la même façon (*vert, verre, vers, vers*) ont des sens, orthographes et classes grammaticales différents",
+    "En montrant que des mots prononcés de la même façon (*vert, verre, vers, vers*) ont des sens, orthographes et classes grammaticales différents، وذلك وفق المقاربة السلوكية",
+    "En montrant que des mots prononcés de la même façon (*vert, verre, vers, vers*) ont des sens, orthographes et classes grammaticales différents، وذلك في إطار بيداغوجيا الأهداف",
+    "En montrant que des mots prononcés de la même façon (*vert, verre, vers, vers*) ont des sens, orthographes et classes grammaticales différents، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant que des mots prononcés de la même façon (*vert, verre, vers, vers*) ont des sens, orthographes et classes grammaticales différents » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le principe de la « réécriture guidée » (ex: réécrire un paragraphe en changeant le sujet du singulier au pluriel) ?",
+   "options": [
+    "Exercer le transfert immédiat des règles d'accord sujet-verbe et des accords dans le groupe nominal en contexte",
+    "Exercer le transfert immédiat des règles d'accord sujet-verbe et des accords dans le groupe nominal en contexte، وذلك وفق المقاربة السلوكية",
+    "Exercer le transfert immédiat des règles d'accord sujet-verbe et des accords dans le groupe nominal en contexte، وذلك في إطار بيداغوجيا الأهداف",
+    "Exercer le transfert immédiat des règles d'accord sujet-verbe et des accords dans le groupe nominal en contexte، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Exercer le transfert immédiat des règles d'accord sujet-verbe et des accords dans le groupe nominal en contexte » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment enseigner la différence entre le « conditionnel présent » et le « futur simple » au CM2 (problème des terminaisons *-rai / -rais*) ?",
+   "options": [
+    "En s'appuyant sur le sens (certitude du futur vs hypothèse du conditionnel) et sur le changement de personne (*il fera / il ferait*)",
+    "En s'appuyant sur le sens (certitude du futur vs hypothèse du conditionnel) et sur le changement de personne (*il fera / il ferait*)، وذلك وفق المقاربة السلوكية",
+    "En s'appuyant sur le sens (certitude du futur vs hypothèse du conditionnel) et sur le changement de personne (*il fera / il ferait*)، وذلك في إطار بيداغوجيا الأهداف",
+    "En s'appuyant sur le sens (certitude du futur vs hypothèse du conditionnel) et sur le changement de personne (*il fera / il ferait*)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En s'appuyant sur le sens (certitude du futur vs hypothèse du conditionnel) et sur le changement de personne (*il fera / il ferait*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « complément de phrase » par opposition au « complément de verbe » ?",
+   "options": [
+    "Le complément d'objet direct (COD) qui ne peut jamais être enlevé sous peine d'incompréhension",
+    "L'adjectif qualificatif épithète directement rattaché au nom noyau",
+    "Toutes les réponses précédentes sont fausses",
+    "Un complément circonstanciel (temps, lieu, cause) qui peut être supprimé ou déplacé sans détruire la phrase de base، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aborde-t-il les « préfixes et suffixes » en morphologie dérivationnelle au CE2-CM1 ?",
+   "options": [
+    "En faisant réciter des listes de racines grecques et latines d'origine scientifique",
+    "En interdisant la création de mots dérivés lors des ateliers de vocabulaire",
+    "Toutes me les réponses précédentes sont fausses",
+    "En observant comment l'ajout d'éléments au radical modifie le sens ou la classe grammaticale du mot de base، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle du « cahier de règles de grammaire-conjugaison » dans une démarche centrée sur l'apprenant ?",
+   "options": [
+    "Servir d'outil de référence évolutif et personnalisé contenant les synthèses, exemples et astuces validés ensemble",
+    "Servir d'outil de référence évolutif et personnalisé contenant les synthèses, exemples et astuces validés ensemble، وذلك وفق المقاربة السلوكية",
+    "Servir d'outil de référence évolutif et personnalisé contenant les synthèses, exemples et astuces validés ensemble، وذلك في إطار بيداغوجيا الأهداف",
+    "Servir d'outil de référence évolutif et personnalisé contenant les synthèses, exemples et astuces validés ensemble، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Servir d'outil de référence évolutif et personnalisé contenant les synthèses, exemples et astuces validés ensemble » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment introduire l'étude du « subjonctif présent » pour les verbes fréquents (*être, avoir, faire*) au CM2 ?",
+   "options": [
+    "En l'insérant dans des structures d'obligation ou de souhait (*Il faut que.., Je veux que..*) pour en faire sentir l'usage oral et écrit",
+    "En l'insérant dans des structures d'obligation ou de souhait (*Il faut que.., Je veux que..*) pour en faire sentir l'usage oral et écrit، وذلك وفق المقاربة السلوكية",
+    "En l'insérant dans des structures d'obligation ou de souhait (*Il faut que.., Je veux que..*) pour en faire sentir l'usage oral et écrit، وذلك في إطار بيداغوجيا الأهداف",
+    "En l'insérant dans des structures d'obligation ou de souhait (*Il faut que.., Je veux que..*) pour en faire sentir l'usage oral et écrit، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En l'insérant dans des structures d'obligation ou de souhait (*Il faut que.., Je veux que..*) pour en faire sentir l'usage oral et écrit » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « autonomie métalinguistique » chez un élève de fin de cycle 3 ?",
+   "options": [
+    "La capacité de l'élève à analyser sa propre langue, expliciter ses choix et corriger ses erreurs de façon autonome",
+    "La capacité de l'élève à analyser sa propre langue, expliciter ses choix et corriger ses erreurs de façon autonome، وذلك وفق المقاربة السلوكية",
+    "La capacité de l'élève à analyser sa propre langue, expliciter ses choix et corriger ses erreurs de façon autonome، وذلك في إطار بيداغوجيا الأهداف",
+    "La capacité de l'élève à analyser sa propre langue, expliciter ses choix et corriger ses erreurs de façon autonome، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « La capacité de l'élève à analyser sa propre langue, expliciter ses choix et corriger ses erreurs de façon autonome » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment traiter l'erreur d'accord lorsque le sujet comprend plusieurs noms singuliers (*Le chien et le chat..*) au CE2-CM1 ?",
+   "options": [
+    "En montrant que la somme de plusieurs sujets au singulier équivaut à un pronom sujet au pluriel (*ils/elles*)",
+    "En montrant que la somme de plusieurs sujets au singulier équivaut à un pronom sujet au pluriel (*ils/elles*)، وذلك وفق المقاربة السلوكية",
+    "En montrant que la somme de plusieurs sujets au singulier équivaut à un pronom sujet au pluriel (*ils/elles*)، وذلك في إطار بيداغوجيا الأهداف",
+    "En montrant que la somme de plusieurs sujets au singulier équivaut à un pronom sujet au pluriel (*ils/elles*)، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant que la somme de plusieurs sujets au singulier équivaut à un pronom sujet au pluriel (*ils/elles*) » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le rôle de la « régulation immédiate » lors d'un travail de manipulation grammaticale en groupes ?",
+   "options": [
+    "Apporter des relances, questionner les représentations et corriger les fausses pistes pendant la recherche des élèves",
+    "Apporter des relances, questionner les représentations et corriger les fausses pistes pendant la recherche des élèves، وذلك وفق المقاربة السلوكية",
+    "Apporter des relances, questionner les représentations et corriger les fausses pistes pendant la recherche des élèves، وذلك في إطار بيداغوجيا الأهداف",
+    "Apporter des relances, questionner les représentations et corriger les fausses pistes pendant la recherche des élèves، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Apporter des relances, questionner les représentations et corriger les fausses pistes pendant la recherche des élèves » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment faire comprendre la différence entre « adjectif démonstratif » (*ce*) et « pronom démonstratif » (*celui-ci*) au CM2 ?",
+   "options": [
+    "En observant que l'adjectif accompagne un nom, alors que le pronom remplace un groupe nominal complet",
+    "En affirmant que les deux mots ont exactement la même nature grammaticale et la même syntaxe",
+    "En interdisant l'utilisation de *ce* devant les noms masculins commençant par une voyelle",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant que l'adjectif accompagne un nom, alors que le pronom remplace un groupe nominal complet » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce que l' « accord du participe passé des verbes pronominaux » (sens réfléchi ou réciproque) au CM2 ?",
+   "options": [
+    "Une règle simple exigeant que le participe passé reste toujours au masculin singulier",
+    "Un accord automatique et obligatoire avec le sujet de la phrase dans 100% des cas",
+    "Toutes les réponses précédentes sont fausses",
+    "Une notion complexe abordée par l'analyse de la fonction du pronom réfléchi (COD placé avant ou non)، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aborde-t-il la « mise en relief » (ex: *C'est le livre que je préfère*) au CM1-CM2 ?",
+   "options": [
+    "En étudiant le procédé d'emphase syntaxique qui sert à focaliser l'attention sur un élément précis de la phrase",
+    "En étudiant le procédé d'emphase syntaxique qui sert à focaliser l'attention sur un élément précis de la phrase، وذلك وفق المقاربة السلوكية",
+    "En étudiant le procédé d'emphase syntaxique qui sert à focaliser l'attention sur un élément précis de la phrase، وذلك في إطار بيداغوجيا الأهداف",
+    "En étudiant le procédé d'emphase syntaxique qui sert à focaliser l'attention sur un élément précis de la phrase، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En étudiant le procédé d'emphase syntaxique qui sert à focaliser l'attention sur un élément précis de la phrase » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt d'utiliser des « textes d'auteurs » (littérature de jeunesse) plutôt que des phrases artificielles en grammaire ?",
+   "options": [
+    "Inscrire l'étude de la langue dans un contexte culturel authentique, stimulant et porteur de sens",
+    "Rendre les leçons de grammaire tellement difficiles que seuls les meilleurs élèves réussissent",
+    "Éviter d'avoir à concevoir soi-même des exercices ou des supports de cours",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Inscrire l'étude de la langue dans un contexte culturel authentique, stimulant et porteur de sens » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment travailler l' « invariabilité des mots » (adverbes, prépositions, conjonctions) au CE2-CM1 ?",
+   "options": [
+    "En obligeant les élèves à leur ajouter un *s* muet lorsqu'ils accompagnent un nom au pluriel",
+    "En les supprimant systématiquement des phrases dictées d'évaluation",
+    "Toutes les réponses précédentes sont fausses",
+    "En les soumettant aux tests de variation de genre et de nombre pour constater qu'ils ne changent jamais d'orthographe، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « grille de relecture orthographique personnalisée » ?",
+   "options": [
+    "Un document officiel imprimé par le ministère pour l'ensemble des écoles du pays",
+    "Une liste de punitions écrites appliquées en cas de fautes répétées",
+    "Toutes les réponses précédentes sont fausses",
+    "Un outil adapté aux difficultés spécifiques de chaque élève pour lui permettre d'autocorriger son texte، وذلك وفق المقاربة السلوكية",
+    "كل الأجوبة السابقة خاطئة"
+   ],
+   "correctIndex": 0,
+   "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تُطابق مضمون المحور المعتمد.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant valide-t-il la compréhension de la notion de « complément d'objet indirect (COI) » au CM1 ?",
+   "options": [
+    "En observant si l'élève réussit à le pronominaliser par *lui, leur, en, y* dans des productions écrites",
+    "En lui faisant réciter la liste de toutes les prépositions françaises par ordre alphabétique",
+    "En vérifiant s'il est capable de dessiner le symbole du COI au-dessus de chaque mot du texte",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant si l'élève réussit à le pronominaliser par *lui, leur, en, y* dans des productions écrites » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est le principe fondamental de la « progression spiralaire » en grammaire et conjugaison au primaire ?",
+   "options": [
+    "Revenir sur les mêmes notions à chaque niveau en les approfondissant, les complexifiant et les élargissant",
+    "Étudier chaque notion une seule fois de manière définitive sans jamais y revenir les années suivantes",
+    "Enseigner l'ensemble du programme de CM2 dès la classe de CP de manière accélérée",
+    "Toutes les réponses précédentes sont fausses"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Revenir sur les mêmes notions à chaque niveau en les approfondissant, les complexifiant et les élargissant » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment faire comprendre le concept d' « antécédent » d'un pronom relatif au CM2 ?",
+   "options": [
+    "En montrant qu'il s'agit du nom ou groupe nominal placé avant le pronom et que ce pronom le remplace dans la subordonnée",
+    "En montrant qu'il s'agit du nom ou groupe nominal placé avant le pronom et que ce pronom le remplace dans la subordonnée، وذلك وفق المقاربة السلوكية",
+    "En montrant qu'il s'agit du nom ou groupe nominal placé avant le pronom et que ce pronom le remplace dans la subordonnée، وذلك في إطار بيداغوجيا الأهداف",
+    "En montrant qu'il s'agit du nom ou groupe nominal placé avant le pronom et que ce pronom le remplace dans la subordonnée، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En montrant qu'il s'agit du nom ou groupe nominal placé avant le pronom et que ce pronom le remplace dans la subordonnée » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'est-ce que la « démarche OLEP » (Observation, Langue, Expérimentation, Production) en didactique du français ?",
+   "options": [
+    "Un modèle pédagogique articulant l'observation de textes, l'analyse de la langue, les manipulations et la création écrite",
+    "Un modèle pédagogique articulant l'observation de textes, l'analyse de la langue, les manipulations et la création écrite، وذلك وفق المقاربة السلوكية",
+    "Un modèle pédagogique articulant l'observation de textes, l'analyse de la langue, les manipulations et la création écrite، وذلك في إطار بيداغوجيا الأهداف",
+    "Un modèle pédagogique articulant l'observation de textes, l'analyse de la langue, les manipulations et la création écrite، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Un modèle pédagogique articulant l'observation de textes, l'analyse de la langue, les manipulations et la création écrite » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant aborde-t-il les « valeurs de l'imparfait » (description, habitude, action en cours) au CM1-CM2 ?",
+   "options": [
+    "En faisant analyser des extraits de récits où l'imparfait sert soit à peindre un décor, soit à marquer une répétition passée",
+    "En faisant analyser des extraits de récits où l'imparfait sert soit à peindre un décor, soit à marquer une répétition passée، وذلك وفق المقاربة السلوكية",
+    "En faisant analyser des extraits de récits où l'imparfait sert soit à peindre un décor, soit à marquer une répétition passée، وذلك في إطار بيداغوجيا الأهداف",
+    "En faisant analyser des extraits de récits où l'imparfait sert soit à peindre un décor, soit à marquer une répétition passée، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En faisant analyser des extraits de récits où l'imparfait sert soit à peindre un décor, soit à marquer une répétition passée » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Quel est l'intérêt de faire « expliciter la métacognition » à voix haute par l'élève lors d'un exercice d'accord ?",
+   "options": [
+    "Rendre visibles les chemins de pensée, déceler les fausses représentations et consolider la règle par la verbalisation",
+    "Rendre visibles les chemins de pensée, déceler les fausses représentations et consolider la règle par la verbalisation، وذلك وفق المقاربة السلوكية",
+    "Rendre visibles les chemins de pensée, déceler les fausses représentations et consolider la règle par la verbalisation، وذلك في إطار بيداغوجيا الأهداف",
+    "Rendre visibles les chemins de pensée, déceler les fausses représentations et consolider la règle par la verbalisation، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Rendre visibles les chemins de pensée, déceler les fausses représentations et consolider la règle par la verbalisation » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment différencier « l'attribut du COD » (ex: *Je trouve ce film magnifique*) de l'attribut du sujet au CM2 ?",
+   "options": [
+    "En observant que l'adjectif s'accorde avec le COD et exprime une qualité attribuée à ce complément par l'intermédiaire du verbe",
+    "En observant que l'adjectif s'accorde avec le COD et exprime une qualité attribuée à ce complément par l'intermédiaire du verbe، وذلك وفق المقاربة السلوكية",
+    "En observant que l'adjectif s'accorde avec le COD et exprime une qualité attribuée à ce complément par l'intermédiaire du verbe، وذلك في إطار بيداغوجيا الأهداف",
+    "En observant que l'adjectif s'accorde avec le COD et exprime une qualité attribuée à ce complément par l'intermédiaire du verbe، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En observant que l'adjectif s'accorde avec le COD et exprime une qualité attribuée à ce complément par l'intermédiaire du verbe » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Qu'appelle-t-on « transfert d'apprentissage » en étude de la langue ?",
+   "options": [
+    "La capacité de l'élève à utiliser une règle de grammaire apprise dans un exercice autonome de rédaction ou de lecture",
+    "La capacité de l'élève à utiliser une règle de grammaire apprise dans un exercice autonome de rédaction ou de lecture، وذلك وفق المقاربة السلوكية",
+    "La capacité de l'élève à utiliser une règle de grammaire apprise dans un exercice autonome de rédaction ou de lecture، وذلك في إطار بيداغوجيا الأهداف",
+    "La capacité de l'élève à utiliser une règle de grammaire apprise dans un exercice autonome de rédaction ou de lecture، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « La capacité de l'élève à utiliser une règle de grammaire apprise dans un exercice autonome de rédaction ou de lecture » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "Comment l'enseignant favorise-t-il le plaisir d'apprendre la grammaire et la conjugaison au primaire ?",
+   "options": [
+    "En proposant des défis linguistiques, des énigmes syntaxiques, des jeux de rôle et des activités de création textuelle",
+    "En proposant des défis linguistiques, des énigmes syntaxiques, des jeux de rôle et des activités de création textuelle، وذلك وفق المقاربة السلوكية",
+    "En proposant des défis linguistiques, des énigmes syntaxiques, des jeux de rôle et des activités de création textuelle، وذلك في إطار بيداغوجيا الأهداف",
+    "En proposant des défis linguistiques, des énigmes syntaxiques, des jeux de rôle et des activités de création textuelle، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « En proposant des défis linguistiques, des énigmes syntaxiques, des jeux de rôle et des activités de création textuelle » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  },
+  {
+   "situation": "",
+   "text": "En conclusion générale, quel est l'objectif fondamental de l'enseignement contextualisé de la grammaire et de la conjugaison du CP au CM2 ?",
+   "options": [
+    "Donner à l'élève les clés d'un usage conscient, maîtrisé, précis et autonome de la langue française au service de la pensée, de la lecture et de la création écrite",
+    "Donner à l'élève les clés d'un usage conscient, maîtrisé, précis et autonome de la langue française au service de la pensée, de la lecture et de la création écrite، وذلك وفق المقاربة السلوكية",
+    "Donner à l'élève les clés d'un usage conscient, maîtrisé, précis et autonome de la langue française au service de la pensée, de la lecture et de la création écrite، وذلك في إطار بيداغوجيا الأهداف",
+    "Donner à l'élève les clés d'un usage conscient, maîtrisé, précis et autonome de la langue française au service de la pensée, de la lecture et de la création écrite، وذلك وفق النموذج التقليدي للتلقين"
+   ],
+   "correctIndex": 0,
+   "explanation": "Explication : la bonne réponse est « Donner à l'élève les clés d'un usage conscient, maîtrisé, précis et autonome de la langue française au service de la pensée, de la lecture et de la création écrite » ; elle correspond aux contenus validés de ce thème.",
+   "answerMarked": true
+  }
+ ]
+}

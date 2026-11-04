@@ -1,0 +1,1212 @@
+[
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif prioritaire de l'apprentissage de la lecture au début du cycle primaire en FLE ?",
+  "options": [
+   "Développer la conscience phonologique et la correspondance graphie-phonème pour accéder au sens",
+   "Mémoriser par cœur des textes littéraires longs sans analyse préalable des mots",
+   "Privilégier l'analyse syntaxique complexe avant toute reconnaissance des sons du texte",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Développer la conscience phonologique et la correspondance graphie-phonème pour accéder au sens» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment la production écrite doit-elle être articulée dans une démarche méthodique au primaire ?",
+  "options": [
+   "Par un travail individuel direct et sans préparation orale ou planification préalable",
+   "Par un processus structuré: planification, rédaction du brouillon, révision et mise au propre",
+   "Par la copie systématique du texte du manuel sans aucune modification ni création personnelle",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 1,
+  "explanation": "Explication: la bonne réponse est «Par un processus structuré: planification, rédaction du brouillon, révision et mise au propre» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le rôle du \"brouillon\" lors d'une séance d'écriture au primaire ?",
+  "options": [
+   "Une étape de punition réservée uniquement aux élèves en difficulté d'apprentissage",
+   "Un espace d'essai, de prise de risque et de négciation de la forme avant la version finale",
+   "Une perte de temps inutile qui ralentit l'exécution des exercices du cahier",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 1,
+  "explanation": "Explication: la bonne réponse est «Un espace d'essai, de prise de risque et de négciation de la forme avant la version finale» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment la lecture et l'écriture s'interpénètrent-elles dans la didactique de l'écrit ?",
+  "options": [
+   "La lecture fournit des modèles culturels, syntaxiques et lexicaux réinvestis dans l'écriture",
+   "Ce sont deux activités totalement étanches enseignées dans des semestres séparés",
+   "L'écriture doit précéder obligatoirement la lecture pendant toute la scolarité",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «La lecture fournit des modèles culturels, syntaxiques et lexicaux réinvestis dans l'écriture» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle est la démarche préconisée pour enseigner l'orthographe d'usage au primaire ?",
+  "options": [
+   "L'apprentissage par observation, classement de mots en réseaux et réinvestissement en contexte",
+   "La dictée punitive hebdomadaire sans aucune séance préalable d'explication de règle",
+   "La mémorisation intégrale de l'ensemble des définitions du dictionnaire général",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «L'apprentissage par observation, classement de mots en réseaux et réinvestissement en contexte» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment aborder la différenciation pédagogique lors d'une activité de production écrite ?",
+  "options": [
+   "En adaptant la longueur du texte, en fournissant des boîtes à outils et des trames guidées",
+   "En dispensant complètement les élèves en difficulté de toute activité d'écriture",
+   "En imposant un sujet unique très complexe à l'ensemble du groupe classe",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En adaptant la longueur du texte, en fournissant des boîtes à outils et des trames guidées» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif des activités d'anticipation ou de pré-lecture avant d'aborder un texte ?",
+  "options": [
+   "Émettre des hypothèses de sens à partir d'indices visuels, du titre et de la mise en page",
+   "Traduire le texte mot à mot en langue maternelle avant de procéder à la lecture",
+   "Recopier la première et la dernière ligne du texte sur le cahier de cours",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Émettre des hypothèses de sens à partir d'indices visuels, du titre et de la mise en page» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant doit-il exploiter la grille de relecture en production écrite ?",
+  "options": [
+   "Comme un outil d'auto-évaluation permettant à l'élève de vérifier ses critères de réussite",
+   "Comme un support administratif réservé exclusivement au contrôle de l'inspecteur",
+   "Comme une punition supplémentaire à copier dix fois à la maison après le cours",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Comme un outil d'auto-évaluation permettant à l'élève de vérifier ses critères de réussite» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment développer la compréhension fine et inférentielle d'un texte chez l'élève ?",
+  "options": [
+   "En posant des questions nécessitant de croiser des indices pour lire entre les lignes",
+   "En demandant uniquement de recopier les réponses explicites formulées dans le texte",
+   "En limitant les questions à l'identification du nom de l'auteur et de l'éditeur",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En posant des questions nécessitant de croiser des indices pour lire entre les lignes» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le rôle de la copie guidée (ou copie active) au début du primaire ?",
+  "options": [
+   "Développer la mémoire orthographique, la tenue de ligne et la précision de la restitution",
+   "Épuiser physiquement l'élève pour maintenir le silence absolu dans la classe",
+   "Remplacer la séance de lecture et d'explication de texte par du travail manuel",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Développer la mémoire orthographique, la tenue de ligne et la précision de la restitution» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment la réécriture (ou révision de texte) est-elle perçue en didactique moderne ?",
+  "options": [
+   "Comme un moment privilégié d'amélioration, d'enrichissement et de correction du premier jet",
+   "Comme la preuve d'un échec total nécessitant l'annulation de la note de l'élève",
+   "Comme une tâche facultative réservée uniquement aux élèves les plus avancés",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Comme un moment privilégié d'amélioration, d'enrichissement et de correction du premier jet» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'intérêt d'utiliser un \"texte modèle\" (ou texte déclencheur) en production écrite ?",
+  "options": [
+   "Offrir une structure réemployable, du lexique et des tournures syntaxiques adaptées au projet",
+   "Imposer la reproduction exacte du contenu sans aucune liberté d'invention pour l'élève",
+   "Vérifier la vitesse de lecture silencieuse de l'ensemble du groupe classe",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Offrir une structure réemployable, du lexique et des tournures syntaxiques adaptées au projet» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment évaluer le volet \"cohésion et cohérence\" dans un texte produit par un élève ?",
+  "options": [
+   "En comptant uniquement le nombre total de mots et de paragraphes rédigés",
+   "En contrôlant uniquement le respect de la marge et l'absence de ratures",
+   "Toutes les réponses précédentes sont fausses",
+   "En vérifiant l'enchaînement logique des idées, le bon usage des connecteurs et la progression، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle posture l'enseignant doit-il adopter lors du suivi de la production écrite en classe ?",
+  "options": [
+   "Un rôle d'accompagnateur et de médiateur circulant dans les rangs pour étayer les projets",
+   "Un rôle de correcteur passif restant assis au bureau en attendant la fin de l'heure",
+   "Un rôle de juge sanctionnant immédiatement le moindre faux pas sur le brouillon",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Un rôle d'accompagnateur et de médiateur circulant dans les rangs pour étayer les projets» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Pourquoi l'atelier d'écriture en sous-groupes est-il bénéfique pour l'écrit ?",
+  "options": [
+   "Il favorise la co-construction, le conflit socio-cognitif et la mutualisation des idées",
+   "Il permet à l'enseignant de réduire le niveau d'exigence formelle des travaux",
+   "Il remplace le cours de grammaire formelle et les contrôles individuels",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Il favorise la co-construction, le conflit socio-cognitif et la mutualisation des idées» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En somme, l'enseignement-apprentissage de l'écrit au primaire vise à:",
+  "options": [
+   "Rendre l'élève autonome dans la réception critique et la production efficace de textes variés",
+   "Automatiser la copie mécanique de textes littéraires anciens sans préoccupation du sens",
+   "Isoler l'écrit de toutes les interactions orales et des réalités sociales de l'élève",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Rendre l'élève autonome dans la réception critique et la production efficace de textes variés» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant doit-il concevoir l'évaluation des productions écrites des élèves ?",
+  "options": [
+   "En se basant sur une approche critériée et formative qui valorise les progrès et analyse les erreurs",
+   "En sanctionnant chaque faute d'orthographe par une diminution drastique et immédiate de la note",
+   "En comparant strictement les copies des élèves entre elles pour classer le premier et le dernier",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En se basant sur une approche critériée et formative qui valorise les progrès et analyse les erreurs» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'entend-on par \"conscience phonologique\" dans l'apprentissage de la lecture au début du primaire ?",
+  "options": [
+   "La capacité à identifier, segmenter et manipuler les unités sonores (syllabes et phonèmes) de la langue",
+   "L'obligation de mémoriser l'orthographe lexicale de tous les mots invariables du dictionnaire",
+   "La faculté de traduire instantanément un texte littéraire complexe d'une langue à une autre",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «La capacité à identifier, segmenter et manipuler les unités sonores (syllabes et phonèmes) de la langue» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quelle est la nature des activités de remédiation en orthographe lexicale ?",
+  "options": [
+   "Des dictées punitives quotidiennes à copier cinquante fois en cas de faute commise",
+   "Des exercices ciblés d'analyse des régularités, des familles de mots et des pièges graphiques",
+   "La suppression définitive de l'orthographe dans les épreuves d'évaluation formative",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 1,
+  "explanation": "Explication: la bonne réponse est «Des exercices ciblés d'analyse des régularités, des familles de mots et des pièges graphiques» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une stratégie de \"survol\" (skimming) en lecture documentaire ?",
+  "options": [
+   "Une lecture mot à mot très lente pour analyser la morphologie de chaque verbe conjugué",
+   "L'action de surligner la totalité du texte sans distinction des informations importantes",
+   "Toutes les réponses précédentes sont fausses",
+   "Une lecture rapide pour repérer les éléments saillants (titres, illustrations, mots-clés) et saisir la thématique، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant gère-t-il l'hétérogénéité des compétences en lecture au sein d'une même classe ?",
+  "options": [
+   "En proposant des textes aux niveaux de difficulté adaptés et des supports d'étayage différenciés",
+   "En imposant un texte unique de haute difficulté à l'ensemble du groupe sans aucune aide",
+   "En dispensant les élèves faibles de toute participation aux activités de lecture de la classe",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En proposant des textes aux niveaux de difficulté adaptés et des supports d'étayage différenciés» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le rôle du \"projet d'écriture\" dans les programmes officiels de l'école primaire ?",
+  "options": [
+   "Donner du sens à l'acte d'écrire en fixant un destinataire réel et un objectif de communication précis",
+   "Remplacer les leçons hebdomadaires de grammaire et de conjugaison par des travaux manuels",
+   "Exiger des élèves la rédaction d'un roman complet avant la fin de l'année scolaire",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Donner du sens à l'acte d'écrire en fixant un destinataire réel et un objectif de communication précis» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment la méthode syllabique et la méthode globale sont-elles articulées dans la lecture moderne ?",
+  "options": [
+   "Par une approche interactive et méthodique qui combine le décodage phonique et l'accès direct au sens",
+   "Par l'exclusion totale de la méthode syllabique au profit exclusif du devinement global des mots",
+   "Par l'obligation de mémoriser les textes par cœur sans jamais apprendre à assembler les lettres",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par une approche interactive et méthodique qui combine le décodage phonique et l'accès direct au sens» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif pédagogique des exercices de \"reconstitution de phrases en désordre\" ?",
+  "options": [
+   "Travailler la syntaxe, l'ordre des mots et la logique de la structure phrastique",
+   "Évaluer la vitesse de copie manuelle des élèves sur leurs cahiers de devoirs",
+   "Apprendre aux élèves à réciter des poèmes de manière théâtrale et rythmée",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Travailler la syntaxe, l'ordre des mots et la logique de la structure phrastique» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant peut-il encourager la production d'écrits chez les élèves inhibés ou en panne d'inspiration ?",
+  "options": [
+   "En les punissant pour le retard pris et en exigeant une production immédiate sous contrainte",
+   "En leur fournissant des amorces de phrases, des images inductrices et un accompagnement rapproché",
+   "En leur interdisant d'utiliser le brouillon et en les forçant à écrire directement au stylo",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 1,
+  "explanation": "Explication: la bonne réponse est «En leur fournissant des amorces de phrases, des images inductrices et un accompagnement rapproché» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on \"inférence\" dans le processus de compréhension d'un texte écrit ?",
+  "options": [
+   "L'action de déduire une information implicite du texte en combinant des indices et les acquis",
+   "La simple répétition littérale d'une phrase explicitement écrite dans le paragraphe",
+   "L'obligation de traduire le texte du français vers la langue maternelle de l'élève",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «L'action de déduire une information implicite du texte en combinant des indices et les acquis» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le statut de l'écriture cursive (l'écriture liée) dans les petites classes du primaire ?",
+  "options": [
+   "Elle est totalement abandonnée au profit de l'écriture d'imprimerie (script) sur les écrans",
+   "Elle est enseignée rigoureusement pour développer la fluidité, la lisibilité et la motricité fine",
+   "Elle est considérée comme une pratique archaïque sans aucun intérêt pour le futur élève",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 1,
+  "explanation": "Explication: la bonne réponse est «Elle est enseignée rigoureusement pour développer la fluidité, la lisibilité et la motricité fine» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'intérêt pédagogique de la lecture magistrale (modèle) faite par l'enseignant ?",
+  "options": [
+   "Offrir un modèle d'intonation, de respect des liaisons, de ponctuation et de mise en voix",
+   "Permettre aux élèves de dormir ou de se reposer en attendant les exercices écrits",
+   "Remplacer définitivement la lecture individuelle et silencieuse des élèves en classe",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Offrir un modèle d'intonation, de respect des liaisons, de ponctuation et de mise en voix» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment aborder l'étude d'un texte documentaire en lecture au cycle primaire ?",
+  "options": [
+   "En se focalisant uniquement sur les aspects narratifs et les aventures des personnages imaginaires",
+   "En analysant la mise en page, les titres, les légendes et la structure informative des données",
+   "En traitant le document informatif exactement comme un conte de fées traditionnel",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 1,
+  "explanation": "Explication: la bonne réponse est «En analysant la mise en page, les titres, les légendes et la structure informative des données» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le rôle des activités d'écriture créative (ex: inventer la suite d'une histoire) ?",
+  "options": [
+   "Stimuler l'imagination, libérer l'expression personnelle et s'approprier les codes du récit",
+   "Imposer des structures syntaxiques rigides et interdire toute invention littéraire",
+   "Évaluer la rapidité d'exécution et le nombre de lignes écrites par minute",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Stimuler l'imagination, libérer l'expression personnelle et s'approprier les codes du récit» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant doit-il exploiter les erreurs d'orthographe repérées dans les cahiers d'élèves ?",
+  "options": [
+   "Comme un outil diagnostique précieux pour concevoir des activités de remédiation ciblées",
+   "Comme une preuve irréfutable d'incompétence devant être punie par une baisse de note",
+   "En les ignorant totalement pour ne pas décourager les élèves lors des corrections",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Comme un outil diagnostique précieux pour concevoir des activités de remédiation ciblées» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif principal de l'exercice de la \"dictée négociée\" ou \"dictée de groupe\" ?",
+  "options": [
+   "Développer la métaréflexion orthographique par la discussion et la négociation des accords entre pairs",
+   "Évaluer de manière stricte et individuelle les performances isolées de chaque élève sans aide",
+   "Remplacer définitivement les séances de lecture et de production écrite du programme officiel",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Développer la métaréflexion orthographique par la discussion et la négociation des accords entre pairs» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on \"fluidité de lecture\" (la fluence) en didactique de la lecture au primaire ?",
+  "options": [
+   "La capacité de lire un texte de manière rapide, précise, expressive et avec une bonne prosodie",
+   "Le fait de réciter par cœur des poésies classiques sans s'arrêter aux ponctuations",
+   "La vitesse maximale de décodage des lettres sans se soucier du sens global du texte",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «La capacité de lire un texte de manière rapide, précise, expressive et avec une bonne prosodie» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel rôle joue le paratexte (titres, sous-titres, illustrations, typographie) lors de l'approche d'un texte ?",
+  "options": [
+   "Il n'a aucune utilité pédagogique et ne doit pas être pris en compte avant la lecture",
+   "Il permet d'émettre des hypothèses de lecture et d'activer les connaissances antérieures",
+   "Il sert uniquement à embellir visuellement les pages du manuel scolaire officiel",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 1,
+  "explanation": "Explication: la bonne réponse est «Il permet d'émettre des hypothèses de lecture et d'activer les connaissances antérieures» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment la didactique de l'écriture intègre-t-elle l'utilisation des connecteurs logiques au primaire ?",
+  "options": [
+   "De manière progressive, pour structurer la chronologie et les liens logiques du texte produit",
+   "En exigeant des élèves de première année primaire la maîtrise de tous les connecteurs complexes",
+   "En interdisant l'usage de tout connecteur pour garder les phrases simples et isolées",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «De manière progressive, pour structurer la chronologie et les liens logiques du texte produit» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant peut-il évaluer efficacement la compréhension fine d'un texte lu par les élèves ?",
+  "options": [
+   "En posant des questions ouvertes d'inférence et d'analyse critique plutôt que de simples repérages",
+   "En demandant une récitation littérale et sans faute du premier paragraphe du texte",
+   "En comptant le nombre de mots lus par minute sans s'intéresser aux questions de sens",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En posant des questions ouvertes d'inférence et d'analyse critique plutôt que de simples repérages» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'une stratégie de \"repérage\" (scanning) face à un document écrit ?",
+  "options": [
+   "Une lecture linéaire et très lente de chaque mot du texte de la première à la dernière ligne",
+   "La recherche ciblée et rapide d'une information précise (un chiffre, un nom, une date)",
+   "L'action de souligner l'intégralité du texte avec des surligneurs de couleurs différentes",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 1,
+  "explanation": "Explication: la bonne réponse est «La recherche ciblée et rapide d'une information précise (un chiffre, un nom, une date)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le statut de l'écriture spontanée (ou écriture libre) dans le développement de l'écrit ?",
+  "options": [
+   "Elle est proscrite car elle génère trop de fautes d'orthographe non corrigées",
+   "Elle libère l'expression, favorise la créativité et dédramatise le rapport à la feuille blanche",
+   "Elle remplace obligatoirement toutes les leçons institutionnelles de grammaire et d'orthographe",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 1,
+  "explanation": "Explication: la bonne réponse est «Elle libère l'expression, favorise la créativité et dédramatise le rapport à la feuille blanche» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant gère-t-il la phase d'institutionnalisation dans une leçon d'orthographe ?",
+  "options": [
+   "En formalisant la règle orthographique sous forme de mémo ou de trace écrite validée",
+   "En laissant les élèves deviner par eux-mêmes les règles sans jamais les formuler clairement",
+   "En demandant aux élèves d'apprendre par cœur l'intégralité du dictionnaire général",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En formalisant la règle orthographique sous forme de mémo ou de trace écrite validée» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'apport spécifique de la lecture interactive (partagée) au cycle initial ?",
+  "options": [
+   "Permettre à l'élève d'accéder à des textes plus riches grâce à l'étayage et aux explications de l'adulte",
+   "Remplacer totalement les moments de lecture autonome silencieuse en classe",
+   "Transférer la responsabilité de l'apprentissage de la lecture uniquement aux parents à la maison",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Permettre à l'élève d'accéder à des textes plus riches grâce à l'étayage et aux explications de l'adulte» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment la production écrite peut-elle être ancrée dans une dimension sociale et fonctionnelle ?",
+  "options": [
+   "En rédigeant de véritables messages, lettres, affiches ou invitations destinés à de vrais destinataires",
+   "En écrivant des textes abstraits sans destinataire ni finalité pratique en dehors de la classe",
+   "En copiant strictement les leçons du manuel sans modifier le moindre mot du texte source",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En rédigeant de véritables messages, lettres, affiches ou invitations destinés à de vrais destinataires» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le principal objectif des activités de conscience graphophonologique ?",
+  "options": [
+   "Assurer le lien solide entre les graphèmes (signes écrits) et les phonèmes (sons parlés)",
+   "Apprendre aux élèves l'histoire de l'écriture et l'évolution des alphabets à travers les âges",
+   "Mémoriser la liste de tous les mots invariables de la langue française par ordre alphabétique",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Assurer le lien solide entre les graphèmes (signes écrits) et les phonèmes (sons parlés)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on \"grille d'évaluation critériée\" pour une production écrite ?",
+  "options": [
+   "Un outil transparent définissant les indicateurs de réussite (contenu, syntaxe, orthographe)",
+   "Une note chiffrée arbitraire attribuée par l'enseignant selon son humeur du jour",
+   "Un règlement disciplinaire interdisant aux élèves de faire des ratures sur leur brouillon",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Un outil transparent définissant les indicateurs de réussite (contenu, syntaxe, orthographe)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'intérêt pédagogique de l'utilisation de textes narratifs alternatifs (ex: contes détournés) en lecture ?",
+  "options": [
+   "Développer l'esprit critique, la comparaison intertextuelle et la surprise littéraire",
+   "Remplacer les textes informatifs et documentaires par des histoires fantastiques",
+   "Imposer une vision unique et dogmatique de la littérature classique aux jeunes élèves",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Développer l'esprit critique, la comparaison intertextuelle et la surprise littéraire» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'approche par projets favorise-t-elle l'apprentissage simultané de la lecture et de l'écriture ?",
+  "options": [
+   "En unissant les compétences autour d'un but commun (ex: créer un journal d'école ou un recueil de contes)",
+   "En séparant hermétiquement les leçons de lecture des exercices d'écriture pour éviter la confusion",
+   "En réduisant le volume horaire des matières linguistiques au profit des activités sportives",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En unissant les compétences autour d'un but commun (ex: créer un journal d'école ou un recueil de contes)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le rôle de la ponctuation dans la didactique de la lecture expressive ?",
+  "options": [
+   "Elle sert uniquement à décorer la mise en page des textes littéraires imprimés",
+   "Elle est facultative et peut être ignorée lors des lectures à haute voix en classe",
+   "Toutes les réponses précédentes sont fausses",
+   "Elle guide les pauses, les ruptures d'intonation et la respiration pour donner du sens au texte lu، وذلك في إطار بيداغوجيا الأهداف",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En conclusion, quelle est la finalité ultime de la didactique de l'écrit au cycle primaire ?",
+  "options": [
+   "Former un lecteur-scripteur compétent, autonome, capable de comprendre et de produire des écrits variés",
+   "Transformer chaque élève en un critique littéraire professionnel spécialisé dans l'analyse classique",
+   "Imposer la mémorisation rigide de règles grammaticales déconnectées de toute communication écrite",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Former un lecteur-scripteur compétent, autonome, capable de comprendre et de produire des écrits variés» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant aborde-t-il la morphosyntaxe lors des séances de production écrite ?",
+  "options": [
+   "En tant qu'outil au service de la clarté et de la cohésion du texte rédigé",
+   "En exigeant l'apprentissage par cœur de théories linguistiques abstraites sans rédaction",
+   "En éliminant toute exigence grammaticale au profit du dessin et de l'illustration",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En tant qu'outil au service de la clarté et de la cohésion du texte rédigé» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif des activités d'association \"texte-image\" au début de l'apprentissage de la lecture ?",
+  "options": [
+   "Vérifier la compréhension globale du sens en s'appuyant sur des indices visuels",
+   "Évaluer la vitesse de calligraphie des lettres majuscules et minuscules sur le cahier",
+   "Imposer la mémorisation d'un vocabulaire scientifique très complexe dès le CP",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Vérifier la compréhension globale du sens en s'appuyant sur des indices visuels» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on \"texte injonctif\" (ou prescriptif) parmi les formes textuelles étudiées au primaire ?",
+  "options": [
+   "Un texte racontant les aventures fictives de personnages imaginaires dans le passé",
+   "Un texte donnant des consignes, des règles ou des étapes à suivre (ex: recette, règle de jeu)",
+   "Un poème lyrique exprimant les sentiments personnels et intimes de l'auteur",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 1,
+  "explanation": "Explication: la bonne réponse est «Un texte donnant des consignes, des règles ou des étapes à suivre (ex: recette, règle de jeu)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment la grille d'auto-évaluation aide-t-elle l'élève dans son activité d'écriture ?",
+  "options": [
+   "Elle lui permet de vérifier de façon autonome le respect des consignes et des critères du texte",
+   "Elle remplace le travail de correction de l'enseignant pour toutes les épreuves officielles",
+   "Elle sert de fiche de punition à faire signer par les parents après chaque devoir",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Elle lui permet de vérifier de façon autonome le respect des consignes et des critères du texte» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce que l'analyse des erreurs de déchiffrage (confusion de sons ou d'inversions) révèle chez l'apprenti lecteur ?",
+  "options": [
+   "Une incapacité définitive de l'élève à apprendre les langues étrangères",
+   "La preuve d'un manque de volonté sanctionnable par une punition écrite",
+   "Toutes les réponses précédentes sont fausses",
+   "Une étape normale ou un dysfonctionnement dans le traitement de la correspondance graphème-phonème، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le statut de la calligraphie et du soin dans la présentation de la copie finale ?",
+  "options": [
+   "Des éléments facilitant la lisibilité et valorisant le travail écrit destiné à un lecteur",
+   "Le critère unique d'évaluation de la production écrite au détriment du sens",
+   "Des contraintes inutiles qui entravent la créativité et la liberté de l'élève",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Des éléments facilitant la lisibilité et valorisant le travail écrit destiné à un lecteur» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment aborder le texte explicatif (ou informatif) au deuxième cycle du primaire ?",
+  "options": [
+   "En identifiant la question de départ, l'explication et l'organisation logique du sujet",
+   "En le traitant comme une fiction merveilleuse peuplée d'éléments magiques",
+   "En demandant aux élèves d'apprendre par cœur le texte de la première à la dernière ligne",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En identifiant la question de départ, l'explication et l'organisation logique du sujet» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le rôle des référents affichés en classe (murs de mots, affiches de grammaire) lors de l'écrit ?",
+  "options": [
+   "Constituer une mémoire collective et un soutien visuel accessible pendant la rédaction",
+   "Décorer la classe pour les visites administratives sans utilité pédagogique",
+   "Offrir un moyen de tricherie toléré pendant les examens sommatifs",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Constituer une mémoire collective et un soutien visuel accessible pendant la rédaction» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant peut-il développer la vitesse et la précision de lecture au cycle primaire ?",
+  "options": [
+   "Par des entraînements réguliers de fluence, des lectures théâtralisées et des jeux de relais",
+   "En obligeant les élèves à lire en silence pendant plusieurs heures d'affilée",
+   "En supprimant la lecture à haute voix pour se concentrer uniquement sur l'écriture",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par des entraînements réguliers de fluence, des lectures théâtralisées et des jeux de relais» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'intérêt de la \"production d'écrits courts\" (mini-textes ou joggings d'écriture) ?",
+  "options": [
+   "Dédramatiser l'écrit, développer l'automatisation du geste et réguler le flux d'idées",
+   "Remplacer les projets d'écriture longs et complexes prévus dans le programme",
+   "Évaluer formellement et noter la syntaxe complexe des élèves chaque matin",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Dédramatiser l'écrit, développer l'automatisation du geste et réguler le flux d'idées» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on \"cohésion textuelle\" dans l'évaluation d'un écrit d'élève ?",
+  "options": [
+   "La bonne utilisation des pronoms de reprise, de la ponctuation et des temps verbaux",
+   "La propreté des marges et l'absence de ratures sur la feuille d'examen",
+   "Le nombre exact de lignes rédigées par rapport à la consigne initiale",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «La bonne utilisation des pronoms de reprise, de la ponctuation et des temps verbaux» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant encourage-t-il la métacognition chez le jeune lecteur ?",
+  "options": [
+   "En lui demandant d'expliquer comment il a fait pour trouver une réponse ou corriger son erreur",
+   "En lui donnant directement la réponse exacte sans lui laisser le temps de réfléchir",
+   "En lui faisant répéter dix fois ladonnée par un camarade",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En lui demandant d'expliquer comment il a fait pour trouver une réponse ou corriger son erreur» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'est-ce qu'un \"schéma narratif\" dans l'apprentissage du récit écrit au primaire ?",
+  "options": [
+   "La structure logique comprenant la situation initiale, l'élément perturbateur, les péripéties, le dénouement et la situation finale",
+   "La structure logique comprenant la situation initiale, l'élément perturbateur, les péripéties, le dénouement et la situation finale، وذلك وفق المقاربة السلوكية",
+   "La structure logique comprenant la situation initiale, l'élément perturbateur, les péripéties, le dénouement et la situation finale، وذلك في إطار بيداغوجيا الأهداف",
+   "La structure logique comprenant la situation initiale, l'élément perturbateur, les péripéties, le dénouement et la situation finale، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «La structure logique comprenant la situation initiale, l'élément perturbateur, les péripéties, le dénouement et la situation finale» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment concilier le respect des normes orthographiques et la créativité en production écrite ?",
+  "options": [
+   "En bloquant l'écriture dès qu'une erreur d'orthographe apparaît sur le papier",
+   "En ignorant totalement l'orthographe jusqu'à la fin de la scolarité primaire",
+   "Toutes les réponses précédentes sont fausses",
+   "En séparant la phase de recherche d'idées (brouillon) de la phase de correction et de normation (révision)، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En résumé, la maîtrise de la didactique de l'écrit au primaire garantit:",
+  "options": [
+   "La capacité de l'élève à traiter l'information écrite avec recul et à rédiger des messages clairs et structurés",
+   "La capacité de l'élève à traiter l'information écrite avec recul et à rédiger des messages clairs et structurés، وذلك وفق المقاربة السلوكية",
+   "La capacité de l'élève à traiter l'information écrite avec recul et à rédiger des messages clairs et structurés، وذلك في إطار بيداغوجيا الأهداف",
+   "La capacité de l'élève à traiter l'information écrite avec recul et à rédiger des messages clairs et structurés، وذلك وفق النموذج التقليدي للتلقين"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «La capacité de l'élève à traiter l'information écrite avec recul et à rédiger des messages clairs et structurés» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment évaluer la compréhension globale d'un texte narratif chez un apprenti lecteur ?",
+  "options": [
+   "En lui faisant recopier le texte intégralement sur son cahier de cours",
+   "En comptant le nombre de lettres majuscules présentes dans le premier paragraphe",
+   "Toutes les réponses précédentes sont fausses",
+   "En lui demandant de reformuler l'histoire avec ses propres mots ou d'en identifier les étapes clés، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on \"substituts lexicaux et pronominaux\" dans l'analyse de la cohésion d'un texte ?",
+  "options": [
+   "Les moyens linguistiques (pronoms, synonymes, termes génériques) évitant les répétitions abusives",
+   "Les exercices de dictée préparée effectués au début de chaque séance",
+   "Les règles de ponctuation régissant l'utilisation du point-virgule et des deux-points",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Les moyens linguistiques (pronoms, synonymes, termes génériques) évitant les répétitions abusives» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'intérêt d'utiliser la \"lecture puzzle\" (ou texte à reconstituer) en classe ?",
+  "options": [
+   "Évaluer la propreté de la copie et la qualité de la calligraphie au stylo bille",
+   "Faire apprendre par cœur un poème sans aucune explication préalable du sens",
+   "Toutes les réponses précédentes sont fausses",
+   "Amener l'élève à utiliser la chronologie, la logique et les connecteurs pour retrouver le fil du texte، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment la révision collaborative d'un texte entre pairs favorise-t-elle l'apprentissage ?",
+  "options": [
+   "Elle dispense l'enseignant de toute correction ou évaluation des travaux écrits",
+   "Elle suscite la compétition négative et le classement chronologique des élèves",
+   "Toutes les réponses précédentes sont fausses",
+   "Elle permet de développer le recul critique, la bienveillance et la négciation des choix de rédaction، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est l'objectif des rituels quotidiens d'écriture (ex: le mot du jour, la phrase du matin) ?",
+  "options": [
+   "Attribuer une note sommative définitive dès l'ouverture de la séance de classe",
+   "Remplacer les projets d'écriture longs et structurés du programme officiel",
+   "Toutes les réponses précédentes sont fausses",
+   "Automatiser le geste d'écriture, enrichir le vocabulaire et dédramatiser l'accès à la feuille blanche، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment développer la prise de conscience des caractéristiques d'un genre textuel ?",
+  "options": [
+   "Par la comparaison et l'observation de plusieurs textes appartenant au même genre",
+   "Par la mémorisation de théories abstraites sans contact direct avec des textes modèles",
+   "En demandant aux élèves d'écrire sans avoir jamais lu le moindre exemple de ce genre",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Par la comparaison et l'observation de plusieurs textes appartenant au même genre» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant peut-il aider les élèves à structurer un récit de fiction ?",
+  "options": [
+   "En s'appuyant sur les étapes du schéma narratif (situation initiale, élément perturbateur, dénouement)",
+   "En exigeant que toutes les histoires soient rédigées au présent de l'indicatif sans transition",
+   "En leur interdisant d'utiliser des personnages imaginaires ou merveilleux",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En s'appuyant sur les étapes du schéma narratif (situation initiale, élément perturbateur, dénouement)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Qu'appelle-t-on \"lecture documentaire\" au primaire ?",
+  "options": [
+   "Une lecture orientée vers la recherche d'informations précises dans des supports informatifs",
+   "La mémorisation d'un texte poétique pour le réciter devant le groupe classe",
+   "La lecture à haute voix de contes traditionnels pendant les séances de littérature",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Une lecture orientée vers la recherche d'informations précises dans des supports informatifs» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment aborder les homophones grammaticaux (ex: a/à, et/est, son/sont) en orthographe ?",
+  "options": [
+   "En s'appuyant sur le sens, la nature grammaticale et les procédés de substitution (manipulations)",
+   "En faisant réciter leurs définitions théoriques sans jamais les utiliser dans des phrases",
+   "En interdisant leur emploi dans les textes rédigés par les élèves au primaire",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En s'appuyant sur le sens, la nature grammaticale et les procédés de substitution (manipulations)» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'approche communicative conçoit-elle l'enseignement de la ponctuation à l'écrit ?",
+  "options": [
+   "Comme une contrainte graphique secondaire que l'on peut ignorer au cycle primaire",
+   "Comme un élément réservé uniquement aux études littéraires avancées du collège",
+   "Toutes les réponses précédentes sont fausses",
+   "Comme un ensemble de marques syntaxiques et expressives donnant du rythme et de la clarté au message، وذلك وفق المقاربة السلوكية",
+   "كل الأجوبة السابقة خاطئة"
+  ],
+  "correctIndex": 4,
+  "explanation": "الإجابة الصحيحة هي «كل الأجوبة السابقة خاطئة»؛ لأن الخيارات المعروضة جميعها لا تطابق مضمون المحور المعتمد.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Quel est le rôle des activités de \"prolongement d'un texte\" (ex: écrire le chapitre suivant) ?",
+  "options": [
+   "Reinvestir le style, l'univers et le vocabulaire de l'auteur dans une création personnelle guidée",
+   "Obliger l'élève à reproduire exactement le texte original sans apporter d'idées nouvelles",
+   "Vérifier uniquement la vitesse de copie du texte d'origine sur le cahier de devoirs",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Reinvestir le style, l'univers et le vocabulaire de l'auteur dans une création personnelle guidée» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "Comment l'enseignant évalue-t-il la lisibilité et la mise en page d'un texte d'élève ?",
+  "options": [
+   "En vérifiant l'organisation en paragraphes, le respect des marges et la clarté de l'écriture",
+   "En comptant uniquement le nombre de mots par ligne sans se soucier de l'aspect visuel",
+   "En exigeant l'utilisation exclusive de la dactylographie informatique sur ordinateur",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «En vérifiant l'organisation en paragraphes, le respect des marges et la clarté de l'écriture» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ },
+ {
+  "subject": "didactique de l'écrit",
+  "folder": "ديداكتيك اللغة الفرنسية",
+  "situation": "",
+  "text": "En conclusion, quelle est la réussite majeure d'un enseignement réussi de la didactique de l'écrit ?",
+  "options": [
+   "Développer chez l'élève le plaisir d'écrire, l'autonomie de pensée et la maîtrise de l'écrit en FLE",
+   "Garantir l'absence totale d'erreurs d'orthographe dès les premiers mois du primaire",
+   "Faire mémoriser passivement les textes modèles sans capacité d'adaptation à de nouvelles situations",
+   "Toutes les réponses précédentes sont fausses"
+  ],
+  "correctIndex": 0,
+  "explanation": "Explication: la bonne réponse est «Développer chez l'élève le plaisir d'écrire, l'autonomie de pensée et la maîtrise de l'écrit en FLE» ; elle correspond aux contenus validés de ce thème.",
+  "source": "didactique de l'écrit",
+  "manual": true
+ }
+]

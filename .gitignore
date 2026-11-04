@@ -1,0 +1,26 @@
+# أسرار — لا تُرفع أبداً
+.env
+*.env
+
+# بيانات حياتية — تعيش في Supabase Storage (وليس في github)
+masar_social.json
+rooms_data.json
+rooms_chat.json
+card_comments.json
+app_config.json
+masar_login_audit.log
+requests.log
+
+# رفع المستخدمين — في Supabase
+uploads/
+
+# كاش مولّد محلياً
+assets/review_files/
+assets/banks/generated/
+assets/banks/generated_jobs/
+review_*_cache/
+
+# نظام
+node_modules/
+Thumbs.db
+.DS_Store

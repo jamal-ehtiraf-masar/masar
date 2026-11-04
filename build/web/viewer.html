@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>عرض الملف</title>
+<!--
+  صفحة العرض الكبير للملفات: تُفتح من التطبيق (زر "افتح الملف على المتصفح")
+  على الحاسوب فقط. تعرض الملف بملء الشاشة عبر pdf.js بدون أي زر تحميل/طباعة،
+  وتمنع الطباعة (CSS) ولوحة المفاتيح/القائمة والنقر اليميني.
+  تستوفي الملفات عبر السيرفر المحلي /api (نفس القناة التي يستعملها التطبيق).
+-->
+<style>
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; background: #111820; color: #f3e9d2;
+               font-family: "Segoe UI", Tahoma, Arial, sans-serif; }
+  /* الشريط العلوي مثبّت دائمًا: الجسم عمودي، والشريط في الأعلى والمحتوى يمرّر تحته */
+  body { display: flex; flex-direction: column; overflow: hidden; }
+  #toolbar { flex: 0 0 auto; z-index: 10; display: flex; align-items: center; gap: 8px;
+             padding: 8px 12px; background: rgba(8, 31, 31, 0.97); border-bottom: 1px solid #2c6e6e;
+             flex-wrap: wrap; }
+  #toolbar button { background: #1f5f5f; color: #ffe9b0; border: 1px solid #3aa; border-radius: 6px;
+                    padding: 6px 12px; cursor: pointer; font-size: 14px; font-family: inherit; }
+  #toolbar button:hover:not(:disabled) { background: #2b7a7a; }
+  #toolbar button:disabled { opacity: .4; cursor: default; }
+  #pageno { min-width: 78px; text-align: center; color: #ffe9b0; font-size: 14px; }
+  .spacer { flex: 1; }
+  #logo { height: 30px; width: 30px; border-radius: 50%; object-fit: cover;
+          border: 1px solid #2c6e6e; box-shadow: 0 0 0 2px rgba(8, 31, 31, .8); }
+  #container { flex: 1 1 auto; overflow-y: auto; min-height: 0; display: none;
+               flex-direction: column; align-items: center; gap: 18px; padding: 16px 10px 24px; }
+  .pagewrap { background: #fff; box-shadow: 0 6px 24px rgba(0, 0, 0, .55); }
+  .pagewrap canvas { display: block; }
+  .pagewrap img { display: block; }
+  #loading { flex: 1 1 auto; display: flex; align-items: center; justify-content: center;
+             color: #c9b885; font-size: 16px; }
+  #errbox { display: none; margin: 60px auto; max-width: 640px; padding: 22px; text-align: center;
+            background: #2a2230; border: 1px solid #b4514f; border-radius: 10px; color: #f6d6d1;
+            font-size: 15px; line-height: 1.8; }
+  @media print { body { display: none !important; } }
+</style>
+</head>
+<body>
+  <div id="toolbar">
+    <button id="back" title="الرجوع إلى المحاور الفرعية">المحاور الفرعية ‹</button>
+    <button id="prev" title="الصفحة السابقة">‹ السابقة</button>
+    <button id="next" title="الصفحة التالية">التالية ›</button>
+    <span id="pageno">1 / 1</span>
+    <button id="zoomout" title="تصغير">−</button>
+    <button id="zoomin" title="تكبير">+</button>
+    <button id="fit" title="ملاءمة العرض">ملاءمة</button>
+    <span class="spacer"></span>
+    <img id="logo" src="icons/app_logo1.jpg" alt="شعار التطبيق" title="عرض فقط — التحميل والطباعة معطّلان">
+  </div>
+  <div id="loading">جارٍ فتح الملف...</div>
+  <div id="container"></div>
+  <div id="errbox"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@5.7.284/build/pdf.min.mjs" type="module"></script>
+  <script type="module">
+    var { pdfjsLib } = globalThis;
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@5.7.284/build/pdf.worker.mjs';
+    var cMapUrl = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@5.7.284/cmaps/';
+    var standardFontsUrl = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@5.7.284/standard_fonts/';
+
+    const $ = id => document.getElementById(id);
+    const params = new URLSearchParams(location.search);
+    const rawPath = params.get('path') || '';
+
+    let mode = 'pdf';            // 'pdf' (pdf.js) أو 'png' (صور MuPDF — لا تشكيل حروف في المتصفح)
+    let pages = 0;               // عدد الصفحات
+    let pageEls = [];            // عنصر كل صفحة: canvas في وضع pdf، img في وضع png
+    let natural = [];            // مقاسات كل صفحة (بكسل) في وضع png
+    let scale = 1, fitScale = 1, current = 1;
+    let pdfDoc = null;
+    let renderTasks = [];        // مهمة رسم حالية لكل صفحة (للإلغاء قبل إعادة الرسم)
+    let chain = Promise.resolve();
+    let pending = null;          // المقاس المرغوب المتراكم
+    let firstVp = null;
+
+    function computeFitScale() {
+      if (!firstVp) return 1;
+      const c = $('container');
+      const cw = c.clientWidth || window.innerWidth;
+      const ch = c.clientHeight || window.innerHeight;
+      return Math.max(0.25, Math.min((cw * 0.92) / firstVp.width, (ch * 0.85) / firstVp.height));
+    }
+
+    function updatePager() {
+      $('pageno').textContent = current + ' / ' + pages;
+      $('prev').disabled = current <= 1;
+      $('next').disabled = current >= pages;
+    }
+
+    function showErr(msg) {
+      $('loading').style.display = 'none';
+      $('toolbar').style.visibility = 'hidden';
+      const b = $('errbox');
+      b.style.display = 'block';
+      b.textContent = msg;
+    }
+
+    function setZoomButtons() {
+      $('zoomin').disabled = scale >= 4.999;
+      $('zoomout').disabled = scale <= 0.2501;
+    }
+
+    // منع الطباعة والتحميل والاطلاع على المصدر عبر لوحة المفاتيح والقائمة اليمينية
+    document.addEventListener('contextmenu', e => e.preventDefault());
+    document.addEventListener('keydown', e => {
+      if ((e.ctrlKey || e.metaKey) && ['p', 's', 'u'].includes((e.key || '').toLowerCase())) {
+        e.preventDefault();
+      }
+    });
+
+    function pageQuery(i) {
+      return '/api/review-files/page?path=' + encodeURIComponent(rawPath) + '&p=' + i;
+    }
+
+    function setupPng() {
+      mode = 'png';
+      firstVp = { width: natural[0].w, height: natural[0].h };
+      fitScale = computeFitScale();
+      for (let i = 1; i <= pages; i++) {
+        const el = document.createElement('div');
+        el.className = 'pagewrap';
+        const im = document.createElement('img');
+        im.className = 'pageimg';
+        im.loading = 'lazy';
+        im.decoding = 'async';
+        im.alt = 'صفحة ' + i;
+        im.setAttribute('data-i', String(i));
+        el.appendChild(im);
+        $('container').appendChild(el);
+        pageEls[i - 1] = im;
+      }
+      updatePager();
+      applyScaleToImages(scale = fitScale);
+      loadVisibleImages();
+    }
+
+    function applyScaleToImages(s) {
+      const k = Math.max(0.25, Math.min(5, s));
+      for (let i = 0; i < pageEls.length; i++) {
+        const n = natural[i];
+        pageEls[i].style.width = Math.floor(n.w * k) + 'px';
+      }
+    }
+
+    let imgObserver = null;
+    function loadVisibleImages() {
+      if (!imgObserver) {
+        imgObserver = new IntersectionObserver((entries) => {
+          for (const e of entries) {
+            if (e.isIntersecting) firePage(e.target);
+          }
+        }, { root: $('container'), rootMargin: '600px 0px' });
+      }
+      for (const im of pageEls) imgObserver.observe(im);
+      // الصفحة الحالية تبدأ فوراً مهما كانت رؤيتها
+      if (pageEls[current - 1]) firePage(pageEls[current - 1]);
+    }
+
+    function firePage(im) {
+      if (im.getAttribute('data-src')) return;
+      const i = parseInt(im.getAttribute('data-i'), 10);
+      im.style.width = im.style.width || (Math.floor(natural[i - 1].w * scale) + 'px');
+      im.setAttribute('data-src', '1');
+      im.src = pageQuery(i);
+      im.onerror = () => { if (mode === 'png') switchToPdf(); };
+    }
+
+    function setupPdf() {
+      mode = 'pdf';
+      canvasesInit().catch(e => showErr('تعذّر فكّ ترميز ملف PDF.'));
+    }
+
+    async function canvasesInit() {
+      let resp;
+      try {
+        resp = await fetch(location.origin + '/api/review-files/file?path=' + encodeURIComponent(rawPath));
+      } catch (_) {
+        return showErr('تعذّر الاتصال بالسيرفر لتحميل الملف.');
+      }
+      if (!resp.ok) {
+        // في وضع png الفاشل نؤول إلى المسار التقليدي إن رُفض الطلب
+        return showErr('تعذّر جلب الملف من السيرفر (رمز ' + resp.status + ').');
+      }
+      const buf = await resp.arrayBuffer();
+      pdfDoc = await pdfjsLib.getDocument({
+        data: new Uint8Array(buf),
+        cMapUrl, cMapPacked: true,
+        standardFontDataUrl: standardFontsUrl,
+        isEvalSupported: params.get('ie') !== '0',
+      }).promise;
+      pages = pdfDoc.numPages;
+      $('loading').style.display = 'none';
+      $('container').style.display = 'flex';
+      const first = await pdfDoc.getPage(1);
+      firstVp = first.getViewport({ scale: 1 });
+      fitScale = computeFitScale();
+      for (let i = 1; i <= pages; i++) {
+        const el = document.createElement('div');
+        el.className = 'pagewrap';
+        const cv = document.createElement('canvas');
+        el.appendChild(cv);
+        $('container').appendChild(el);
+        pageEls[i - 1] = cv;
+      }
+      updatePager();
+      await setScale(fitScale, false);
+    }
+
+    let switching = false;
+    async function switchToPdf() {
+      if (switching || mode !== 'png') return;
+      switching = true;
+      // فشل صورة في وضع png → مسح اللوحات والرجوع إلى pdf.js
+      $('container').innerHTML = '';
+      pageEls = [];
+      natural = [];
+      if (imgObserver) { imgObserver.disconnect(); imgObserver = null; }
+      mode = 'pdf';
+      await canvasesInit();
+      switching = false;
+    }
+
+    async function renderPage(n, scaleCss) {
+      const dpr = window.devicePixelRatio || 1;
+      const page = await pdfDoc.getPage(n);
+      const vp = page.getViewport({ scale: 1 });
+      const cv = pageEls[n - 1];
+      cv.style.width = Math.floor(vp.width * scaleCss) + 'px';
+      cv.style.height = Math.floor(vp.height * scaleCss) + 'px';
+      cv.width = Math.floor(vp.width * scaleCss * dpr);
+      cv.height = Math.floor(vp.height * scaleCss * dpr);
+      if (renderTasks[n - 1]) {
+        try { renderTasks[n - 1].cancel(); } catch (_) {}
+      }
+      const task = page.render({
+        canvasContext: cv.getContext('2d'),
+        viewport: page.getViewport({ scale: scaleCss * dpr }),
+      });
+      renderTasks[n - 1] = task;
+      try {
+        await task.promise;
+      } finally {
+        if (renderTasks[n - 1] === task) renderTasks[n - 1] = null;
+      }
+    }
+
+    // كل طلبات تغيير المقاس تُدمج في سلسلة واحدة (لا يتشابك رسمان على اللوحات)
+    function enqueueScale(s, scrollToCurrent) {
+      pending = { s: Math.max(0.25, Math.min(5, s)), scroll: !!scrollToCurrent };
+      chain = chain.then(async () => {
+        if (!pending) return;
+        const job = pending;
+        pending = null;
+        scale = job.s;
+        setZoomButtons();
+        if (mode === 'png') {
+          applyScaleToImages(scale);
+        } else if (pdfDoc) {
+          for (let i = 1; i <= pages; i++) await renderPage(i, scale);
+        }
+        if (job.scroll) {
+          const target = pageEls[(current - 1) || 0];
+          if (target) target.scrollIntoView({ behavior: 'smooth' });
+        }
+        updatePager();
+      });
+      return chain;
+    }
+
+    function setScale(s, scrollToCurrent) {
+      return enqueueScale(s, scrollToCurrent);
+    }
+
+    function zoomBy(factor) {
+      const base = pending ? pending.s : scale;
+      return enqueueScale(base * factor, true);
+    }
+
+    // الرجوع إلى المحاور الفرعية داخل التطبيق
+    $('back').onclick = () => {
+      const target = String(location.href).split('viewer.html')[0] + '?review=1';
+      try {
+        if (window.opener && !window.opener.closed) {
+          window.opener.location.href = target;
+          window.close();
+          return;
+        }
+      } catch (_) {}
+      location.href = target;
+    };
+    $('zoomin').onclick = () => zoomBy(1.25);
+    $('zoomout').onclick = () => zoomBy(1 / 1.25);
+    $('fit').onclick = () => {
+      fitScale = computeFitScale();
+      enqueueScale(fitScale, true);
+    };
+    let resizeTimer = null;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(() => {
+        const wasFit = Math.abs(scale - fitScale) < 1e-4;
+        fitScale = computeFitScale();
+        if (wasFit) setScale(fitScale, false);
+      }, 250);
+    });
+    $('prev').onclick = () => { if (current > 1) { current--; pageEls[current - 1].scrollIntoView({ behavior: 'smooth' }); updatePager(); } };
+    $('next').onclick = () => { if (current < pages) { current++; pageEls[current - 1].scrollIntoView({ behavior: 'smooth' }); updatePager(); } };
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    $('container').addEventListener('scroll', onScroll, { passive: true });
+    function onScroll() {
+      if (!pageEls.length) return;
+      const box = $('container');
+      const b = box.getBoundingClientRect();
+      let best = current, bestScore = -1;
+      for (let i = 0; i < pageEls.length; i++) {
+        const r = pageEls[i].getBoundingClientRect();
+        const vis = Math.max(0, Math.min(r.bottom, b.bottom) - Math.max(r.top, b.top));
+        if (vis > bestScore) { bestScore = vis; best = i + 1; }
+      }
+      if (best !== current) { current = best; firePage(pageEls[current - 1]); updatePager(); }
+    }
+
+    async function open() {
+      if (!rawPath) return showErr('لم يُحدَّد مسار الملف.');
+      // 1) نقيس إمكانية الصفحات المصوّرة (MuPDF): لا حاجة لتشكيل حروف في المتصفح
+      try {
+        const mresp = await fetch(location.origin + '/api/review-files/meta?path=' + encodeURIComponent(rawPath));
+        if (mresp.ok) {
+          const meta = await mresp.json();
+          if (meta.mode === 'png' && meta.pages && meta.natural && meta.natural.length) {
+            pages = meta.pages;
+            natural = meta.natural.map(n => ({ w: n[0], h: n[1] }));
+            $('loading').style.display = 'none';
+            $('container').style.display = 'flex';
+            setupPng();
+            return;
+          }
+        }
+      } catch (_) {}
+      // 2) احتياط: العرض التقليدي عبر pdf.js
+      if (!pdfjsLib) return showErr('فشل تحميل مكتبة عرض PDF من الإنترنت.');
+      $('container').style.display = 'flex';
+      await canvasesInit();
+    }
+
+    open().catch(e => showErr('خطأ غير متوقع: ' + (e && e.message ? e.message : e)));
+  </script>
+</body>
+</html>

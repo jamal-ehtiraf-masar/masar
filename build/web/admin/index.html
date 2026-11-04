@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>لوحة التحكم — مسار Ehtiraf</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  :root { --gold:#F2C75C; --gold-soft:rgba(242,199,92,.10); --gold-line:rgba(242,199,92,.30); --bg:#0b2f33; --ink:#F4EEDF; }
+  body { background:var(--bg); color:var(--ink); font-family:'Tajawal','Segoe UI',sans-serif; min-height:100vh; }
+  body > main { max-width:980px; margin:0 auto; padding:24px 16px 80px; }
+  h1 { font-size:24px; font-weight:900; color:#F6E3AC; }
+  .row { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .card { background:rgba(0,0,0,.22); border:1px solid var(--gold-line); border-radius:18px; padding:20px; margin-top:18px; }
+  .card h2 { font-size:18px; font-weight:800; color:var(--gold); margin-bottom:12px; display:flex; gap:8px; align-items:center; }
+  .card h2 .dot { width:9px; height:9px; border-radius:50%; background:var(--gold); flex:none; }
+  label { display:block; font-size:13.5px; color:rgba(244,238,223,.75); margin:10px 0 4px; }
+  input[type=text], input[type=password], input[type=number], textarea, select {
+    width:100%; background:rgba(0,0,0,.30); color:var(--ink); border:1px solid rgba(242,199,92,.25);
+    border-radius:10px; padding:10px 12px; font-family:inherit; font-size:14.5px; outline:none;
+  }
+  input:focus, textarea:focus { border-color:var(--gold); }
+  textarea { min-height:76px; resize:vertical; line-height:1.7; }
+  button { font-family:inherit; cursor:pointer; border:none; border-radius:12px; padding:11px 22px; font-weight:800; font-size:15px; }
+  .btn-gold { background:var(--gold); color:#0b2f33; }
+  .btn-gold:hover { filter:brightness(1.08); }
+  .btn-ghost { background:rgba(242,199,92,.12); color:#F6E3AC; border:1px solid var(--gold-line); }
+  .btn-danger { background:rgba(220,80,80,.18); color:#F3ACAC; border:1px solid rgba(220,80,80,.4); }
+  .btn-sm { padding:7px 14px; font-size:13px; border-radius:9px; }
+  .switch { position:relative; display:inline-flex; align-items:center; gap:10px; cursor:pointer; user-select:none; }
+  .switch input { display:none; }
+  .switch .track { width:46px; height:26px; border-radius:20px; background:rgba(0,0,0,.4); border:1px solid rgba(242,199,92,.3); position:relative; transition:.2s; }
+  .switch .track::after { content:''; position:absolute; top:2px; right:2px; width:20px; height:20px; border-radius:50%; background:rgba(244,238,223,.55); transition:.2s; }
+  .switch input:checked + .track { background:var(--gold-soft); border-color:var(--gold); }
+  .switch input:checked + .track::after { background:var(--gold); transform:translateX(-20px); }
+  .toast { position:fixed; bottom:22px; left:50%; transform:translateX(-50%); background:var(--gold); color:#0b2f33;
+    padding:12px 24px; border-radius:12px; font-weight:800; font-size:14.5px; opacity:0; pointer-events:none; transition:.25s; z-index:50; }
+  .toast.show { opacity:1; }
+  .stats { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:12px; }
+  .stat { background:rgba(242,199,92,.07); border:1px solid var(--gold-line); border-radius:14px; padding:14px; text-align:center; }
+  .stat b { display:block; font-size:26px; color:#F6E3AC; font-weight:900; }
+  .stat span { font-size:12.5px; color:rgba(244,238,223,.65); }
+  table { width:100%; border-collapse:collapse; margin-top:10px; }
+  th, td { padding:9px 10px; text-align:right; font-size:13.5px; border-bottom:1px solid rgba(242,199,92,.15); }
+  th { color:var(--gold); font-weight:800; background:rgba(242,199,92,.06); }
+  .badge { font-size:11.5px; padding:3px 10px; border-radius:8px; font-weight:700; }
+  .badge-on { background:rgba(94,190,120,.18); color:#9BD9B0; border:1px solid rgba(94,190,120,.4); }
+  .badge-off { background:rgba(0,0,0,.25); color:rgba(244,238,223,.55); border:1px solid rgba(242,199,92,.2); }
+  .feat-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:10px; }
+  .feat { display:flex; justify-content:space-between; align-items:center; background:rgba(0,0,0,.25);
+    border:1px solid rgba(242,199,92,.18); border-radius:12px; padding:12px 14px; }
+  .feat span { font-size:14.5px; font-weight:700; }
+  header.top { display:flex; justify-content:space-between; align-items:center; gap:12px; padding:8px 4px 0; flex-wrap:wrap; }
+  .muted { font-size:12.5px; color:rgba(244,238,223,.55); }
+  /* شاشة الدخول */
+  #login { max-width:380px; margin:90px auto 0; }
+  #login .card { text-align:center; padding:30px 24px; }
+  #login img { width:76px; height:76px; border-radius:50%; border:3px solid var(--gold); }
+  #login h1 { margin:12px 0 4px; font-size:22px; }
+  .hidden { display:none !important; }
+  .err { color:#F3ACAC; font-size:13.5px; margin-top:8px; min-height:18px; }
+  iframe.preview { width:100%; height:190px; border:1px solid var(--gold-line); border-radius:12px; background:#081f22; }
+</style>
+</head>
+<body>
+
+<!-- ===== شاشة الدخول ===== -->
+<main>
+  <section id="login">
+    <div class="card">
+      <img src="../assets/assets/images/%D8%B4%D8%B9%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%821.png" alt="">
+      <h1>لوحة التحكم</h1>
+      <div class="muted">تطبيق «مسار Ehtiraf» — إدارة عن بُعد</div>
+      <label style="text-align:right">عنوان الخادم</label>
+      <input type="text" id="serverBase" placeholder="http://192.168.0.162:8123">
+      <label style="text-align:right">اسم المستخدم</label>
+      <input type="text" id="uUser" autocomplete="username">
+      <label style="text-align:right">كلمة المرور</label>
+      <input type="password" id="uPass" autocomplete="current-password">
+      <div class="err" id="loginErr"></div>
+      <button class="btn-gold" style="width:100%" onclick="doLogin()">دخول</button>
+      <div class="muted" style="margin-top:10px">الجلسة تعمل 12 ساعة ثم تحفظ كلمة المرور تلقائياً في هذا المتصفح.</div>
+    </div>
+  </section>
+
+  <!-- ===== اللوحة ===== -->
+  <section id="panel" class="hidden">
+    <header class="top">
+      <div class="row">
+        <img src="../assets/assets/images/%D8%B4%D8%B9%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%821.png" style="width:44px;height:44px;border-radius:50%;border:2px solid var(--gold)" alt="">
+        <div>
+          <h1 style="font-size:20px">لوحة التحكم — مسار Ehtiraf</h1>
+          <div class="muted" id="serverLabel"></div>
+        </div>
+      </div>
+      <div class="row">
+        <button class="btn-ghost btn-sm" onclick="logout()" title="خروج يمسح التوكن من هذا الجهاز">خروج</button>
+      </div>
+    </header>
+
+    <!-- الإحصائيات -->
+    <div class="card">
+      <h2><span class="dot"></span> الإحصائيات الحية <button class="btn-ghost btn-sm" style="margin-inline-start:auto" onclick="loadStats()">تحديث ⟳</button></h2>
+      <div class="stats" id="stats"></div>
+    </div>
+
+    <!-- وضع الصيانة -->
+    <div class="card">
+      <h2><span class="dot"></span> وضع الصيانة</h2>
+      <label class="switch"><input type="checkbox" id="maintOn"><span class="track"></span><span>إيقاف التطبيق مؤقتاً لكل المستخدمين</span></label>
+      <label>رسالة الصيانة (تظهر على شاشة الإيقاف)</label>
+      <textarea id="maintMsg" maxlength="300"></textarea>
+    </div>
+
+    <!-- إجبار التحديث -->
+    <div class="card">
+      <h2><span class="dot"></span> إجبار التحديث</h2>
+      <label class="switch"><input type="checkbox" id="forceOn"><span class="track"></span><span>إجبار المستخدمين على التحديث</span></label>
+      <div class="row" style="align-items:stretch">
+        <div style="flex:1;min-width:180px">
+          <label>أقل إصدار مسموح (مثال: 1.0.4 — من يحمل أقدم يُجبَر وبقوة)</label>
+          <input type="text" id="forceMin" placeholder="0.0.0">
+        </div>
+        <div style="flex:2;min-width:240px">
+          <label>رابط التحميل (اختياري)</label>
+          <input type="text" id="forceUrl" placeholder="https://...">
+        </div>
+      </div>
+      <label>رسالة التحديث</label>
+      <textarea id="forceMsg" maxlength="300"></textarea>
+    </div>
+
+    <!-- إعلان مؤقت -->
+    <div class="card">
+      <h2><span class="dot"></span> الإعلان المؤقت داخل التطبيق</h2>
+      <label class="switch"><input type="checkbox" id="annOn"><span class="track"></span><span>إظهار إعلان عند فتح التطبيق</span></label>
+      <label>العنوان القصير</label>
+      <input type="text" id="annTitle" maxlength="80">
+      <label>نص الإعلان</label>
+      <textarea id="annMsg" maxlength="500"></textarea>
+      <div class="muted" style="margin-top:6px">كل تعديل وتحفظه يعطي الإعلان معرّفاً جديداً فيُعرض مرة أخرى لكل المستخدمين.</div>
+    </div>
+
+    <!-- مفاتيح الميزات -->
+    <div class="card">
+      <h2><span class="dot"></span> مفاتيح الميزات (تشغيل/إخفاء بضغطة)</h2>
+      <div class="feat-grid" id="featGrid"></div>
+      <div class="muted" style="margin-top:8px">تُستبدل فوراً في التطبيق عند الفتح القادم — دون كود ولا نشر.</div>
+    </div>
+
+    <!-- الإعلانات والدفع -->
+    <div class="card">
+      <h2><span class="dot"></span> الإعلانات والاشتراك (Monetization)</h2>
+      <div class="feat-grid">
+        <div class="feat" style="flex-direction:column;align-items:stretch">
+          <label class="switch" style="justify-content:space-between"><input type="checkbox" id="adsOn"><span class="track"></span><span>الإعلانات التجارية</span></label>
+          <label>نص مكان الإعلان</label><input type="text" id="adsLabel" maxlength="80">
+          <label>رابط (اختياري)</label><input type="text" id="adsUrl" maxlength="300">
+        </div>
+        <div class="feat" style="flex-direction:column;align-items:stretch">
+          <label class="switch" style="justify-content:space-between"><input type="checkbox" id="monOn"><span class="track"></span><span>الاشتراكات/الباقات المدفوعة</span></label>
+          <label>نص الزر/السعر</label><input type="text" id="monLabel" maxlength="80">
+          <label>رابط الاشتراك</label><input type="text" id="monUrl" maxlength="300">
+        </div>
+      </div>
+    </div>
+
+    <!-- بنوك الأسئلة -->
+    <div class="card">
+      <h2><span class="dot"></span> بنوك الأسئلة <button class="btn-ghost btn-sm" style="margin-inline-start:auto" onclick="loadBanks()">تحديث ⟳</button></h2>
+      <div class="muted" id="banksDir"></div>
+      <table id="banksTable"><tbody></tbody></table>
+      <hr style="border:none;border-top:1px solid rgba(242,199,92,.18);margin:16px 0">
+      <label>رفع/تحديث بنك JSON — اختر ملفاً من جهازك ثم اضغط رفع</label>
+      <div class="row">
+        <input type="file" id="bankFile" accept=".json" style="background:rgba(0,0,0,.3);flex:1;min-width:220px;color:var(--ink)">
+        <button class="btn-gold" onclick="uploadBank()">رفع إلى الخادم</button>
+      </div>
+      <div class="muted" style="margin-top:6px">اسم الملف يصبح مساره: <b>/api/question-banks/&lt;اسم الملف&gt;</b> — التطبيق يجله فوراً بما أنه يُجلب من الخادم.</div>
+    </div>
+
+    <div class="row" style="justify-content:center;margin-top:26px">
+      <button class="btn-gold" style="padding:14px 44px" onclick="saveConfig()">💾 حفظ كل التغييرات</button>
+      <button class="btn-ghost" onclick="loadAll()">استعادة من الخادم</button>
+    </div>
+    <div class="muted" style="text-align:center;margin-top:10px">التحديثات تنطبق فوراً على التطبيق عند الفتح القادم (وبهجَة دورية كل دقيقتين أثناء الاستعمال).</div>
+  </section>
+</main>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(function () {
+  'use strict';
+  // === الحالة ===
+  var base = localStorage.getItem('masarAdminBase') || location.origin;
+  var token = sessionStorage.getItem('masarAdminToken') || '';
+  var pass = localStorage.getItem('masarAdminPass') || '';
+  var user = localStorage.getItem('masarAdminUser') || 'admin';
+  var cfg = null;
+  var FEAT_LABELS = {
+    review: 'بطاقات المراجعة',
+    quiz: 'الكويز',
+    jawaaher: 'جواهر الكفاءة (اللعبة)',
+    mindMaps: 'الخرائط الذهنية',
+    liveRooms: 'القاعات الصوتية الحية',
+    history: 'بطاقة التاريخ',
+    friends: 'الأصدقاء والترتيب',
+  };
+
+  function $(id) { return document.getElementById(id); }
+  function api(path, opts) {
+    opts = opts || {};
+    opts.headers = Object.assign({ 'Authorization': 'Bearer ' + token }, opts.headers || {});
+    return fetch(base + path, opts).then(function (r) {
+      if (r.status === 401) { showLogin(); throw new Error('انتهت الجلسة — أعد الدخول'); }
+      return r.json();
+    });
+  }
+  function toast(msg, ok) {
+    var t = $('toast');
+    t.textContent = msg;
+    t.style.background = ok === false ? '#E06B6B' : 'var(--gold)';
+    t.style.color = ok === false ? '#fff' : '#0b2f33';
+    t.classList.add('show');
+    clearTimeout(t._h); t._h = setTimeout(function () { t.classList.remove('show'); }, 2600);
+  }
+
+  // === الدخول ===
+  function showLogin() { $('login').classList.remove('hidden'); $('panel').classList.add('hidden'); }
+  function showPanel() { $('login').classList.add('hidden'); $('panel').classList.remove('hidden'); }
+  window.doLogin = function () {
+    base = $('serverBase').value.trim().replace(/\/+$/, '') || location.origin;
+    localStorage.setItem('masarAdminBase', base);
+    fetch(base + '/api/admin/login', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ user: $('uUser').value.trim(), pass: $('uPass').value }),
+    }).then(function (r) { return r.json(); }).then(function (d) {
+      if (!d.ok) throw new Error(d.error || 'فشل الدخول');
+      token = d.token;
+      pass = $('uPass').value; user = $('uUser').value.trim();
+      localStorage.setItem('masarAdminPass', pass);
+      localStorage.setItem('masarAdminUser', user);
+      sessionStorage.setItem('masarAdminToken', token);
+      boot();
+      toast('مرحباً بك — تم الدخول ✓');
+    }).catch(function (e) { $('loginErr').textContent = e.message; });
+  };
+  window.logout = function () {
+    token = ''; sessionStorage.removeItem('masarAdminToken'); showLogin();
+  };
+
+  // === فتح اللوحة: الإعدادات + الإحصائيات + البنوك ===
+  function boot() {
+    $('serverLabel').textContent = 'متصل بـ ' + base;
+    showPanel();
+    loadAll();
+  }
+  function loadAll() {
+    api('/api/app-config').then(function (d) {
+      cfg = d.config;
+      paint();
+    }).catch(function (e) { toast(e.message, false); });
+    loadStats(); loadBanks();
+  }
+  function paint() {
+    $('maintOn').checked = cfg.maintenance.enabled;
+    $('maintMsg').value = cfg.maintenance.message;
+    $('forceOn').checked = cfg.forceUpdate.enabled;
+    $('forceMin').value = cfg.forceUpdate.minVersion;
+    $('forceUrl').value = cfg.forceUpdate.url;
+    $('forceMsg').value = cfg.forceUpdate.message;
+    $('annOn').checked = cfg.announcement.enabled;
+    $('annTitle').value = cfg.announcement.title;
+    $('annMsg').value = cfg.announcement.message;
+    $('adsOn').checked = cfg.ads.enabled;
+    $('adsLabel').value = cfg.ads.label;
+    $('adsUrl').value = cfg.ads.url;
+    $('monOn').checked = cfg.monetization.enabled;
+    $('monLabel').value = cfg.monetization.label;
+    $('monUrl').value = cfg.monetization.url;
+    var g = $('featGrid'); g.innerHTML = '';
+    Object.keys(FEAT_LABELS).forEach(function (k) {
+      var on = cfg.features[k];
+      var div = document.createElement('div'); div.className = 'feat';
+      div.innerHTML = '<span>' + FEAT_LABELS[k] + '</span>';
+      var sw = document.createElement('label'); sw.className = 'switch';
+      var cb = document.createElement('input'); cb.type = 'checkbox'; cb.checked = on;
+      var tr = document.createElement('span'); tr.className = 'track';
+      sw.appendChild(cb); sw.appendChild(tr); div.appendChild(sw); g.appendChild(div);
+    });
+    // شارة عامة
+  }
+  window.saveConfig = function () {
+    var c = {};
+    // قراءة الميزات من الشبكة
+    var inputs = $('featGrid').querySelectorAll('input[type=checkbox]');
+    var keys = Object.keys(FEAT_LABELS); var feats = {};
+    keys.forEach(function (k, i) { feats[k] = inputs[i].checked; });
+    c.maintenance = { enabled: $('maintOn').checked, message: $('maintMsg').value.trim() };
+    c.forceUpdate = { enabled: $('forceOn').checked, minVersion: $('forceMin').value.trim(), message: $('forceMsg').value.trim(), url: $('forceUrl').value.trim() };
+    c.announcement = { enabled: $('annOn').checked, title: $('annTitle').value.trim(), message: $('annMsg').value.trim() };
+    c.features = feats;
+    c.ads = { enabled: $('adsOn').checked, label: $('adsLabel').value.trim(), url: $('adsUrl').value.trim() };
+    c.monetization = { enabled: $('monOn').checked, label: $('monLabel').value.trim(), url: $('monUrl').value.trim() };
+    api('/api/admin/config', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ config: c }),
+    }).then(function (d) {
+      if (!d.ok) throw new Error(d.error || 'فشل الحفظ');
+      cfg = d.config; paint();
+      loadStats();
+      toast('حُفظ كل التغييرات ✓ — تنطبق فوراً على التطبيق');
+    }).catch(function (e) { toast(e.message, false); });
+  };
+
+  // === الإحصائيات ===
+  function fmtUp(s) {
+    var d = Math.floor(s / 86400), h = Math.floor(s % 86400 / 3600), m = Math.floor(s % 3600 / 60);
+    return (d ? d + 'ي ' : '') + h + 'س ' + m + 'د';
+  }
+  window.loadStats = function () {
+    api('/api/admin/stats').then(function (d) {
+      if (!d.ok) return;
+      var rows = [
+        ['المستخدمون المسجّلون', d.accounts],
+        ['جدد خلال 7 أيام', d.accountsNew7d],
+        ['القاعات', d.rooms],
+        ['قاعات دردشة نشطة', d.chatRooms],
+        ['رسائل الدردشة', d.chatMessages],
+        ['تعليقات البطاقات', d.comments],
+        ['بنوك الأسئلة', d.banks],
+        ['ملفات مرفوعة', d.uploads],
+        ['عمر التشغيل', fmtUp(d.uptimeSec)],
+      ];
+      var box = $('stats'); box.innerHTML = '';
+      rows.forEach(function (r) {
+        var el = document.createElement('div'); el.className = 'stat';
+        el.innerHTML = '<b>' + r[1] + '</b><span>' + r[0] + '</span>';
+        box.appendChild(el);
+      });
+    }).catch(function () {});
+  };
+
+  // === البنوك ===
+  window.loadBanks = function () {
+    api('/api/admin/banks').then(function (d) {
+      if (!d.ok) return;
+      $('banksDir').textContent = 'المجلد على الخادم: ' + d.dir;
+      var tb = $('banksTable').querySelector('tbody'); tb.innerHTML = '';
+      if (!d.banks.length) { tb.innerHTML = '<tr><td class="muted">لا بنوك بعد — ارفع ملف JSON أول عمل.</td></tr>'; return; }
+      d.banks.forEach(function (b) {
+        var tr = document.createElement('tr');
+        var size = b.bytes > 1048576 ? (b.bytes / 1048576).toFixed(1) + ' MB' : Math.round(b.bytes / 1024) + ' KB';
+        var date = new Date(b.updatedAt).toLocaleString('ar', { dateStyle: 'short', timeStyle: 'short' });
+        tr.innerHTML = '<td>' + b.name + '</td><td>' + size + '</td><td>' + date + '</td>' +
+          '<td><a href="' + base + '/api/question-banks/' + encodeURIComponent(b.name) + '" target="_blank" style="color:#8AB4F8">معاينة</a></td>';
+        tb.appendChild(tr);
+      });
+    }).catch(function () {});
+  };
+  window.uploadBank = function () {
+    var f = $('bankFile').files[0];
+    if (!f) { toast('اختر ملف JSON أولاً', false); return; }
+    var fr = new FileReader();
+    fr.onload = function () {
+      var data;
+      try { data = JSON.parse(fr.result); }
+      catch (e) { toast('الملف ليس JSON سليماً', false); return; }
+      api('/api/admin/bank/upload', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: f.name, data: data }),
+      }).then(function (d) {
+        if (!d.ok) throw new Error(d.error || 'فشل الرفع');
+        toast('رُفع البنك ' + d.name + ' ✓ متاح للتطبيق الآن');
+        loadBanks(); loadStats();
+      }).catch(function (e) { toast(e.message, false); });
+    };
+    fr.readAsText(f, 'utf-8');
+  };
+
+  // === إقلاع الصفحة ===
+  $('serverBase').value = base;
+  $('uUser').value = user || 'admin';
+  if (pass) $('uPass').value = pass;
+  function tryResume() {
+    if (!token) { showLogin(); return; }
+    fetch(base + '/api/admin/stats', { headers: { 'Authorization': 'Bearer ' + token } })
+      .then(function (r) { if (r.status === 401) throw 0; return r.json(); })
+      .then(function (d) { if (d.ok) { boot(); } else { showLogin(); } })
+      .catch(function () { showLogin(); });
+  }
+  tryResume();
+
+  // تحديث الإحصائيات دورياً أثناء فتح اللوحة
+  setInterval(function () {
+    if (token && !$('panel').classList.contains('hidden')) loadStats();
+  }, 60000);
+})();
+</script>
+</body>
+</html>

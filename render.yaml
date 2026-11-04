@@ -1,0 +1,26 @@
+# Render Blueprint — مسار Ehtiraf (مجاني، بلا بطاقة)
+services:
+  - type: web
+    name: masar-ehtiraf
+    runtime: node
+    plan: free
+    region: frankfurt
+    healthCheckPath: /health
+    buildCommand: true
+    startCommand: node server.js
+    envVars:
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_KEY
+        sync: false
+      - key: GOOGLE_CLIENT_IDS
+        sync: false
+      - key: FB_APP_ID
+        sync: false
+      - key: FB_APP_SECRET
+        sync: false
+      - key: FB_CLIENT_TOKEN
+        sync: false
+      - key: ADMIN_NAME
+        sync: false
+    autoDeploy: true
