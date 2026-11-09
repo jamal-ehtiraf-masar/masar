@@ -37,27 +37,101 @@ export class Bank {
     this.totalQuestions = 0;
   }
 
-  async load() {
-    const paths = [CONFIG.bankPath, CONFIG.bankFallbackPath].filter(Boolean);
-    let res = null;
+  /* ---- كاش محلي: اللعبة تُفتح فوراً من الذاكرة بلا انتظار الشبكة ---- */
+  static get CACHE_KEY() { return "masar_bank_cache_v1"; }
+  static get CACHE_TTL() { return 48 * 3600 * 1000; } /* تحديث خلفي كل 48 ساعة */
+
+  _readCache() {
+    try {
+      const raw = localStorage.getItem(Bank.CACHE_KEY);
+      if (!raw) return null;
+      const parsed = JSON.parse(raw);
+      if (parsed && parsed.data) return parsed;
+    } catch (_) {}
+    return null;
+  }
+
+  _saveCache(data) {
+    try {
+      localStorage.setItem(
+        Bank.CACHE_KEY,
+        JSON.stringify({ t: Date.now(), data }),
+      );
+    } catch (_) {} /* تجاوز سعة التخزين بهدوء — اللعبة تعمل بكاش الذاكرة الحالي */
+  }
+
+  /* جلب البنك من الشبكة — يجرّب المصادر بالترتيب مع مهلة 25 ثانية للمصدر */
+  async _fetchFromNetwork() {
+    const paths = [
+      ...(CONFIG.bankCdnPaths || []),
+      CONFIG.bankPath,
+      CONFIG.bankFallbackPath,
+    ].filter(Boolean);
     let lastErr = null;
     for (const p of paths) {
       try {
-        const r = await fetch(p, { cache: "no-store" });
-        if (r.ok) { res = r; break; }
+        const ctrl =
+          typeof AbortController !== "undefined" ? new AbortController() : null;
+        const timer = ctrl ? setTimeout(() => ctrl.abort(), 25000) : null;
+        const r = await fetch(p, ctrl ? { signal: ctrl.signal } : {});
+        if (timer) clearTimeout(timer);
+        if (r.ok) {
+          const data = await r.json();
+          if (data && typeof data === "object") return data;
+          lastErr = new Error("بنك غير صالح أو فارغ");
+          continue;
+        }
         lastErr = new Error("تعذّر تحميل بنك الأسئلة (" + r.status + ")");
       } catch (e) {
         lastErr = e;
       }
     }
-    if (!res) throw lastErr || new Error("تعذّر تحميل بنك الأسئلة");
-    const data = await res.json();
+    return null;
+  }
+
+  /* تحديث خلفي هادئ: يعمل بعد فتح اللعبة، لا يعطّل الجلسة الحالية */
+  async _refreshInBackground() {
+    try {
+      const data = await this._fetchFromNetwork();
+      if (data) this._saveCache(data);
+    } catch (_) {}
+  }
+
+  async load() {
+    /* 1) كاش محلي موجود؟ افتح فوراً ثم حدّث خلفياً عند انتهاء مدة الصلاحية */
+    const cached = this._readCache();
+    if (cached) {
+      this._digest(cached.data);
+      if (Date.now() - (cached.t || 0) > Bank.CACHE_TTL) {
+        this._refreshInBackground();
+      }
+      if (this.chapters.length) return this;
+      /* كاش تالف/فارغ → تابع للشبكة */
+    }
+
+    /* 2) أول فتح (بلا كاش): جلب فوري من أسرع مصدر متاح */
+    const data = await this._fetchFromNetwork();
+    if (!data) {
+      throw new Error(
+        "تعذّر تحميل بنك الأسئلة — تأكد من اتصالك بالإنترنت وأعد المحاولة",
+      );
+    }
+    this._digest(data);
+    this._saveCache(data);
+    return this;
+  }
+
+  /* بناء الخريطة والمستويات من بيانات البنك الخام */
+  _digest(data) {
     const group = data[CONFIG.bankGroup] || data[Object.keys(data)[0]] || [];
 
     this.bySubject.clear();
     let idx = 0;
     for (const q of group) {
       if (!q || !q.subject || !Array.isArray(q.options)) continue;
+      /* مرشّح سلامة: استبعد الأسئلة الفاسدة (خيارات شاذة العدد — كانت أوزار تححق 4) */
+      if (q.options.length < 2 || q.options.length > 6) continue;
+      if (!(q.correctIndex >= 0 && q.correctIndex < q.options.length)) continue;
       if (!this.bySubject.has(q.subject)) this.bySubject.set(q.subject, []);
       this.bySubject
         .get(q.subject)
@@ -67,7 +141,6 @@ export class Bank {
 
     this._buildChapters();
     this.ready = true;
-    return this;
   }
 
   _buildChapters() {
